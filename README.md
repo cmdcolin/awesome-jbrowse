@@ -179,6 +179,7 @@ A list of cool jbrowse stuff and links around the web
 - PopFly - http://popfly.uab.cat/
 - Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - iMethyl http://imethyl.iwate-megabank.org/genomebrowser.html
+- Proteogenomics browser http://bioinfo.vanderbilt.edu/proteogenomics/?data=cancer%2Fdata&loc=chr12%3A1..133851895&tracks=CPTAC_CRC_ALL_variants_alignment&highlight=
 
 # Plugins
 
