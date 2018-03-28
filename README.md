@@ -87,6 +87,7 @@ A list of cool jbrowse stuff and links around the web
 - CottenGen http://www.cottongen.org/
 - CottonFGD https://cottonfgd.org (instance https://cottonfgd.org/jbrowse/?data=data%2FGhir-NAU&loc=A01%3A42794028..43538019&tracks=DNA%2CGC%20Content%2Cgene&highlight=)
 - MedicagoGenome http://www.medicagogenome.org/ (instance http://www.medicagogenome.org/tools/jbrowse)
+- LegumeInfo https://legumeinfo.org/genomes/
 - Arabadopsis http://asrp.danforthcenter.org/athaliana
 - Cool Season Food Legume https://www.coolseasonfoodlegume.org/
 - Kitbase http://kitbase.ucdavis.edu/link.html
@@ -116,6 +117,10 @@ A list of cool jbrowse stuff and links around the web
 - Sunflower https://sunflowergenome.org
 - Barley epigenome https://ics.hutton.ac.uk/barley-epigenome/
 - Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
+- Sweet potato http://sweetpotato.plantbiology.msu.edu
+- DBcherry http://cherry.kazusa.or.jp/
+- Asparagus http://asparagus.uga.edu
+
 
 ## Microbes
 
@@ -127,7 +132,7 @@ A list of cool jbrowse stuff and links around the web
 - HPVBase http://crdd.osdd.net/servers/hpvbase/ (instance http://crdd.osdd.net/servers/hpvbase/jbrowse/JBrowse-1.11.2/?data=sample_data%2Fjson%2Fhpvmeths31&loc=J04353%3A5462..6612&tracks=DNA%2CWentzensen_et_al._2012_PMID-23093560%2CVasiljevic_et_al._2014_PMID-24468012%2CBrentnall_et_al._2014_PMID-24535756&highlight=)
 - PhyTB http://pathogenseq.lshtm.ac.uk/phytblive/index.php
 - HIV https://www.hiv.lanl.gov (instance https://www.hiv.lanl.gov/content/sequence/jbrowse/?loc=Gag%3A1..500&tracks=PROTEIN%2CSub-protein_map&data=hivdata%2FEpitope-protein&highlight=)
-
+- Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
 # Human
 
 - GWAS browser http://gwas-browser.nygenome.org
@@ -170,7 +175,7 @@ A list of cool jbrowse stuff and links around the web
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 - PopFly - http://popfly.uab.cat/
-
+- Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 
 # Plugins
 
