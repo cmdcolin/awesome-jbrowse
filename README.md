@@ -19,9 +19,9 @@ A list of cool jbrowse stuff and links around the web
 - Mouse Genome Database http://www.informatics.jax.org/ (instance http://jbrowse.informatics.jax.org/?data=data/mouse)
 - WormBase http://www.wormbase.org (instance http://www.wormbase.org/tools/genome/jbrowse-simple/?data=data/c_elegans_PRJNA13758)
 - Yeast Genome Database - http://yeastgenome.org (instance https://browse.yeastgenome.org/)
-- Candida albicans - http://www.candidagenome.org/ (instance http://www.candidagenome.org/jbrowse/index.html?data=cgd_data%2FC_albicans_SC5314&loc=Ca22chr1A_C_albicans_SC5314%3A120518..134787&tracks=DNA%2CTranscribed%20Features%2ChapA_alb_dub_phyloP_scores%2ChapA_CanLod_phyloP_scores%2ChapA_CTG_phyloP_scores%2ChapA_Sacc_phyloP_scores%2Cbruno_nOxi_hapA_coverage&highlight=)
-- Dictybase - http://www.dictybase.org (instance http://dictybase.org/tools/jbrowse/?data=data/jbrowse/fasciculatum)
-- Aspgd aspergillus http://aspgd.org (instance http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=)
+- Candida albicans - http://www.candidagenome.org/ ([instance](http://www.candidagenome.org/jbrowse/index.html?data=cgd_data%2FC_albicans_SC5314&loc=Ca22chr1A_C_albicans_SC5314%3A120518..134787&tracks=DNA%2CTranscribed%20Features%2ChapA_alb_dub_phyloP_scores%2ChapA_CanLod_phyloP_scores%2ChapA_CTG_phyloP_scores%2ChapA_Sacc_phyloP_scores%2Cbruno_nOxi_hapA_coverage&highlight=))
+- Dictybase - http://www.dictybase.org ([instance](http://dictybase.org/tools/jbrowse/?data=data/jbrowse/fasciculatum))
+- Aspgd aspergillus http://aspgd.org ([instance](http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=))
 
 
 ## Drosophila
