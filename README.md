@@ -46,13 +46,18 @@ A list of cool jbrowse stuff and links around the web
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
 
 
-## Invertebrates
+## Fish
 
 - Electric Fish https://efishgenomics.integrativebiology.msu.edu
 - Asian Seabass - http://seabassgb.sanbi.ac.za (instance http://seabassgb.sanbi.ac.za/jbrowse/?data=seabass_jbrowse)
+- Common carp, rainbow trout http://www.fishbrowser.org/
+- Salmon, trout http://salmobase.org/
+
+## Invertebrates
+
 - Crown of thorns starfish - http://marinegenomics.oist.jp/cots/viewer?project_id=46
-- Mnemiopsis Genome Project Portal http://research.nhgri.nih.gov/mnemiopsis/
-- Echinobase http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
+- Mnemiopsis (squid) http://research.nhgri.nih.gov/mnemiopsis/
+- Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
 
 ## Insects
 
@@ -97,7 +102,8 @@ A list of cool jbrowse stuff and links around the web
 - Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
 - Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
 - Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
-
+- Amborella http://amborella.huck.psu.edu/fish
+- MarpolBase http://marchantia.info/
 
 
 ## Virus
@@ -120,6 +126,7 @@ A list of cool jbrowse stuff and links around the web
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
 - 4D browser
 - Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
+- PopHuman http://pophuman.uab.cat/
 
 # JBrowse workflows
 
@@ -127,7 +134,11 @@ A list of cool jbrowse stuff and links around the web
 - myGenomeBrowser https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser
 - IVAG https://genominfo.org/m/journal/view.php?doi=10.5808/GI.2017.15.4.178 (features gwasviewer)
 - CoGe https://genomevolution.org/
-
+- CRISPR-PLANT https://www.genome.arizona.edu/crispr/jbrowse/
+- Fly RNAi www.flyrnai.org
+- CRISPR-RT http://bioinfolab.miamioh.edu/CRISPR-RT/interface/Installation.php CRISPR-DT bioinfolab.miamioh.edu/CRISPR-DT CT-FINDER bioinfolab.miamioh.edu/ct-finder/
+- Cas-Database http://www.rgenome.net/cas-database/
+- CaZY http://www.cazy.org/PULDB/jbrowse.php?data=species%2F130&loc=Ga0105823_103%3A76907..86749&tracks=Protein-coding%20genes%2CPredicted%20PULs%2CCAZyme%20clusters&highlight=
 # Old JBrowse instances
 
 For historical perspective these are fun to view
