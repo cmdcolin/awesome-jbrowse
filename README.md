@@ -134,6 +134,7 @@ A list of cool jbrowse stuff and links around the web
 - HIV https://www.hiv.lanl.gov (instance https://www.hiv.lanl.gov/content/sequence/jbrowse/?loc=Gag%3A1..500&tracks=PROTEIN%2CSub-protein_map&data=hivdata%2FEpitope-protein&highlight=)
 - Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
 - Mycobrowser https://mycobrowser.epfl.ch/genes/MMAR_1971
+- Pseudomonas http://www.pseudomonas.com/strain/browser
 
 # Human
 
@@ -146,6 +147,7 @@ A list of cool jbrowse stuff and links around the web
 - ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
 - ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
 - Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
+- Archaic genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
 
 
 
@@ -177,7 +179,7 @@ A list of cool jbrowse stuff and links around the web
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 - PopFly - http://popfly.uab.cat/
-- Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
+- Pichia genome (yeast) http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - iMethyl http://imethyl.iwate-megabank.org/genomebrowser.html
 - Proteogenomics browser http://bioinfo.vanderbilt.edu/proteogenomics/?data=cancer%2Fdata&loc=chr12%3A1..133851895&tracks=CPTAC_CRC_ALL_variants_alignment&highlight=
 
