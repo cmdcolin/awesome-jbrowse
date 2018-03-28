@@ -48,6 +48,7 @@ A list of cool jbrowse stuff and links around the web
 - Crown of thorns starfish - http://marinegenomics.oist.jp/cots/viewer?project_id=46
 - Mnemiopsis (comc jelly) http://research.nhgri.nih.gov/mnemiopsis/
 - Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
+- WinterMoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 
 ## Insects
 
@@ -161,16 +162,7 @@ A list of cool jbrowse stuff and links around the web
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 - PopFly - http://popfly.uab.cat/
-- Drosophila http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 
-# Dead links
-
-- Pangolin genome database
-- MabsBase http://mabscessus.um.edu.my/
-- Staphylococcus http://staphylococcus.um.edu.my/index.php/home/main
-- Cnidarian http://cnidarians.bu.edu/EdwardBase/cgi-bin/index.cgi
-- Helicobacter http://helicobacter.um.edu.my/index.php/home/main
-- Vibrio http://vibrio.um.edu.my/index.php/home/main
 
 # Plugins
 
@@ -209,6 +201,16 @@ A list of cool jbrowse stuff and links around the web
 For historical perspective these are fun to view
 
 - Genomes Unzipped http://genomesunzipped.org/jbrowse/
+
+# Dead links
+
+- Pangolin genome database
+- MabsBase http://mabscessus.um.edu.my/
+- Staphylococcus http://staphylococcus.um.edu.my/index.php/home/main
+- Cnidarian http://cnidarians.bu.edu/EdwardBase/cgi-bin/index.cgi
+- Helicobacter http://helicobacter.um.edu.my/index.php/home/main
+- Vibrio http://vibrio.um.edu.my/index.php/home/main
+
 
 # Credits
 
