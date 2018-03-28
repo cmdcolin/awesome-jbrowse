@@ -26,8 +26,11 @@ A list of cool jbrowse stuff and links around the web
 - Candida albicans - http://www.candidagenome.org/ (instance http://www.candidagenome.org/jbrowse/index.html?data=cgd_data%2FC_albicans_SC5314&loc=Ca22chr1A_C_albicans_SC5314%3A120518..134787&tracks=DNA%2CTranscribed%20Features%2ChapA_alb_dub_phyloP_scores%2ChapA_CanLod_phyloP_scores%2ChapA_CTG_phyloP_scores%2ChapA_Sacc_phyloP_scores%2Cbruno_nOxi_hapA_coverage&highlight=)
 - Dictybase - http://www.dictybase.org (instance http://dictybase.org/tools/jbrowse/?data=data/jbrowse/fasciculatum)
 - Aspgd aspergillus http://aspgd.org (instance http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=)
+- ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
+
 
 ## Drosophila
+
 - PopFly - popfly.uab.cat/
 - FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
 
@@ -40,13 +43,22 @@ A list of cool jbrowse stuff and links around the web
 - OpossumBase http://www.opossumbase.org/
 - Chinese Hamster - http://www.chogenome.org/JBrowse.php
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
-- Echinobase http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
+- Animal Genome DB - http://i.animalgenome.org/jbrowse/
+
+
+## Invertebrates
+
+- Electric Fish https://efishgenomics.integrativebiology.msu.edu
+- Asian Seabass - http://seabassgb.sanbi.ac.za (instance http://seabassgb.sanbi.ac.za/jbrowse/?data=seabass_jbrowse)
 - Crown of thorns starfish - http://marinegenomics.oist.jp/cots/viewer?project_id=46
 - Mnemiopsis Genome Project Portal http://research.nhgri.nih.gov/mnemiopsis/
-- Animal Genome DB - http://i.animalgenome.org/jbrowse/
+- Echinobase http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
+
+## Insects
+
+- AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
 - VectorBase (mosquito) https://www.vectorbase.org/
 - i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
-
 
 
 ## Plants
@@ -69,7 +81,7 @@ A list of cool jbrowse stuff and links around the web
 - TomatoGenome http://www.tomatogenome.net/
 - Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
 - PeanutBase https://peanutbase.org/
-- PlantMethylome - epigenome.genetics.uga.edu/PlantMethylome/
+- PlantMethylome - http://epigenome.genetics.uga.edu/PlantMethylome/
 - Brassica http://www.bioinformatics.nl/brassica/index.html?data=bras_tp/data
 - CottenGen http://www.cottongen.org/
 - MedicagoGenome http://www.medicagogenome.org/ (instance http://www.medicagogenome.org/tools/jbrowse)
@@ -79,16 +91,12 @@ A list of cool jbrowse stuff and links around the web
 - SpirodelaBase http://sviridis.org/jbrowse
 - Plant Small RNA genes http://plantsmallrnagenes.science.psu.edu/
 - Cucumber, melon http://cucurbitgenomics.org/ (instance http://cucurbitgenomics.org/JBrowse/?data=icugi_data/json/cucumber_v2&tracks=DNA,genes)
-
-### Southgreen platform
-
+- Phytozome - https://phytozome.jgi.doe.gov/ (instances https://phytozome.jgi.doe.gov/jbrowse/index.html)
 - Coffee - http://coffee-genome.org/jbrowse
 - Cassava https://www.cassavagenome.org/?q=page/jbrowse-public
 - Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
 - Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
 - Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
-- AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
-- Phytozome - https://phytozome.jgi.doe.gov/ (instances https://phytozome.jgi.doe.gov/jbrowse/index.html)
 
 
 
@@ -110,6 +118,8 @@ A list of cool jbrowse stuff and links around the web
 
 - GWAS browser http://gwas-browser.nygenome.org
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
+- 4D browser
+- Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
 
 # JBrowse workflows
 
