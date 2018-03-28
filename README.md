@@ -19,7 +19,6 @@ A list of cool jbrowse stuff and links around the web
 # Model organism databases
 
 - XenBase http://www.xenbase.org/entry/ (instance http://www.xenbase.org/common/displayJBrowse.do?data=data/xl9_1)
-- FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
 - Rat Genome Database https://rgd.mcw.edu/ (instance https://rgd.mcw.edu/jbrowse/?data=data_rgd6)
 - Mouse Genome Database http://www.informatics.jax.org/ (instance http://jbrowse.informatics.jax.org/?data=data/mouse)
 - WormBase http://www.wormbase.org (instance http://www.wormbase.org/tools/genome/jbrowse-simple/?data=data/c_elegans_PRJNA13758)
@@ -27,6 +26,10 @@ A list of cool jbrowse stuff and links around the web
 - Candida albicans - http://www.candidagenome.org/ (instance http://www.candidagenome.org/jbrowse/index.html?data=cgd_data%2FC_albicans_SC5314&loc=Ca22chr1A_C_albicans_SC5314%3A120518..134787&tracks=DNA%2CTranscribed%20Features%2ChapA_alb_dub_phyloP_scores%2ChapA_CanLod_phyloP_scores%2ChapA_CTG_phyloP_scores%2ChapA_Sacc_phyloP_scores%2Cbruno_nOxi_hapA_coverage&highlight=)
 - Dictybase - http://www.dictybase.org (instance http://dictybase.org/tools/jbrowse/?data=data/jbrowse/fasciculatum)
 - Aspgd aspergillus http://aspgd.org (instance http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=)
+
+## Drosophila
+- PopFly - popfly.uab.cat/
+- FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
 
 # Non-model organisms
 
@@ -41,14 +44,9 @@ A list of cool jbrowse stuff and links around the web
 - Crown of thorns starfish - http://marinegenomics.oist.jp/cots/viewer?project_id=46
 - Mnemiopsis Genome Project Portal http://research.nhgri.nih.gov/mnemiopsis/
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
+- VectorBase (mosquito) https://www.vectorbase.org/
+- OpossumBase http://www.opossumbase.org/
 
-## Southgreen platform
-- Coffee - http://coffee-genome.org/jbrowse
-- Cassava https://www.cassavagenome.org/?q=page/jbrowse-public
-- Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
-- Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
-- Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
-- AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
 
 ## Plants
 
@@ -67,6 +65,30 @@ A list of cool jbrowse stuff and links around the web
 - Citrus + pathogens https://citrusgreening.org/jbrowse_citrusgreening/current/
 - Citrus + pathogens https://www.citrusgenomedb.org/jbrowses
 - Solanaceae (tomato, pepper, tobacco) https://solgenomics.net/
+- TomatoGenome http://www.tomatogenome.net/
+- Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
+- PeanutBase https://peanutbase.org/
+- PlantMethylome - epigenome.genetics.uga.edu/PlantMethylome/
+- Brassica http://www.bioinformatics.nl/brassica/index.html?data=bras_tp/data
+- CottenGen http://www.cottongen.org/
+- MedicagoGenome http://www.medicagogenome.org/
+
+## Southgreen platform
+
+- Coffee - http://coffee-genome.org/jbrowse
+- Cassava https://www.cassavagenome.org/?q=page/jbrowse-public
+- Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
+- Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
+- Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
+- AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
+
+
+
+# Virus
+
+- ZikaVR http://bioinfo.imtech.res.in/manojk/zikavr/genobrowse.php
+
+# Bacteria
 
 
 # Large deployments
