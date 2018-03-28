@@ -122,6 +122,9 @@ A list of cool jbrowse stuff and links around the web
 - Asparagus http://asparagus.uga.edu
 - PlaBi (potato, A. thaliana, superbeet, brassica napus) http://www.plabipd.de/
 - A. thaliana small RNA https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.html
+- Pennycress http://pennycress.umn.edu/
+- Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
+
 
 ## Microbes
 
@@ -160,7 +163,9 @@ A list of cool jbrowse stuff and links around the web
 - CoGe https://genomevolution.org/
 - WikiGenomes https://wikigenomes.org
 - FISH oracle http://fishoracle.zbh.uni-hamburg.de:8080/fishoracle/ (expired https)
-
+- WebApollo http://genomearchitect.github.io/
+- GenSAS https://www.gensas.org/
+- PhyloNode http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175480
 
 # CRISPR
 
