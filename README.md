@@ -77,6 +77,7 @@ A list of cool jbrowse stuff and links around the web
 - Citrus + pathogens https://www.citrusgenomedb.org/jbrowses
 - Solanaceae (tomato, pepper, tobacco) https://solgenomics.net/
 - TomatoGenome http://www.tomatogenome.net/
+- DeenaBio http://jbrowse.deenabio.com/?data=data%2FSolanum_lycopersicum_V2.50%2F&loc=SL2.50ch01%3A1680396..1680447&tracks=ITAG2.4_gene_models%2CDNA%2C360_genomes_SNPs%2Cspecific%2Cnon-specific%2Csuperfamily%2Cmulti-domains%2Cconserved_sites&highlight=
 - Tomatomics http://bioinf.mind.meiji.ac.jp/tomatomics/
 - Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
 - PeanutBase https://peanutbase.org/
@@ -111,6 +112,8 @@ A list of cool jbrowse stuff and links around the web
 - Mulberry MnTEdb1 http://genedenovoweb.ticp.net:81/MnTEdb1/
 - Alfalfa https://www.alfalfatoolbox.org/
 - sORF A. thaliana https://www.biw.kuleuven.be/CSB/ARA-PEPs/
+- Sunflower https://sunflowergenome.org
+- Barley epigenome https://ics.hutton.ac.uk/barley-epigenome/
 
 
 ## Microbes
