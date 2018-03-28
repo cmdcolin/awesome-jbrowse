@@ -56,6 +56,7 @@ A list of cool jbrowse stuff and links around the web
 - i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 - Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
+- White fly http://whiteflygenomics.org
 
 
 ## Plants
@@ -114,7 +115,7 @@ A list of cool jbrowse stuff and links around the web
 - sORF A. thaliana https://www.biw.kuleuven.be/CSB/ARA-PEPs/
 - Sunflower https://sunflowergenome.org
 - Barley epigenome https://ics.hutton.ac.uk/barley-epigenome/
-
+- Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 
 ## Microbes
 
@@ -137,7 +138,7 @@ A list of cool jbrowse stuff and links around the web
 - CAPER proteome http://www.bprc.ac.cn/CAPE
 - ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
 - ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
-
+- Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
 
 
 
