@@ -86,7 +86,7 @@ A list of cool jbrowse stuff and links around the web
 - PlantMethylome - http://epigenome.genetics.uga.edu/PlantMethylome/
 - Brassica http://www.bioinformatics.nl/brassica/index.html?data=bras_tp/data
 - CottenGen http://www.cottongen.org/
-- CottonFGD http://genome.microbedb.jp/CyanoBase
+- CottonFGD https://cottonfgd.org (instance https://cottonfgd.org/jbrowse/?data=data%2FGhir-NAU&loc=A01%3A42794028..43538019&tracks=DNA%2CGC%20Content%2Cgene&highlight=)
 - MedicagoGenome http://www.medicagogenome.org/ (instance http://www.medicagogenome.org/tools/jbrowse)
 - Arabadopsis http://asrp.danforthcenter.org/athaliana
 - Cool Season Food Legume https://www.coolseasonfoodlegume.org/
@@ -107,6 +107,9 @@ A list of cool jbrowse stuff and links around the web
 - Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
 - TodoFirGene http://plantomics.mind.meiji.ac.jp/todomatsu/
 - Rubber tree http://matsui-lab.riken.jp/rubber/
+- Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
+- PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse)
+- PantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
 
 ## Microbes
 
@@ -147,6 +150,7 @@ A list of cool jbrowse stuff and links around the web
 - REDIPortal - A-to-I editing database http://srv00.recas.ba.infn.it/atlas/ (instanace http://srv00.recas.ba.infn.it/atlas/jbrowse.html)
 - Lnc2Meth http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/browse.jsp
 - Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
+- CLIP-SEQ browser http://lulab.life.tsinghua.edu.cn/clipdb/
 
 # Old JBrowse instances
 
