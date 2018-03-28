@@ -121,6 +121,7 @@ A list of cool jbrowse stuff and links around the web
 - DBcherry http://cherry.kazusa.or.jp/
 - Asparagus http://asparagus.uga.edu
 - PlaBi (potato, A. thaliana, superbeet, brassica napus) http://www.plabipd.de/
+- A. thaliana small RNA https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.html
 
 ## Microbes
 
