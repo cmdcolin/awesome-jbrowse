@@ -67,6 +67,7 @@ A list of cool jbrowse stuff and links around the web
 - Rice https://ricebase.org (instance https://ricebase.org/jbrowse_ricebase/current/?data=data&loc=Chr1%3A17307555..25961739&tracks=&highlight=)
 - Rice SNP-seek http://snp-seek.irri.org/_jbrowse.zul;jsessionid=E05C5B42EB5BE438C189E7CF13B9ACB3?tracks=DNA,msu7gff,msu7snpsv2,msu7indelsv2
 - 3k rice db http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF&loc=chr01%3A17309567..25963751&highlight=
+- IC4R rice http://ic4r.org/ (instance http://visual.ic4r.org/view/?loc=1:2984..10815&tracklist=1&overview=0)
 - GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse)
 - Hardwood genomics https://www.hardwoodgenomics.org/content/jbrowse
 - Brachypodium distachyon http://jbrowse.brachypodium.org
@@ -140,6 +141,7 @@ A list of cool jbrowse stuff and links around the web
 - IVAG https://genominfo.org/m/journal/view.php?doi=10.5808/GI.2017.15.4.178 (features gwasviewer)
 - CoGe https://genomevolution.org/
 - WikiGenomes https://wikigenomes.org
+- FISH oracle http://fishoracle.zbh.uni-hamburg.de:8080/fishoracle/ (expired https)
 
 
 # CRISPR
@@ -158,6 +160,7 @@ A list of cool jbrowse stuff and links around the web
 - Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
 - CLIP-SEQ browser http://lulab.life.tsinghua.edu.cn/clipdb/
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
+- tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 
 # Dead links
 
