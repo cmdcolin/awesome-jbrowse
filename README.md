@@ -10,10 +10,8 @@ A list of cool jbrowse stuff and links around the web
 - JBrowse tutorial - http://jbrowse.org/code/latest-release/docs/tutorial
 - JBrowse FAQ - http://gmod.org/wiki/JBrowse_FAQ
 
-# Cool instances
 
-- Hi-C data in JBrowse
--- 
+
 # Model organism databases
 
 - XenBase http://www.xenbase.org/entry/ (instance http://www.xenbase.org/common/displayJBrowse.do?data=data/xl9_1)
