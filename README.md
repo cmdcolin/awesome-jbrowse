@@ -15,7 +15,7 @@ A list of cool jbrowse stuff and links around the web
 # Model organism databases
 
 - XenBase http://www.xenbase.org/entry/ (instance http://www.xenbase.org/common/displayJBrowse.do?data=data/xl9_1)
-- Rat Genome Database https://rgd.mcw.edu/ (instance https://rgd.mcw.edu/jbrowse/?data=data_rgd6)
+- Rat Genome Database https://rgd.mcw.edu/ (instance https://rgd.mcw.edu/jbrowse/)
 - Mouse Genome Database http://www.informatics.jax.org/ (instance http://jbrowse.informatics.jax.org/?data=data/mouse)
 - WormBase http://www.wormbase.org (instance http://www.wormbase.org/tools/genome/jbrowse-simple/?data=data/c_elegans_PRJNA13758)
 - Yeast Genome Database - http://yeastgenome.org (instance https://browse.yeastgenome.org/)
