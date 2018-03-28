@@ -161,6 +161,7 @@ A list of cool jbrowse stuff and links around the web
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 - PopFly - http://popfly.uab.cat/
+- Drosophila http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 
 # Dead links
 
