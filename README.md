@@ -40,6 +40,7 @@ A list of cool jbrowse stuff and links around the web
 - Echinobase http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
 - Crown of thorns starfish - http://marinegenomics.oist.jp/cots/viewer?project_id=46
 - Mnemiopsis Genome Project Portal http://research.nhgri.nih.gov/mnemiopsis/
+- Animal Genome DB - http://i.animalgenome.org/jbrowse/
 
 ## Southgreen platform
 - Coffee - http://coffee-genome.org/jbrowse
@@ -55,7 +56,7 @@ A list of cool jbrowse stuff and links around the web
 - Rice https://ricebase.org (instance https://ricebase.org/jbrowse_ricebase/current/?data=data&loc=Chr1%3A17307555..25961739&tracks=&highlight=)
 - Rice SNP-seek http://snp-seek.irri.org/_jbrowse.zul;jsessionid=E05C5B42EB5BE438C189E7CF13B9ACB3?tracks=DNA,msu7gff,msu7snpsv2,msu7indelsv2
 - 3k rice db http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF&loc=chr01%3A17309567..25963751&highlight=
-- Rosacea  https://www.rosaceae.org/tools/jbrowse
+- GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse)
 - Hardwood genomics https://www.hardwoodgenomics.org/content/jbrowse
 - Brachypodium distachyon http://jbrowse.brachypodium.org
 - TreeGenesDB https://treegenesdb.org/Drupal/jbrowse
@@ -63,10 +64,10 @@ A list of cool jbrowse stuff and links around the web
 - GrainGenes https://wheat.pw.usda.gov/GG3/JBrowse
 - Triticeae toolbox https://triticeaetoolbox.org
 - Wheat TILLING database http://www.wheat-tilling.com
+- Citrus + pathogens https://citrusgreening.org/jbrowse_citrusgreening/current/
+- Citrus + pathogens https://www.citrusgenomedb.org/jbrowses
+- Solanaceae (tomato, pepper, tobacco) https://solgenomics.net/
 
-# Bacteria
-
-https://www.patricbrc.org/view/Taxonomy/194#view_tab=overview
 
 # Large deployments
 
