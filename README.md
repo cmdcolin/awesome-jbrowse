@@ -33,7 +33,6 @@ A list of cool jbrowse stuff and links around the web
 - HymenopteraGenomeDatabase - http://hymenopteragenome.org (instance http://hymenopteragenome.org/Apollo2/16/jbrowse/index.html)
 - OpossumBase http://www.opossumbase.org/
 - Chinese Hamster - http://www.chogenome.org/JBrowse.php
-- BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
 
 
@@ -55,6 +54,7 @@ A list of cool jbrowse stuff and links around the web
 - AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
 - VectorBase (mosquito) https://www.vectorbase.org/
 - i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
+- BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 
 
 ## Plants
@@ -170,6 +170,38 @@ A list of cool jbrowse stuff and links around the web
 - Cnidarian http://cnidarians.bu.edu/EdwardBase/cgi-bin/index.cgi
 - Helicobacter http://helicobacter.um.edu.my/index.php/home/main
 - Vibrio http://vibrio.um.edu.my/index.php/home/main
+
+# Plugins
+
+- MultiBigWig https://github.com/cmdcolin/multibigwig
+- SashimiPlot https://github.com/cmdcolin/sashimiplot
+- GCContent https://github.com/cmdcolin/gccontent
+- ElasticSearch https://github.com/cmdcolin/jbrowse_elasticsearch
+- GWASViewer https://github.com/cmdcolin/gwasviewer
+- MyVariantViewer https://github.com/cmdcolin/myvariantviewer
+- GA4GHViewer https://github.com/cmdcolin/ga4ghviewer
+- HierarchicalCheckbox https://github.com/bhofmei/jbplugin-hierarchicalcheckbox
+- TrackScores https://github.com/bhofmei/jbplugin-trackscores
+- Methylation https://github.com/bhofmei/jbplugin-methylation
+- SmallRNA https://github.com/bhofmei/jbplugin-smallrna
+- Screenshot https://github.com/bhofmei/jbplugin-screenshot
+- CoGE https://github.com/LyonsLab/coge/tree/master/web/js/jbrowse/plugins/CoGe
+- Fullscreen https://github.com/awilkey/fullscreen-jbrowse
+- Araport Ensembl https://github.com/Arabidopsis-Information-Portal/jbrowse/tree/stable/plugins/EnsemblVariants
+- Araport ComboTrackSelector https://github.com/Arabidopsis-Information-Portal/jbrowse/tree/stable/plugins/ComboTrackSelector
+- Araport SeqLighter https://github.com/Arabidopsis-Information-Portal/SeqLighter
+- BioNano https://github.com/bionanogenomics/JBrowsePlugin
+- Dynamix http://gbcs.embl.de/portal/tiki-index.php?page=JBrowse+Dynamix+Plugin
+- PubAnnotation https://github.com/rbuels/JBrowse_PubAnnotation
+- WebApollo https://github.com/GMOD/Apollo
+- Genovo https://github.com/igemsoftware/Shenzhen_BGIC_0101_2013/tree/master/plugins/Genovo
+- FeatureSequence https://github.com/tsaari88/FeatureSequence
+- SwitchTrackSelector http://staging.wormbase.org/tools/genome/jbrowse-simple/plugins/SwitchTrackSelector/js/main.js
+- PrimerDesign https://github.com/jimhu-tamu/hulab-jbrowse
+- AliasRefSeqs https://github.com/rbuels/aliasrefseqs-jbrowse-plugin
+- MotifFinder https://github.com/scottcain/MotifFinder
+- MotifSearch https://github.com/scottcain/MotifSearch
+- RestrictionSearch https://github.com/scottcain/RestrictionSearch
 
 # Old JBrowse instances
 
