@@ -37,7 +37,7 @@ A list of cool jbrowse stuff and links around the web
 
 - BovineGenome - http://bovinegenome.org (instance http://www.bovinegenome.org/apollo-lsaa/20/jbrowse/index.html)
 - HymenopteraGenomeDatabase - http://hymenopteragenome.org (instance http://hymenopteragenome.org/Apollo2/16/jbrowse/index.html)
-
+- OpossumBase http://www.opossumbase.org/
 - Chinese Hamster - http://www.chogenome.org/JBrowse.php
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 - Echinobase http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
@@ -45,7 +45,8 @@ A list of cool jbrowse stuff and links around the web
 - Mnemiopsis Genome Project Portal http://research.nhgri.nih.gov/mnemiopsis/
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
 - VectorBase (mosquito) https://www.vectorbase.org/
-- OpossumBase http://www.opossumbase.org/
+- i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
+
 
 
 ## Plants
@@ -71,9 +72,15 @@ A list of cool jbrowse stuff and links around the web
 - PlantMethylome - epigenome.genetics.uga.edu/PlantMethylome/
 - Brassica http://www.bioinformatics.nl/brassica/index.html?data=bras_tp/data
 - CottenGen http://www.cottongen.org/
-- MedicagoGenome http://www.medicagogenome.org/
+- MedicagoGenome http://www.medicagogenome.org/ (instance http://www.medicagogenome.org/tools/jbrowse)
+- Arabadopsis http://asrp.danforthcenter.org/athaliana
+- Cool Season Food Legume https://www.coolseasonfoodlegume.org/
+- Kitbase http://kitbase.ucdavis.edu/link.html
+- SpirodelaBase http://sviridis.org/jbrowse
+- Plant Small RNA genes http://plantsmallrnagenes.science.psu.edu/
+- Cucumber, melon http://cucurbitgenomics.org/ (instance http://cucurbitgenomics.org/JBrowse/?data=icugi_data/json/cucumber_v2&tracks=DNA,genes)
 
-## Southgreen platform
+### Southgreen platform
 
 - Coffee - http://coffee-genome.org/jbrowse
 - Cassava https://www.cassavagenome.org/?q=page/jbrowse-public
@@ -81,37 +88,45 @@ A list of cool jbrowse stuff and links around the web
 - Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
 - Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
 - AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
-
-
-
-# Virus
-
-- ZikaVR http://bioinfo.imtech.res.in/manojk/zikavr/genobrowse.php
-
-# Bacteria
-
-
-# Large deployments
-
-- i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
 - Phytozome - https://phytozome.jgi.doe.gov/ (instances https://phytozome.jgi.doe.gov/jbrowse/index.html)
 
 
-# Human browsers
+
+## Virus
+
+- ZikaVR http://bioinfo.imtech.res.in/manojk/zikavr/genobrowse.php
+
+## Bacteria
+
+- PATRIC https://patricbrc.org/view/Genome/83332.12#view_tab=browser
+- Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/
+
+## Parasite
+
+- GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
+
+
+# Human
 
 - GWAS browser http://gwas-browser.nygenome.org
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
 
-# Workflows
+# JBrowse workflows
 
 - Millstone https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445467/
 - myGenomeBrowser https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser
 - IVAG https://genominfo.org/m/journal/view.php?doi=10.5808/GI.2017.15.4.178 (features gwasviewer)
+- CoGe https://genomevolution.org/
 
-# Old instances
+# Old JBrowse instances
 
 For historical perspective these are fun to view
 
 http://genomesunzipped.org/jbrowse/
+
+# Credits
+
+Some sources gathered from http://gmod.org/wiki/GMOD_Users
+
 
 
