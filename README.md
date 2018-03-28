@@ -27,7 +27,7 @@ A list of cool jbrowse stuff and links around the web
 
 ## Drosophila
 
-- PopFly - popfly.uab.cat/
+- PopFly - http://popfly.uab.cat/
 - FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
 
 # Non-model organisms
@@ -100,19 +100,14 @@ A list of cool jbrowse stuff and links around the web
 - Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
 - Amborella http://amborella.huck.psu.edu/fish
 - MarpolBase http://marchantia.info/
+- LotusBase https://lotus.au.dk/
+- ReefGenomics http://reefgenomics.org/
 
-
-## Virus
+## Microbes
 
 - ZikaVR http://bioinfo.imtech.res.in/manojk/zikavr/genobrowse.php
-
-## Bacteria
-
 - PATRIC https://patricbrc.org/view/Genome/83332.12#view_tab=browser
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/
-
-## Parasite
-
 - GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
 
 
@@ -146,7 +141,7 @@ A list of cool jbrowse stuff and links around the web
 
 For historical perspective these are fun to view
 
-http://genomesunzipped.org/jbrowse/
+- Genomes Unzipped http://genomesunzipped.org/jbrowse/
 
 # Credits
 
