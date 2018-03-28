@@ -157,6 +157,7 @@ A list of cool jbrowse stuff and links around the web
 - Lnc2Meth http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/browse.jsp
 - Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
 - CLIP-SEQ browser http://lulab.life.tsinghua.edu.cn/clipdb/
+- ChIP-Base http://rna.sysu.edu.cn/chipbase/
 
 # Dead links
 
