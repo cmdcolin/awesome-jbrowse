@@ -133,6 +133,7 @@ A list of cool jbrowse stuff and links around the web
 - PhyTB http://pathogenseq.lshtm.ac.uk/phytblive/index.php
 - HIV https://www.hiv.lanl.gov (instance https://www.hiv.lanl.gov/content/sequence/jbrowse/?loc=Gag%3A1..500&tracks=PROTEIN%2CSub-protein_map&data=hivdata%2FEpitope-protein&highlight=)
 - Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
+- Mycobrowser https://mycobrowser.epfl.ch/genes/MMAR_1971
 
 # Human
 
