@@ -22,7 +22,6 @@ A list of cool jbrowse stuff and links around the web
 - Candida albicans - http://www.candidagenome.org/ (instance http://www.candidagenome.org/jbrowse/index.html?data=cgd_data%2FC_albicans_SC5314&loc=Ca22chr1A_C_albicans_SC5314%3A120518..134787&tracks=DNA%2CTranscribed%20Features%2ChapA_alb_dub_phyloP_scores%2ChapA_CanLod_phyloP_scores%2ChapA_CTG_phyloP_scores%2ChapA_Sacc_phyloP_scores%2Cbruno_nOxi_hapA_coverage&highlight=)
 - Dictybase - http://www.dictybase.org (instance http://dictybase.org/tools/jbrowse/?data=data/jbrowse/fasciculatum)
 - Aspgd aspergillus http://aspgd.org (instance http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=)
-- ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
 
 
 ## Drosophila
@@ -110,6 +109,7 @@ A list of cool jbrowse stuff and links around the web
 - Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
 - PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse)
 - PantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
+- aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
 
 ## Microbes
 
@@ -126,7 +126,13 @@ A list of cool jbrowse stuff and links around the web
 - Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
 - PopHuman http://pophuman.uab.cat/
 - HiC publicatiob https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
--
+- CAPER proteome http://www.bprc.ac.cn/CAPE
+- ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
+- ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
+
+
+
+
 # Workflows/platforms
 
 - Millstone https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445467/
@@ -151,6 +157,15 @@ A list of cool jbrowse stuff and links around the web
 - Lnc2Meth http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/browse.jsp
 - Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
 - CLIP-SEQ browser http://lulab.life.tsinghua.edu.cn/clipdb/
+
+# Dead links
+
+- Pangolin genome database
+- MabsBase http://mabscessus.um.edu.my/
+- Staphylococcus http://staphylococcus.um.edu.my/index.php/home/main
+- Cnidarian http://cnidarians.bu.edu/EdwardBase/cgi-bin/index.cgi
+- Helicobacter http://helicobacter.um.edu.my/index.php/home/main
+- Vibrio http://vibrio.um.edu.my/index.php/home/main
 
 # Old JBrowse instances
 
