@@ -22,8 +22,8 @@ A list of cool jbrowse stuff and links around the web
 - Candida albicans - http://www.candidagenome.org/ ([instance](http://www.candidagenome.org/jbrowse/index.html?data=cgd_data%2FC_albicans_SC5314&loc=Ca22chr1A_C_albicans_SC5314%3A120518..134787&tracks=DNA%2CTranscribed%20Features%2ChapA_alb_dub_phyloP_scores%2ChapA_CanLod_phyloP_scores%2ChapA_CTG_phyloP_scores%2ChapA_Sacc_phyloP_scores%2Cbruno_nOxi_hapA_coverage&highlight=))
 - Dictybase - http://www.dictybase.org ([instance](http://dictybase.org/tools/jbrowse/?data=data/jbrowse/fasciculatum))
 - Aspgd aspergillus http://aspgd.org ([instance](http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=))
-- PopFly - http://popfly.uab.cat/
 - FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
+- PomBase https://www.pombase.org/ (instance https://www.pombase.org/jbrowse)
 
 # Non-model organisms
 
@@ -160,6 +160,7 @@ A list of cool jbrowse stuff and links around the web
 - CLIP-SEQ browser http://lulab.life.tsinghua.edu.cn/clipdb/
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
+- PopFly - http://popfly.uab.cat/
 
 # Dead links
 
