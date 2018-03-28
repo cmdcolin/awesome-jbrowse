@@ -76,15 +76,17 @@ A list of cool jbrowse stuff and links around the web
 - GrainGenes https://wheat.pw.usda.gov/GG3/JBrowse
 - Triticeae toolbox https://triticeaetoolbox.org
 - Wheat TILLING database http://www.wheat-tilling.com
-- Citrus + pathogens https://citrusgreening.org/jbrowse_citrusgreening/current/
+- CitrusGreening https://citrusgreening.org/jbrowse_citrusgreening/current/
 - Citrus + pathogens https://www.citrusgenomedb.org/jbrowses
 - Solanaceae (tomato, pepper, tobacco) https://solgenomics.net/
 - TomatoGenome http://www.tomatogenome.net/
+- Tomatomics http://bioinf.mind.meiji.ac.jp/tomatomics/
 - Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
 - PeanutBase https://peanutbase.org/
 - PlantMethylome - http://epigenome.genetics.uga.edu/PlantMethylome/
 - Brassica http://www.bioinformatics.nl/brassica/index.html?data=bras_tp/data
 - CottenGen http://www.cottongen.org/
+- CottonFGD http://genome.microbedb.jp/CyanoBase
 - MedicagoGenome http://www.medicagogenome.org/ (instance http://www.medicagogenome.org/tools/jbrowse)
 - Arabadopsis http://asrp.danforthcenter.org/athaliana
 - Cool Season Food Legume https://www.coolseasonfoodlegume.org/
@@ -100,8 +102,11 @@ A list of cool jbrowse stuff and links around the web
 - Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
 - Amborella http://amborella.huck.psu.edu/fish
 - MarpolBase http://marchantia.info/
-- LotusBase https://lotus.au.dk/
-- ReefGenomics http://reefgenomics.org/
+- LotusBase https://lotus.au.dk/ (instance https://lotus.au.dk/genome/)
+- ReefGenomics http://reefgenomics.org/ (example instance http://spis.reefgenomics.org/jbrowse)
+- Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
+- TodoFirGene http://plantomics.mind.meiji.ac.jp/todomatsu/
+- Rubber tree http://matsui-lab.riken.jp/rubber/
 
 ## Microbes
 
@@ -109,7 +114,7 @@ A list of cool jbrowse stuff and links around the web
 - PATRIC https://patricbrc.org/view/Genome/83332.12#view_tab=browser
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/
 - GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
-
+- CyanoBase http://genome.microbedb.jp/CyanoBase
 
 # Human
 
@@ -119,12 +124,14 @@ A list of cool jbrowse stuff and links around the web
 - PopHuman http://pophuman.uab.cat/
 - HiC publicatiob https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
 -
-# Workflows
+# Workflows/platforms
 
 - Millstone https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445467/
 - myGenomeBrowser https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser
 - IVAG https://genominfo.org/m/journal/view.php?doi=10.5808/GI.2017.15.4.178 (features gwasviewer)
 - CoGe https://genomevolution.org/
+- WikiGenomes https://wikigenomes.org
+
 
 # CRISPR
 
@@ -136,6 +143,10 @@ A list of cool jbrowse stuff and links around the web
 # Other
 
 - CaZY http://www.cazy.org/PULDB/jbrowse.php?data=species%2F130&loc=Ga0105823_103%3A76907..86749&tracks=Protein-coding%20genes%2CPredicted%20PULs%2CCAZyme%20clusters&highlight=
+- MethSMRT - cross species browsers http://sysbio.gzzoc.com/methsmrt/
+- REDIPortal - A-to-I editing database http://srv00.recas.ba.infn.it/atlas/ (instanace http://srv00.recas.ba.infn.it/atlas/jbrowse.html)
+- Lnc2Meth http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/browse.jsp
+- Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
 
 # Old JBrowse instances
 
