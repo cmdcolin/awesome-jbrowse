@@ -13,9 +13,7 @@ A list of cool jbrowse stuff and links around the web
 # Cool instances
 
 - Hi-C data in JBrowse
--- Publication https://www.biorxiv.org/content/early/2017/10/08/199950
--- Instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
--
+-- 
 # Model organism databases
 
 - XenBase http://www.xenbase.org/entry/ (instance http://www.xenbase.org/common/displayJBrowse.do?data=data/xl9_1)
@@ -124,11 +122,11 @@ A list of cool jbrowse stuff and links around the web
 
 - GWAS browser http://gwas-browser.nygenome.org
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
-- 4D browser
+- HiC 
 - Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
 - PopHuman http://pophuman.uab.cat/
-
-# JBrowse workflows
+ublicatio https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
+-
 
 - Millstone https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445467/
 - myGenomeBrowser https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser
