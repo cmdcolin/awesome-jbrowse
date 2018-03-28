@@ -48,7 +48,6 @@ A list of cool jbrowse stuff and links around the web
 - Crown of thorns starfish - http://marinegenomics.oist.jp/cots/viewer?project_id=46
 - Mnemiopsis (comc jelly) http://research.nhgri.nih.gov/mnemiopsis/
 - Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
-- Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 
 ## Insects
 
@@ -56,6 +55,7 @@ A list of cool jbrowse stuff and links around the web
 - VectorBase (mosquito) https://www.vectorbase.org/
 - i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
+- Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 
 
 ## Plants
