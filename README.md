@@ -111,6 +111,7 @@ A list of cool jbrowse stuff and links around the web
 - PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse)
 - PantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
 - aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
+- Mulberry MnTEdb1 http://genedenovoweb.ticp.net:81/MnTEdb1/
 
 ## Microbes
 
@@ -119,6 +120,8 @@ A list of cool jbrowse stuff and links around the web
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/
 - GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
 - CyanoBase http://genome.microbedb.jp/CyanoBase
+- HPVBase http://crdd.osdd.net/servers/hpvbase/ (instance http://crdd.osdd.net/servers/hpvbase/jbrowse/JBrowse-1.11.2/?data=sample_data%2Fjson%2Fhpvmeths31&loc=J04353%3A5462..6612&tracks=DNA%2CWentzensen_et_al._2012_PMID-23093560%2CVasiljevic_et_al._2014_PMID-24468012%2CBrentnall_et_al._2014_PMID-24535756&highlight=)
+- PhyTB http://pathogenseq.lshtm.ac.uk/phytblive/index.php
 
 # Human
 
