@@ -45,7 +45,7 @@ A list of cool jbrowse stuff and links around the web
 
 ## Invertebrates
 
-- Crown of thorns starfish - http://marinegenomics.oist.jp/cots/viewer?project_id=46
+- Marine genomics - http://marinegenomics.oist.jp/
 - Mnemiopsis (comc jelly) http://research.nhgri.nih.gov/mnemiopsis/
 - Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
 
