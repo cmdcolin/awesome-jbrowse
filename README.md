@@ -110,6 +110,8 @@ A list of cool jbrowse stuff and links around the web
 - Maize database aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
 - Mulberry MnTEdb1 http://genedenovoweb.ticp.net:81/MnTEdb1/
 - Alfalfa https://www.alfalfatoolbox.org/
+- sORF A. thaliana https://www.biw.kuleuven.be/CSB/ARA-PEPs/
+
 
 ## Microbes
 
