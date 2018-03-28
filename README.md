@@ -122,21 +122,28 @@ A list of cool jbrowse stuff and links around the web
 
 - GWAS browser http://gwas-browser.nygenome.org
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
-- HiC 
 - Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
 - PopHuman http://pophuman.uab.cat/
-ublicatio https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
+- HiC publicatiob https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
 -
+# Workflows
 
 - Millstone https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445467/
 - myGenomeBrowser https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser
 - IVAG https://genominfo.org/m/journal/view.php?doi=10.5808/GI.2017.15.4.178 (features gwasviewer)
 - CoGe https://genomevolution.org/
+
+# CRISPR
+
 - CRISPR-PLANT https://www.genome.arizona.edu/crispr/jbrowse/
 - Fly RNAi www.flyrnai.org
 - CRISPR-RT http://bioinfolab.miamioh.edu/CRISPR-RT/interface/Installation.php CRISPR-DT bioinfolab.miamioh.edu/CRISPR-DT CT-FINDER bioinfolab.miamioh.edu/ct-finder/
 - Cas-Database http://www.rgenome.net/cas-database/
+
+# Other
+
 - CaZY http://www.cazy.org/PULDB/jbrowse.php?data=species%2F130&loc=Ga0105823_103%3A76907..86749&tracks=Protein-coding%20genes%2CPredicted%20PULs%2CCAZyme%20clusters&highlight=
+
 # Old JBrowse instances
 
 For historical perspective these are fun to view
