@@ -120,7 +120,7 @@ A list of cool jbrowse stuff and links around the web
 - Sweet potato http://sweetpotato.plantbiology.msu.edu
 - DBcherry http://cherry.kazusa.or.jp/
 - Asparagus http://asparagus.uga.edu
-
+- PlaBi (potato, A. thaliana, superbeet, brassica napus) http://www.plabipd.de/
 
 ## Microbes
 
@@ -133,6 +133,7 @@ A list of cool jbrowse stuff and links around the web
 - PhyTB http://pathogenseq.lshtm.ac.uk/phytblive/index.php
 - HIV https://www.hiv.lanl.gov (instance https://www.hiv.lanl.gov/content/sequence/jbrowse/?loc=Gag%3A1..500&tracks=PROTEIN%2CSub-protein_map&data=hivdata%2FEpitope-protein&highlight=)
 - Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
+
 # Human
 
 - GWAS browser http://gwas-browser.nygenome.org
@@ -176,6 +177,7 @@ A list of cool jbrowse stuff and links around the web
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 - PopFly - http://popfly.uab.cat/
 - Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
+- iMethyl http://imethyl.iwate-megabank.org/genomebrowser.html
 
 # Plugins
 
