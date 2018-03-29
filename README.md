@@ -57,7 +57,8 @@ A list of cool jbrowse stuff and links around the web
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 - Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 - White fly http://whiteflygenomics.org
-
+- Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
+- PTspider Base http://www.e-celldev.jp/pt_spiderbase/ (instance http://www.brh2.jp/jbrowse/Ptep1.0/?loc=Scaffold00547%3A237581..301143&tracks=DNA%2Caug3_gmodels%2Cncbi-AR100&highlight=)
 
 ## Plants
 
@@ -124,7 +125,7 @@ A list of cool jbrowse stuff and links around the web
 - A. thaliana small RNA https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.html
 - Pennycress http://pennycress.umn.edu/
 - Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
-
+- ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
 
 ## Microbes
 
@@ -151,8 +152,8 @@ A list of cool jbrowse stuff and links around the web
 - ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
 - ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
 - Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
-- Archaic genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
-
+- Neandertal genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
+- Dasman http://dgr.dasmaninstitute.org/DGR/index.html (instance http://dgr.dasmaninstitute.org/JBrowse-1.12.3/index.html?loc=chr1%3A63064986..63065195&tracks=DNA&data=data%2F)
 
 
 # Workflows/platforms
@@ -235,7 +236,7 @@ For historical perspective these are fun to view
 - Cnidarian http://cnidarians.bu.edu/EdwardBase/cgi-bin/index.cgi
 - Helicobacter http://helicobacter.um.edu.my/index.php/home/main
 - Vibrio http://vibrio.um.edu.my/index.php/home/main
-
+- http://www.dnamethylome.org/
 
 # Credits
 
