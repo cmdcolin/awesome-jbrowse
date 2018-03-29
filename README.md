@@ -34,6 +34,7 @@ A list of cool jbrowse stuff and links around the web
 - OpossumBase http://www.opossumbase.org/
 - Chinese Hamster - http://www.chogenome.org/JBrowse.php
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
+- Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
 
 
 ## Fish
@@ -57,7 +58,6 @@ A list of cool jbrowse stuff and links around the web
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 - Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 - White fly http://whiteflygenomics.org
-- Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
 - PTspider Base http://www.e-celldev.jp/pt_spiderbase/ (instance http://www.brh2.jp/jbrowse/Ptep1.0/?loc=Scaffold00547%3A237581..301143&tracks=DNA%2Caug3_gmodels%2Cncbi-AR100&highlight=)
 
 ## Plants
