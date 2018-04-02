@@ -35,7 +35,7 @@ A list of cool jbrowse stuff and links around the web
 - Chinese Hamster - http://www.chogenome.org/JBrowse.php
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
 - Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
-
+- Parus major (bird) https://genomes.bioinf.nioo.knaw.nl/node/279579
 
 ## Fish
 
@@ -160,6 +160,8 @@ A list of cool jbrowse stuff and links around the web
 - Dasman http://dgr.dasmaninstitute.org/DGR/index.html (instance http://dgr.dasmaninstitute.org/JBrowse-1.12.3/index.html?loc=chr1%3A63064986..63065195&tracks=DNA&data=data%2F)
 - HumCFS (chromosome fragile sites) http://webs.iiitd.edu.in/raghava/humcfs/genome.php
 - Database of autozygous segments http://pembertonlab.med.umanitoba.ca/das.php (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5709839/)
+- NIAGADS Alzheimers https://www.niagads.org/genomics/jbrowse.jsp
+- iHMS histone modification http://www.tongjidmb.com/human/index.html
 
 
 # Workflows/platforms/concepts
