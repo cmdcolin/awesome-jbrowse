@@ -43,6 +43,7 @@ A list of cool jbrowse stuff and links around the web
 - Asian Seabass - http://seabassgb.sanbi.ac.za (instance http://seabassgb.sanbi.ac.za/jbrowse/?data=seabass_jbrowse)
 - Common carp, rainbow trout http://www.fishbrowser.org/
 - Salmon, trout http://salmobase.org/
+- Goldfish http://nemogenome.org/
 
 ## Invertebrates
 
@@ -157,8 +158,10 @@ A list of cool jbrowse stuff and links around the web
 - Neandertal genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
 - Dasman http://dgr.dasmaninstitute.org/DGR/index.html (instance http://dgr.dasmaninstitute.org/JBrowse-1.12.3/index.html?loc=chr1%3A63064986..63065195&tracks=DNA&data=data%2F)
 - HumCFS (chromosome fragile sites) http://webs.iiitd.edu.in/raghava/humcfs/genome.php
+- Database of autozygous segments http://pembertonlab.med.umanitoba.ca/das.php (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5709839/)
 
-# Workflows/platforms
+
+# Workflows/platforms/concepts
 
 - Millstone https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5445467/
 - myGenomeBrowser https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser
@@ -170,7 +173,8 @@ A list of cool jbrowse stuff and links around the web
 - GenSAS https://www.gensas.org/
 - PhyloNode http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175480
 - proBAM protein encoded BAM in jbrowse https://www.biorxiv.org/content/biorxiv/early/2017/06/20/152579.full.pdf
-
+- EDGE bioinformatics platform https://github.com/LANL-Bioinformatics/EDGE
+- FALDO https://www.biorxiv.org/content/early/2014/02/02/002121
 
 # CRISPR
 
