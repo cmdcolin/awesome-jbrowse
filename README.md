@@ -178,6 +178,9 @@ A list of cool jbrowse stuff and links around the web
 - proBAM protein encoded BAM in jbrowse https://www.biorxiv.org/content/biorxiv/early/2017/06/20/152579.full.pdf
 - EDGE bioinformatics platform https://github.com/LANL-Bioinformatics/EDGE
 - FALDO https://www.biorxiv.org/content/early/2014/02/02/002121
+- iPlant JBrowse MAKER integration https://pods.iplantcollaborative.org/wiki/display/Events/Exploring+MAKER-P+output+with+JBrowse+in+Atmosphere
+- Galaxy JBrowse wrapper https://toolshed.g2.bx.psu.edu/repository/display_tool?repository_id=a3e608531354bfa6&render_repository_actions_for=galaxy&tool_config=%2Fsrv%2Ftoolshed%2Fmain%2Fvar%2Fdata%2Frepos%2F001%2Frepo_1536%2Fjbrowse.xml&changeset_revision=7342f467507b
+
 
 # CRISPR
 
