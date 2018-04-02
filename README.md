@@ -180,7 +180,7 @@ A list of cool jbrowse stuff and links around the web
 
 - CaZY http://www.cazy.org/PULDB/jbrowse.php?data=species%2F130&loc=Ga0105823_103%3A76907..86749&tracks=Protein-coding%20genes%2CPredicted%20PULs%2CCAZyme%20clusters&highlight=
 - MethSMRT - cross species browsers http://sysbio.gzzoc.com/methsmrt/
-- REDIPortal - A-to-I editing database http://srv00.recas.ba.infn.it/atlas/ (instanace http://srv00.recas.ba.infn.it/atlas/jbrowse.html)
+- REDIPortal - A-to-I editing database http://srv00.recas.ba.infn.it/atlas/ (instance http://srv00.recas.ba.infn.it/atlas/jbrowse.html)
 - Lnc2Meth http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/browse.jsp
 - Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
 - CLIP-SEQ browser http://lulab.life.tsinghua.edu.cn/clipdb/
