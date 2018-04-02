@@ -201,6 +201,7 @@ A list of cool jbrowse stuff and links around the web
 - proBAM format (protein BAM files) using jbrowse http://proteogenomics.zhang-lab.org/
 - AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
 - CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
+- Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 
 # Plugins
 
