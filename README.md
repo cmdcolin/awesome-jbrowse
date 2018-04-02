@@ -190,6 +190,8 @@ A list of cool jbrowse stuff and links around the web
 - Pichia genome (yeast) http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - iMethyl http://imethyl.iwate-megabank.org/genomebrowser.html
 - Proteogenomics browser http://bioinfo.vanderbilt.edu/proteogenomics/?data=cancer%2Fdata&loc=chr12%3A1..133851895&tracks=CPTAC_CRC_ALL_variants_alignment&highlight=
+- AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
+- CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
 
 # Plugins
 
