@@ -36,6 +36,7 @@ A list of cool jbrowse stuff and links around the web
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
 - Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
 - Parus major (bird) https://genomes.bioinf.nioo.knaw.nl/node/279579
+- Chicken embryonic http://geisha.arizona.edu/geisha/search.jsp?entrez_gene=462937
 
 ## Fish
 
@@ -191,6 +192,7 @@ A list of cool jbrowse stuff and links around the web
 - CRISPR-RT http://bioinfolab.miamioh.edu/CRISPR-RT/interface/Installation.php CRISPR-DT bioinfolab.miamioh.edu/CRISPR-DT CT-FINDER bioinfolab.miamioh.edu/ct-finder/
 - Cas-Database http://www.rgenome.net/cas-database/
 - grID crispr.technology http://crispr.technology/browser/?loc=chr1%3A99685667..149535791&tracks=DNA&highlight=
+- - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 
 # Other
 
@@ -208,8 +210,8 @@ A list of cool jbrowse stuff and links around the web
 - proBAM format (protein BAM files) using jbrowse http://proteogenomics.zhang-lab.org/
 - AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
 - CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
-- Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 
+- Togogenome http://togogenome.org/gene/9913:BRB
 # Plugins
 
 - MultiBigWig https://github.com/cmdcolin/multibigwig
