@@ -162,7 +162,7 @@ A list of cool jbrowse stuff and links around the web
 - Database of autozygous segments http://pembertonlab.med.umanitoba.ca/das.php (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5709839/)
 - NIAGADS Alzheimers https://www.niagads.org/genomics/jbrowse.jsp
 - iHMS histone modification http://www.tongjidmb.com/human/index.html
-
+- RNAex (secondary structure prediction) http://lulab.life.tsinghua.edu.cn/RNAex/jbrowse.php?Species=S.cerevisiae&Build=SacCer2&Datatype=PARS&Location=
 
 # Workflows/platforms/concepts
 
