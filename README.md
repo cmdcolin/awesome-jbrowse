@@ -130,6 +130,7 @@ A list of cool jbrowse stuff and links around the web
 - Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
 - ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
 - ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
+- Mint genome http://langelabtools.wsu.edu/mgr/genome_browser
 
 ## Microbes
 
@@ -167,6 +168,7 @@ A list of cool jbrowse stuff and links around the web
 - RNAex (secondary structure prediction) http://lulab.life.tsinghua.edu.cn/RNAex/jbrowse.php?Species=S.cerevisiae&Build=SacCer2&Datatype=PARS&Location=
 - RNAstructureomeDB https://structurome.bb.iastate.edu/
 - Trident (St Jude Hospital) multi species http://trident.stjude.org/static/dre/
+- CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
 
 # Workflows/platforms/concepts
 
