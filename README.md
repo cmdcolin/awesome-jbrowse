@@ -140,6 +140,7 @@ A list of cool jbrowse stuff and links around the web
 - Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
 - Mycobrowser https://mycobrowser.epfl.ch/genes/MMAR_1971
 - Pseudomonas http://www.pseudomonas.com/strain/browser
+- Salmonella http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL (instance http://bioinf.gen.tcd.ie/jbrowse/?data=salcom&loc=ST4-74.fa%3A1..975873&tracks=DNA%2CCDS%2CsRNA&highlight=)
 
 # Human
 
@@ -237,6 +238,7 @@ For historical perspective these are fun to view
 - Helicobacter http://helicobacter.um.edu.my/index.php/home/main
 - Vibrio http://vibrio.um.edu.my/index.php/home/main
 - http://www.dnamethylome.org/
+- Pineapple http://peach.fafu.edu.cn/html/jbrowse/JBrowse-1.11.5/?data=Pineapple_genome_project (available at phytozome)
 
 # Credits
 
