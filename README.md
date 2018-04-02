@@ -163,6 +163,8 @@ A list of cool jbrowse stuff and links around the web
 - NIAGADS Alzheimers https://www.niagads.org/genomics/jbrowse.jsp
 - iHMS histone modification http://www.tongjidmb.com/human/index.html
 - RNAex (secondary structure prediction) http://lulab.life.tsinghua.edu.cn/RNAex/jbrowse.php?Species=S.cerevisiae&Build=SacCer2&Datatype=PARS&Location=
+- RNAstructureomeDB https://structurome.bb.iastate.edu/
+
 
 # Workflows/platforms/concepts
 
