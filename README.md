@@ -141,6 +141,7 @@ A list of cool jbrowse stuff and links around the web
 - Mycobrowser https://mycobrowser.epfl.ch/genes/MMAR_1971
 - Pseudomonas http://www.pseudomonas.com/strain/browser
 - Salmonella http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL (instance http://bioinf.gen.tcd.ie/jbrowse/?data=salcom&loc=ST4-74.fa%3A1..975873&tracks=DNA%2CCDS%2CsRNA&highlight=)
+- Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
 
 # Human
 
@@ -155,7 +156,7 @@ A list of cool jbrowse stuff and links around the web
 - Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
 - Neandertal genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
 - Dasman http://dgr.dasmaninstitute.org/DGR/index.html (instance http://dgr.dasmaninstitute.org/JBrowse-1.12.3/index.html?loc=chr1%3A63064986..63065195&tracks=DNA&data=data%2F)
-
+- HumCFS (chromosome fragile sites) http://webs.iiitd.edu.in/raghava/humcfs/genome.php
 
 # Workflows/platforms
 
@@ -168,6 +169,8 @@ A list of cool jbrowse stuff and links around the web
 - WebApollo http://genomearchitect.github.io/
 - GenSAS https://www.gensas.org/
 - PhyloNode http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175480
+- proBAM protein encoded BAM in jbrowse https://www.biorxiv.org/content/biorxiv/early/2017/06/20/152579.full.pdf
+
 
 # CRISPR
 
@@ -175,6 +178,7 @@ A list of cool jbrowse stuff and links around the web
 - Fly RNAi www.flyrnai.org
 - CRISPR-RT http://bioinfolab.miamioh.edu/CRISPR-RT/interface/Installation.php CRISPR-DT bioinfolab.miamioh.edu/CRISPR-DT CT-FINDER bioinfolab.miamioh.edu/ct-finder/
 - Cas-Database http://www.rgenome.net/cas-database/
+- grID crispr.technology http://crispr.technology/browser/?loc=chr1%3A99685667..149535791&tracks=DNA&highlight=
 
 # Other
 
@@ -189,7 +193,7 @@ A list of cool jbrowse stuff and links around the web
 - PopFly - http://popfly.uab.cat/
 - Pichia genome (yeast) http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - iMethyl http://imethyl.iwate-megabank.org/genomebrowser.html
-- Proteogenomics browser http://bioinfo.vanderbilt.edu/proteogenomics/?data=cancer%2Fdata&loc=chr12%3A1..133851895&tracks=CPTAC_CRC_ALL_variants_alignment&highlight=
+- proBAM format (protein BAM files) using jbrowse http://proteogenomics.zhang-lab.org/
 - AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
 - CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
 
@@ -241,6 +245,7 @@ For historical perspective these are fun to view
 - Vibrio http://vibrio.um.edu.my/index.php/home/main
 - http://www.dnamethylome.org/
 - Pineapple http://peach.fafu.edu.cn/html/jbrowse/JBrowse-1.11.5/?data=Pineapple_genome_project (available at phytozome)
+- Streptococcus https://veeninglab.com/pneumobrowse
 
 # Credits
 
