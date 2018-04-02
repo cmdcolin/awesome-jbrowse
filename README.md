@@ -44,6 +44,7 @@ A list of cool jbrowse stuff and links around the web
 - Common carp, rainbow trout http://www.fishbrowser.org/
 - Salmon, trout http://salmobase.org/
 - Goldfish http://nemogenome.org/
+- Sea lamprey https://genomes.stowers.org/organism/Petromyzon/marinus
 
 ## Invertebrates
 
