@@ -193,6 +193,7 @@ A list of cool jbrowse stuff and links around the web
 - Cas-Database http://www.rgenome.net/cas-database/
 - grID crispr.technology http://crispr.technology/browser/?loc=chr1%3A99685667..149535791&tracks=DNA&highlight=
 - - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
+- piRNAquery http://bicresources.jcbose.ac.in/zhumur/pirnaquest/JBrowse-1.9.8/index.php?data=sample_data/json/human/data&loc=chr1:1..20000000&tracks=DNA,,,,,,,,,,,,
 
 # Other
 
@@ -210,8 +211,8 @@ A list of cool jbrowse stuff and links around the web
 - proBAM format (protein BAM files) using jbrowse http://proteogenomics.zhang-lab.org/
 - AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
 - CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
-
 - Togogenome http://togogenome.org/gene/9913:BRB
+
 # Plugins
 
 - MultiBigWig https://github.com/cmdcolin/multibigwig
@@ -258,13 +259,18 @@ For historical perspective these are fun to view
 - Cnidarian http://cnidarians.bu.edu/EdwardBase/cgi-bin/index.cgi
 - Helicobacter http://helicobacter.um.edu.my/index.php/home/main
 - Vibrio http://vibrio.um.edu.my/index.php/home/main
-- http://www.dnamethylome.org/
+- DNA methylome http://www.dnamethylome.org/
 - Pineapple http://peach.fafu.edu.cn/html/jbrowse/JBrowse-1.11.5/?data=Pineapple_genome_project (available at phytozome)
 - Streptococcus https://veeninglab.com/pneumobrowse
 
 # Credits
 
 Some sources gathered from http://gmod.org/wiki/GMOD_Users
+
+
+# Notes
+
+Some older instances may not load on TouchScreen due to a bug that was fixed in more recent versions of JBrowse. The javascript console will give a fatal error loading dgrid/TouchScroll. No workaround is available AFAIK
 
 
 
