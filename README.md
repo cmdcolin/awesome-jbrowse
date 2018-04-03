@@ -76,83 +76,116 @@ A list of cool jbrowse stuff and links around the web
 
 ## Plants
 
+
+### Arabadopsis
+
 - Araport - https://www.araport.org/ (instance https://apps.araport.org/jbrowse/?data=arabidopsis)
+- Arabadopsis http://asrp.danforthcenter.org/athaliana
+- A. thaliana small RNA https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.html
+- sORF A. thaliana https://www.biw.kuleuven.be/CSB/ARA-PEPs/
+
+### Rice
+
 - Rice https://ricebase.org (instance https://ricebase.org/jbrowse_ricebase/current/?data=data&loc=Chr1%3A17307555..25961739&tracks=&highlight=)
 - Rice SNP-seek http://snp-seek.irri.org/_jbrowse.zul;jsessionid=E05C5B42EB5BE438C189E7CF13B9ACB3?tracks=DNA,msu7gff,msu7snpsv2,msu7indelsv2
 - 3k rice db http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF&loc=chr01%3A17309567..25963751&highlight=
 - IC4R rice http://ic4r.org/ (instance http://visual.ic4r.org/view/?loc=1:2984..10815&tracklist=1&overview=0)
-- GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse)
-- Hardwood genomics https://www.hardwoodgenomics.org/content/jbrowse
-- Brachypodium distachyon http://jbrowse.brachypodium.org
+- Kitbase http://kitbase.ucdavis.edu/link.html
+
+
+
+### Trees
+
 - TreeGenesDB https://treegenesdb.org/Drupal/jbrowse
-- Lentil http://knowpulse.usask.ca/portal/lentil-genome (instance http://knowpulse.usask.ca/portal/jbrowse/Lentil)
+- Hardwood genomics https://www.hardwoodgenomics.org/content/jbrowse
+- TodoFirGene http://plantomics.mind.meiji.ac.jp/todomatsu/
+- Rubber tree http://matsui-lab.riken.jp/rubber/
+- Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
+- ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
+
+### Wheat
+
 - GrainGenes https://wheat.pw.usda.gov/GG3/JBrowse
 - Triticeae toolbox https://triticeaetoolbox.org
 - Wheat TILLING database http://www.wheat-tilling.com
+- Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/
+
+### Legumes
+
+- Lentil http://knowpulse.usask.ca/portal/lentil-genome (instance http://knowpulse.usask.ca/portal/jbrowse/Lentil)
+- PeanutBase https://peanutbase.org/
+- MedicagoGenome http://www.medicagogenome.org/ (instance http://www.medicagogenome.org/tools/jbrowse)
+- LegumeInfo https://legumeinfo.org/genomes/
+- Cool Season Food Legume https://www.coolseasonfoodlegume.org/
+- Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
+
+### Fruit
+
 - CitrusGreening https://citrusgreening.org/jbrowse_citrusgreening/current/
 - Citrus + pathogens https://www.citrusgenomedb.org/jbrowses
+- Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
+- GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse)
+- Cucumber, melon http://cucurbitgenomics.org/ (instance http://cucurbitgenomics.org/JBrowse/?data=icugi_data/json/cucumber_v2&tracks=DNA,genes)
+- Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
+- Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
+- Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
+- Apple genome/epigenome https://iris.angers.inra.fr/gddh13/
+- DBcherry http://cherry.kazusa.or.jp/
+
+### Tomato+related
+
 - Solanaceae (tomato, pepper, tobacco) https://solgenomics.net/
 - TomatoGenome http://www.tomatogenome.net/
 - DeenaBio http://jbrowse.deenabio.com/?data=data%2FSolanum_lycopersicum_V2.50%2F&loc=SL2.50ch01%3A1680396..1680447&tracks=ITAG2.4_gene_models%2CDNA%2C360_genomes_SNPs%2Cspecific%2Cnon-specific%2Csuperfamily%2Cmulti-domains%2Cconserved_sites&highlight=
 - Tomatomics http://bioinf.mind.meiji.ac.jp/tomatomics/
-- Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
-- PeanutBase https://peanutbase.org/
-- PlantMethylome - http://epigenome.genetics.uga.edu/PlantMethylome/
-- Brassica http://www.bioinformatics.nl/brassica/index.html?data=bras_tp/data
+
+### Cotton
+
 - CottenGen http://www.cottongen.org/
 - CottonFGD https://cottonfgd.org (instance https://cottonfgd.org/jbrowse/?data=data%2FGhir-NAU&loc=A01%3A42794028..43538019&tracks=DNA%2CGC%20Content%2Cgene&highlight=)
-- MedicagoGenome http://www.medicagogenome.org/ (instance http://www.medicagogenome.org/tools/jbrowse)
-- LegumeInfo https://legumeinfo.org/genomes/
-- Arabadopsis http://asrp.danforthcenter.org/athaliana
-- Cool Season Food Legume https://www.coolseasonfoodlegume.org/
-- Kitbase http://kitbase.ucdavis.edu/link.html
-- SpirodelaBase http://sviridis.org/jbrowse
-- Plant Small RNA genes http://plantsmallrnagenes.science.psu.edu/
-- Cucumber, melon http://cucurbitgenomics.org/ (instance http://cucurbitgenomics.org/JBrowse/?data=icugi_data/json/cucumber_v2&tracks=DNA,genes)
+
+### Multiple species
+
+- PlantMethylome - http://epigenome.genetics.uga.edu/PlantMethylome/
 - Phytozome - https://phytozome.jgi.doe.gov/ (instances https://phytozome.jgi.doe.gov/jbrowse/index.html)
+- Plant Small RNA genes http://plantsmallrnagenes.science.psu.edu/
+- PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse)
+- Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
+- PlaBi (potato, A. thaliana, sugarbeet, brassica napus) http://www.plabipd.de/
+- PlantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
+
+### Maize
+- Maize inflorescence http://maizeinflorescence.org/jbrowse/index.html?data=maize&loc=chr5%3A14064161..14082560&tracks=GFF%2Cqtl%2Ctophat_ear_base_bigwig%2Ctophat_ear_mid_bigwig%2Ctophat_ear_tip_bigwig&highlight=
+- Maize gametophyte http://www.maizegametophyte.org/browsers.html
+- Maize database aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
+
+### Other
+
+- Brachypodium distachyon http://jbrowse.brachypodium.org
+- Brassica http://www.bioinformatics.nl/brassica/index.html?data=bras_tp/data
+- SpirodelaBase http://sviridis.org/jbrowse
 - Coffee - http://coffee-genome.org/jbrowse
 - Cassava https://www.cassavagenome.org/?q=page/jbrowse-public
-- Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
-- Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
 - Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
 - Amborella http://amborella.huck.psu.edu/fish
 - MarpolBase http://marchantia.info/
 - LotusBase https://lotus.au.dk/ (instance https://lotus.au.dk/genome/)
 - ReefGenomics http://reefgenomics.org/ (example instance http://spis.reefgenomics.org/jbrowse)
-- TodoFirGene http://plantomics.mind.meiji.ac.jp/todomatsu/
-- Rubber tree http://matsui-lab.riken.jp/rubber/
-- Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
-- PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse)
-- PlantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
-- Maize database aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
 - Mulberry MnTEdb1 http://genedenovoweb.ticp.net:81/MnTEdb1/
 - Alfalfa https://www.alfalfatoolbox.org/
-- sORF A. thaliana https://www.biw.kuleuven.be/CSB/ARA-PEPs/
 - Sunflower https://sunflowergenome.org
 - Barley epigenome https://ics.hutton.ac.uk/barley-epigenome/
-- Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - Sweet potato http://sweetpotato.plantbiology.msu.edu
 - SweetPotatoBase https://sweetpotatobase.org/search
-- DBcherry http://cherry.kazusa.or.jp/
 - Asparagus http://asparagus.uga.edu
-- PlaBi (potato, A. thaliana, sugarbeet, brassica napus) http://www.plabipd.de/
-- A. thaliana small RNA https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.html
 - Pennycress http://pennycress.umn.edu/
-- Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
-- ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
 - ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
 - Mint (menthe) http://langelabtools.wsu.edu/mgr/genome_browser
 - Date palm https://jbrowsephoenix.abudhabi.nyu.edu/Jbrowse/JBrowse-1.11.5/?data=dp
-- Maize inflorescence http://maizeinflorescence.org/jbrowse/index.html?data=maize&loc=chr5%3A14064161..14082560&tracks=GFF%2Cqtl%2Ctophat_ear_base_bigwig%2Ctophat_ear_mid_bigwig%2Ctophat_ear_tip_bigwig&highlight=
-- Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
 - NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
-- Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
-- Apple genome/epigenome https://iris.angers.inra.fr/gddh13/
 - Angiosperm conservation http://angiosperm.org/jsp/ping.html
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 - Ipomoea  https://ipomoea-genome.org/
-- Maize gametophyte http://www.maizegametophyte.org/browsers.html
-- Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/
 
 ## Microbes/fungus
 
@@ -322,5 +355,6 @@ Some sources gathered from http://gmod.org/wiki/GMOD_Users
 
 Some older instances may not load on TouchScreen due to a bug that was fixed in more recent versions of JBrowse. The javascript console will give a fatal error loading dgrid/TouchScroll. No workaround is available AFAIK
 
+Feel free to provide feedback and better species categorizations :)
 
 
