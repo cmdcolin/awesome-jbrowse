@@ -179,6 +179,7 @@ A list of cool jbrowse stuff and links around the web
 - RNAstructureomeDB https://structurome.bb.iastate.edu/
 - Trident (St Jude Hospital) multi species http://trident.stjude.org/static/dre/
 - CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
+- Neuroseq http://neuroseq.janelia.org/
 
 # Workflows/platforms/concepts
 
