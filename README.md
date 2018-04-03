@@ -139,6 +139,7 @@ A list of cool jbrowse stuff and links around the web
 - Mint (menthe) http://langelabtools.wsu.edu/mgr/genome_browser
 - Date palm https://jbrowsephoenix.abudhabi.nyu.edu/Jbrowse/JBrowse-1.11.5/?data=dp
 - Maize inflorescence http://maizeinflorescence.org/jbrowse/index.html?data=maize&loc=chr5%3A14064161..14082560&tracks=GFF%2Cqtl%2Ctophat_ear_base_bigwig%2Ctophat_ear_mid_bigwig%2Ctophat_ear_tip_bigwig&highlight=
+- Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
 
 ## Microbes
 
@@ -155,6 +156,7 @@ A list of cool jbrowse stuff and links around the web
 - Pseudomonas http://www.pseudomonas.com/strain/browser
 - Salmonella http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL (instance http://bioinf.gen.tcd.ie/jbrowse/?data=salcom&loc=ST4-74.fa%3A1..975873&tracks=DNA%2CCDS%2CsRNA&highlight=)
 - Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
+- Algae https://greenhouse.lanl.gov/greenhouse/jb/
 
 # Human
 
