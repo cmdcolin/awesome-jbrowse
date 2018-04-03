@@ -145,6 +145,7 @@ A list of cool jbrowse stuff and links around the web
 - Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
 - Apple genome/epigenome https://iris.angers.inra.fr/gddh13/
 - Angiosperm conservation http://angiosperm.org/jsp/ping.html
+- GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 
 ## Microbes/fungus
 
