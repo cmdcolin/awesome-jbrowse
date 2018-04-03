@@ -143,7 +143,8 @@ A list of cool jbrowse stuff and links around the web
 - Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
 - NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
 - Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
-- Apple genome/epigenome 
+- Apple genome/epigenome https://iris.angers.inra.fr/gddh13/
+- Angiosperm conservation http://angiosperm.org/jsp/ping.html
 
 ## Microbes/fungus
 
@@ -169,6 +170,11 @@ A list of cool jbrowse stuff and links around the web
 - Target-Pathogen DB http://target.sbg.qb.fcen.uba.ar/patho/genome/
 - Neurospoira crassa (fungus) https://neutra.bzh.uni-heidelberg.de/
 - Agrocybe aegerita mushroom http://www.thines-lab.senckenberg.de/agrocybe_genome
+- Huangjiu Yeast http://www.ligene.cn/hygd/
+- Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
+- Pichia genome (yeast) http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
+- Rotifer http://tigriopus.synology.me/
+
 
 # Human
 
@@ -229,12 +235,10 @@ A list of cool jbrowse stuff and links around the web
 - MethSMRT - cross species browsers http://sysbio.gzzoc.com/methsmrt/
 - REDIPortal - A-to-I editing database http://srv00.recas.ba.infn.it/atlas/ (instance http://srv00.recas.ba.infn.it/atlas/jbrowse.html)
 - Lnc2Meth http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/browse.jsp
-- Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
 - CLIP-SEQ browser http://lulab.life.tsinghua.edu.cn/clipdb/
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 - PopFly - http://popfly.uab.cat/
-- Pichia genome (yeast) http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - iMethyl http://imethyl.iwate-megabank.org/genomebrowser.html
 - proBAM format (protein BAM files) using jbrowse http://proteogenomics.zhang-lab.org/
 - AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
