@@ -114,7 +114,6 @@ A list of cool jbrowse stuff and links around the web
 - MarpolBase http://marchantia.info/
 - LotusBase https://lotus.au.dk/ (instance https://lotus.au.dk/genome/)
 - ReefGenomics http://reefgenomics.org/ (example instance http://spis.reefgenomics.org/jbrowse)
-- Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
 - TodoFirGene http://plantomics.mind.meiji.ac.jp/todomatsu/
 - Rubber tree http://matsui-lab.riken.jp/rubber/
 - Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
@@ -162,6 +161,8 @@ A list of cool jbrowse stuff and links around the web
 - EBV (epstein barr virus) http://bioinfo.imtech.res.in/manojk/viralepi/pages/ebvbrowse.php
 - Lyme disease https://lymedisease.med.ucf.edu/
 - Burkholderia http://www.burkholderia.com/news
+- Marine microbes - Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
+- Gluconobacter  http://www.gluconobacterfactory.de/
 
 # Human
 
@@ -185,6 +186,7 @@ A list of cool jbrowse stuff and links around the web
 - Trident (St Jude Hospital) multi species http://trident.stjude.org/static/dre/
 - CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
 - Neuroseq http://neuroseq.janelia.org/
+- iMETHYL http://imethyl.iwate-megabank.org/jbrowse/?loc=ALDH2&tracks=hg19,gencode_v19,gencode_v19_trs,CpGIslandsExt,HM450,RepeatMasker,IMM_CpG_CD4T,IMM_CpG_CD4T_avg,IMM_CpG_CD4T_sd,IMM_CpG_Mono,IMM_CpG_Mono_avg,IMM_CpG_Mono_sd,IMM_FPKM_CD4T,IMM_FPKM_Mono,IMM_SNV
 
 # Workflows/platforms/concepts
 
