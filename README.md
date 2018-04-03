@@ -143,8 +143,9 @@ A list of cool jbrowse stuff and links around the web
 - Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
 - NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
 - Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
+- Apple genome/epigenome 
 
-## Microbes
+## Microbes/fungus
 
 - ZikaVR http://bioinfo.imtech.res.in/manojk/zikavr/genobrowse.php
 - PATRIC https://patricbrc.org/view/Genome/83332.12#view_tab=browser
@@ -167,6 +168,7 @@ A list of cool jbrowse stuff and links around the web
 - Gluconobacter  http://www.gluconobacterfactory.de/
 - Target-Pathogen DB http://target.sbg.qb.fcen.uba.ar/patho/genome/
 - Neurospoira crassa (fungus) https://neutra.bzh.uni-heidelberg.de/
+- Agrocybe aegerita mushroom http://www.thines-lab.senckenberg.de/agrocybe_genome
 
 # Human
 
