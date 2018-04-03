@@ -59,6 +59,7 @@ A list of cool jbrowse stuff and links around the web
 - AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
 - VectorBase (mosquito) https://www.vectorbase.org/
 - ASGDB (Anopheles sinensis, mosquito) http://www.asgdb.org/
+- Agambrowser (Anopheles gambiae, mosquito) http://omics.fiu.edu/Agambrowser.html
 - i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 - Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
