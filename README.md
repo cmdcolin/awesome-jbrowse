@@ -147,6 +147,7 @@ A list of cool jbrowse stuff and links around the web
 - Apple genome/epigenome https://iris.angers.inra.fr/gddh13/
 - Angiosperm conservation http://angiosperm.org/jsp/ping.html
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
+- Ipomoea  https://ipomoea-genome.org/
 
 ## Microbes/fungus
 
@@ -228,6 +229,8 @@ A list of cool jbrowse stuff and links around the web
 - Afra genome annotation http://afra.sbcs.qmul.ac.uk/
 - Snippy workflow http://sepsis-omics.github.io/tutorials/modules/snippy/
 - Prokka workflow https://slugger70.github.io/tutorials/modules/prokka/
+- CyVerse DNA Subway redline genome annotation  https://learning.cyverse.org/projects/dnasubway_guide/en/latest/step3.html
+- BioNanoAnalyst https://github.com/AppliedBioinformatics/BioNanoAnalyst (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493081/)
 
 # CRISPR
 
