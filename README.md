@@ -47,6 +47,7 @@ A list of cool jbrowse stuff and links around the web
 - Salmon, trout http://salmobase.org/
 - Goldfish http://nemogenome.org/
 - Sea lamprey https://genomes.stowers.org/organism/Petromyzon/marinus
+- Nothobranchius furzeri http://nfingb.leibniz-fli.de/
 
 ## Invertebrates
 
@@ -125,6 +126,7 @@ A list of cool jbrowse stuff and links around the web
 - Barley epigenome https://ics.hutton.ac.uk/barley-epigenome/
 - Pichia genome http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - Sweet potato http://sweetpotato.plantbiology.msu.edu
+- SweetPotatoBase https://sweetpotatobase.org/search
 - DBcherry http://cherry.kazusa.or.jp/
 - Asparagus http://asparagus.uga.edu
 - PlaBi (potato, A. thaliana, sugarbeet, brassica napus) http://www.plabipd.de/
@@ -133,7 +135,9 @@ A list of cool jbrowse stuff and links around the web
 - Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
 - ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
 - ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
-- Mint genome http://langelabtools.wsu.edu/mgr/genome_browser
+- Mint (menthe) http://langelabtools.wsu.edu/mgr/genome_browser
+- Date palm https://jbrowsephoenix.abudhabi.nyu.edu/Jbrowse/JBrowse-1.11.5/?data=dp
+- Maize inflorescence http://maizeinflorescence.org/jbrowse/index.html?data=maize&loc=chr5%3A14064161..14082560&tracks=GFF%2Cqtl%2Ctophat_ear_base_bigwig%2Ctophat_ear_mid_bigwig%2Ctophat_ear_tip_bigwig&highlight=
 
 ## Microbes
 
@@ -268,6 +272,7 @@ For historical perspective these are fun to view
 - DNA methylome http://www.dnamethylome.org/
 - Pineapple http://peach.fafu.edu.cn/html/jbrowse/JBrowse-1.11.5/?data=Pineapple_genome_project (available at phytozome)
 - Streptococcus https://veeninglab.com/pneumobrowse
+- RMbase http://mirlab.sysu.edu.cn/rmbase/
 
 # Credits
 
