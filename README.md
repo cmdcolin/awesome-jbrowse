@@ -175,7 +175,11 @@ A list of cool jbrowse stuff and links around the web
 - Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
 - Pichia genome (yeast) http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - Rotifer http://tigriopus.synology.me/
-
+- T parva http://igs-ilri.igs.umaryland.edu/eukaryotic.php
+- B microti http://jbrowse.igs.umaryland.edu/b_microti/
+- Tetrahymena http://www.jcvi.org/jbrowse/?data=tta2mic
+- Porcine whipworm http://gasser-research.vet.unimelb.edu.au/ (http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisMale http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisFemale)
+- Tuberculosis vaccine http://crdd.osdd.net/raghava/mtbveb/strain.php?strain=M_avium_K-10
 
 # Human
 
@@ -211,15 +215,15 @@ A list of cool jbrowse stuff and links around the web
 - CoGe https://genomevolution.org/
 - WikiGenomes https://wikigenomes.org
 - FISH oracle http://fishoracle.zbh.uni-hamburg.de:8080/fishoracle/ (expired https)
-- WebApollo http://genomearchitect.github.io/
-- GenSAS https://www.gensas.org/
+- WebApollo genome annotation http://genomearchitect.github.io/
+- GenSAS genome annotation pipeline https://www.gensas.org/
 - PhyloNode http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175480
 - proBAM protein encoded BAM in jbrowse  http://proteogenomics.zhang-lab.org/ (pub https://www.biorxiv.org/content/biorxiv/early/2017/06/20/152579.full.pdf)
 - EDGE bioinformatics platform https://github.com/LANL-Bioinformatics/EDGE
 - FALDO https://www.biorxiv.org/content/early/2014/02/02/002121
 - iPlant JBrowse MAKER integration https://pods.iplantcollaborative.org/wiki/display/Events/Exploring+MAKER-P+output+with+JBrowse+in+Atmosphere
 - Galaxy JBrowse wrapper https://toolshed.g2.bx.psu.edu/repository/display_tool?repository_id=a3e608531354bfa6&render_repository_actions_for=galaxy&tool_config=%2Fsrv%2Ftoolshed%2Fmain%2Fvar%2Fdata%2Frepos%2F001%2Frepo_1536%2Fjbrowse.xml&changeset_revision=7342f467507b
-
+- Afra genome annotation http://afra.sbcs.qmul.ac.uk/
 
 # CRISPR
 
