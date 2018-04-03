@@ -223,9 +223,11 @@ A list of cool jbrowse stuff and links around the web
 - EDGE bioinformatics platform https://github.com/LANL-Bioinformatics/EDGE
 - FALDO https://www.biorxiv.org/content/early/2014/02/02/002121
 - iPlant JBrowse MAKER integration https://pods.iplantcollaborative.org/wiki/display/Events/Exploring+MAKER-P+output+with+JBrowse+in+Atmosphere
-- Galaxy JBrowse wrapper https://toolshed.g2.bx.psu.edu/repository/display_tool?repository_id=a3e608531354bfa6&render_repository_actions_for=galaxy&tool_config=%2Fsrv%2Ftoolshed%2Fmain%2Fvar%2Fdata%2Frepos%2F001%2Frepo_1536%2Fjbrowse.xml&changeset_revision=7342f467507b
+- Galaxy JBrowse wrapper readme https://toolshed.g2.bx.psu.edu/repository/display_tool?repository_id=a3e608531354bfa6&render_repository_actions_for=galaxy&tool_config=%2Fsrv%2Ftoolshed%2Fmain%2Fvar%2Fdata%2Frepos%2F001%2Frepo_1536%2Fjbrowse.xml&changeset_revision=7342f467507b
+- Galaxy+Apollo+JBrowse http://gxaa.readthedocs.io/en/latest/doc/Apollo.html
 - Afra genome annotation http://afra.sbcs.qmul.ac.uk/
-- Snippy http://sepsis-omics.github.io/tutorials/modules/snippy/
+- Snippy workflow http://sepsis-omics.github.io/tutorials/modules/snippy/
+- Prokka workflow https://slugger70.github.io/tutorials/modules/prokka/
 
 # CRISPR
 
@@ -250,6 +252,7 @@ A list of cool jbrowse stuff and links around the web
 - CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
 - Togogenome http://togogenome.org/gene/9913:BRB
 - RPFDB ribosome protected mRNA fragments ]multi species] http://sysbio.sysu.edu.cn/rpfdb (instance http://sysbio.gzzoc.com/rpfdb/jbrowse/index.html?data=rpf_data%2Fhuman&loc=rcan1&tracks=Human_ref_seq%2CDNA%2CGSE22004_SRX021966_coverage)
+- OpenLooper https://openlooper.hgc.jp/JBrowse/index.php
 
 # Plugins
 
