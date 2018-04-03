@@ -113,7 +113,7 @@ A list of cool jbrowse stuff and links around the web
 - Rubber tree http://matsui-lab.riken.jp/rubber/
 - Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
 - PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse)
-- PantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
+- PlantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
 - Maize database aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
 - Mulberry MnTEdb1 http://genedenovoweb.ticp.net:81/MnTEdb1/
 - Alfalfa https://www.alfalfatoolbox.org/
@@ -124,7 +124,7 @@ A list of cool jbrowse stuff and links around the web
 - Sweet potato http://sweetpotato.plantbiology.msu.edu
 - DBcherry http://cherry.kazusa.or.jp/
 - Asparagus http://asparagus.uga.edu
-- PlaBi (potato, A. thaliana, superbeet, brassica napus) http://www.plabipd.de/
+- PlaBi (potato, A. thaliana, sugarbeet, brassica napus) http://www.plabipd.de/
 - A. thaliana small RNA https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.html
 - Pennycress http://pennycress.umn.edu/
 - Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
