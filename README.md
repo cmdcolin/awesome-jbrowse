@@ -39,6 +39,7 @@ A list of cool jbrowse stuff and links around the web
 - Chicken embryonic http://geisha.arizona.edu/geisha/search.jsp?entrez_gene=462937
 - Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html (instances https://metazome.jgi.doe.gov/jbrowse/index.html)
 - Pig lncRNA http://lnc.rnanet.org/pid/262/
+- NABIC - Agricultural animals http://nabic.rda.go.kr/gere/genomeResearchMain.do (cow instance http://nabic.rda.go.kr/jbrowse.do?data=cow)
 
 ## Fish
 
@@ -140,6 +141,7 @@ A list of cool jbrowse stuff and links around the web
 - Date palm https://jbrowsephoenix.abudhabi.nyu.edu/Jbrowse/JBrowse-1.11.5/?data=dp
 - Maize inflorescence http://maizeinflorescence.org/jbrowse/index.html?data=maize&loc=chr5%3A14064161..14082560&tracks=GFF%2Cqtl%2Ctophat_ear_base_bigwig%2Ctophat_ear_mid_bigwig%2Ctophat_ear_tip_bigwig&highlight=
 - Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
+- NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
 
 ## Microbes
 
@@ -157,6 +159,9 @@ A list of cool jbrowse stuff and links around the web
 - Salmonella http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL (instance http://bioinf.gen.tcd.ie/jbrowse/?data=salcom&loc=ST4-74.fa%3A1..975873&tracks=DNA%2CCDS%2CsRNA&highlight=)
 - Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
 - Algae https://greenhouse.lanl.gov/greenhouse/jb/
+- EBV (epstein barr virus) http://bioinfo.imtech.res.in/manojk/viralepi/pages/ebvbrowse.php
+- Lyme disease https://lymedisease.med.ucf.edu/
+- Burkholderia http://www.burkholderia.com/news
 
 # Human
 
