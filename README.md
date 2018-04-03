@@ -199,8 +199,9 @@ A list of cool jbrowse stuff and links around the web
 - Trident (St Jude Hospital) multi species http://trident.stjude.org/static/dre/
 - CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
 - Neuroseq http://neuroseq.janelia.org/
-- iMETHYL http://imethyl.iwate-megabank.org/jbrowse/?loc=ALDH2&tracks=hg19,gencode_v19,gencode_v19_trs,CpGIslandsExt,HM450,RepeatMasker,IMM_CpG_CD4T,IMM_CpG_CD4T_avg,IMM_CpG_CD4T_sd,IMM_CpG_Mono,IMM_CpG_Mono_avg,IMM_CpG_Mono_sd,IMM_FPKM_CD4T,IMM_FPKM_Mono,IMM_SNV
+- iMETHYL http://imethyl.iwate-megabank.org/genomebrowser.html
 - MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
+- Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 
 # Workflows/platforms/concepts
 
@@ -213,7 +214,7 @@ A list of cool jbrowse stuff and links around the web
 - WebApollo http://genomearchitect.github.io/
 - GenSAS https://www.gensas.org/
 - PhyloNode http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175480
-- proBAM protein encoded BAM in jbrowse https://www.biorxiv.org/content/biorxiv/early/2017/06/20/152579.full.pdf
+- proBAM protein encoded BAM in jbrowse  http://proteogenomics.zhang-lab.org/ (pub https://www.biorxiv.org/content/biorxiv/early/2017/06/20/152579.full.pdf)
 - EDGE bioinformatics platform https://github.com/LANL-Bioinformatics/EDGE
 - FALDO https://www.biorxiv.org/content/early/2014/02/02/002121
 - iPlant JBrowse MAKER integration https://pods.iplantcollaborative.org/wiki/display/Events/Exploring+MAKER-P+output+with+JBrowse+in+Atmosphere
@@ -227,7 +228,6 @@ A list of cool jbrowse stuff and links around the web
 - CRISPR-RT http://bioinfolab.miamioh.edu/CRISPR-RT/interface/Installation.php CRISPR-DT bioinfolab.miamioh.edu/CRISPR-DT CT-FINDER bioinfolab.miamioh.edu/ct-finder/
 - Cas-Database http://www.rgenome.net/cas-database/
 - grID crispr.technology http://crispr.technology/browser/?loc=chr1%3A99685667..149535791&tracks=DNA&highlight=
-- - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 - piRNAquery http://bicresources.jcbose.ac.in/zhumur/pirnaquest/JBrowse-1.9.8/index.php?data=sample_data/json/human/data&loc=chr1:1..20000000&tracks=DNA,,,,,,,,,,,,
 
 # Other
@@ -240,8 +240,6 @@ A list of cool jbrowse stuff and links around the web
 - ChIP-Base http://rna.sysu.edu.cn/chipbase/
 - tRF-finder http://rna.sysu.edu.cn/tRFfinder/browser.php?loc=tRNA-Gln-TTG-3-3:1..101
 - PopFly - http://popfly.uab.cat/
-- iMethyl http://imethyl.iwate-megabank.org/genomebrowser.html
-- proBAM format (protein BAM files) using jbrowse http://proteogenomics.zhang-lab.org/
 - AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
 - CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
 - Togogenome http://togogenome.org/gene/9913:BRB
