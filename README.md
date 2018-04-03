@@ -225,6 +225,7 @@ A list of cool jbrowse stuff and links around the web
 - iPlant JBrowse MAKER integration https://pods.iplantcollaborative.org/wiki/display/Events/Exploring+MAKER-P+output+with+JBrowse+in+Atmosphere
 - Galaxy JBrowse wrapper https://toolshed.g2.bx.psu.edu/repository/display_tool?repository_id=a3e608531354bfa6&render_repository_actions_for=galaxy&tool_config=%2Fsrv%2Ftoolshed%2Fmain%2Fvar%2Fdata%2Frepos%2F001%2Frepo_1536%2Fjbrowse.xml&changeset_revision=7342f467507b
 - Afra genome annotation http://afra.sbcs.qmul.ac.uk/
+- Snippy http://sepsis-omics.github.io/tutorials/modules/snippy/
 
 # CRISPR
 
@@ -248,6 +249,7 @@ A list of cool jbrowse stuff and links around the web
 - AURA - Atlas of UTR regulatory activity http://aura.science.unitn.it/search_gene/?activeTab=0&organism=hg19&genename=MYC
 - CAPSID - https://github.com/capsid/capsid/wiki/Tutorial
 - Togogenome http://togogenome.org/gene/9913:BRB
+- RPFDB ribosome protected mRNA fragments ]multi species] http://sysbio.sysu.edu.cn/rpfdb (instance http://sysbio.gzzoc.com/rpfdb/jbrowse/index.html?data=rpf_data%2Fhuman&loc=rcan1&tracks=Human_ref_seq%2CDNA%2CGSE22004_SRX021966_coverage)
 
 # Plugins
 
