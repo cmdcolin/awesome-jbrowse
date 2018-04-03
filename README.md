@@ -50,6 +50,7 @@ A list of cool jbrowse stuff and links around the web
 - Goldfish http://nemogenome.org/
 - Sea lamprey https://genomes.stowers.org/organism/Petromyzon/marinus
 - Nothobranchius furzeri http://nfingb.leibniz-fli.de/
+- Seabass http://denovo.cnag.cat/genomes/seabass/
 
 ## Invertebrates
 
@@ -141,6 +142,7 @@ A list of cool jbrowse stuff and links around the web
 - Maize inflorescence http://maizeinflorescence.org/jbrowse/index.html?data=maize&loc=chr5%3A14064161..14082560&tracks=GFF%2Cqtl%2Ctophat_ear_base_bigwig%2Ctophat_ear_mid_bigwig%2Ctophat_ear_tip_bigwig&highlight=
 - Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
 - NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
+- Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
 
 ## Microbes
 
@@ -163,6 +165,8 @@ A list of cool jbrowse stuff and links around the web
 - Burkholderia http://www.burkholderia.com/news
 - Marine microbes - Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
 - Gluconobacter  http://www.gluconobacterfactory.de/
+- Target-Pathogen DB http://target.sbg.qb.fcen.uba.ar/patho/genome/
+- Neurospoira crassa (fungus) https://neutra.bzh.uni-heidelberg.de/
 
 # Human
 
@@ -187,6 +191,7 @@ A list of cool jbrowse stuff and links around the web
 - CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
 - Neuroseq http://neuroseq.janelia.org/
 - iMETHYL http://imethyl.iwate-megabank.org/jbrowse/?loc=ALDH2&tracks=hg19,gencode_v19,gencode_v19_trs,CpGIslandsExt,HM450,RepeatMasker,IMM_CpG_CD4T,IMM_CpG_CD4T_avg,IMM_CpG_CD4T_sd,IMM_CpG_Mono,IMM_CpG_Mono_avg,IMM_CpG_Mono_sd,IMM_FPKM_CD4T,IMM_FPKM_Mono,IMM_SNV
+- MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
 
 # Workflows/platforms/concepts
 
