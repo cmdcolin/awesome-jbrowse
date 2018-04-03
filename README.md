@@ -37,6 +37,7 @@ A list of cool jbrowse stuff and links around the web
 - Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
 - Parus major (bird) https://genomes.bioinf.nioo.knaw.nl/node/279579
 - Chicken embryonic http://geisha.arizona.edu/geisha/search.jsp?entrez_gene=462937
+- Chicken repeats http://chicken-repeats.inra.fr/index.php?pages/Galgal5%3A-What-s-new
 - Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html (instances https://metazome.jgi.doe.gov/jbrowse/index.html)
 - Pig lncRNA http://lnc.rnanet.org/pid/262/
 - NABIC - Agricultural animals http://nabic.rda.go.kr/gere/genomeResearchMain.do (cow instance http://nabic.rda.go.kr/jbrowse.do?data=cow)
