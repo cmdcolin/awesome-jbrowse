@@ -25,6 +25,32 @@ A list of cool jbrowse stuff and links around the web
 - FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
 - PomBase https://www.pombase.org/ (instance https://www.pombase.org/jbrowse)
 
+# Human
+
+- GWAS browser http://gwas-browser.nygenome.org
+- COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
+- Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
+- PopHuman http://pophuman.uab.cat/
+- HiC publicatiob https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
+- CAPER proteome http://www.bprc.ac.cn/CAPE
+- ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
+- ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
+- Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
+- Neandertal genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
+- Dasman http://dgr.dasmaninstitute.org/DGR/index.html (instance http://dgr.dasmaninstitute.org/JBrowse-1.12.3/index.html?loc=chr1%3A63064986..63065195&tracks=DNA&data=data%2F)
+- HumCFS (chromosome fragile sites) http://webs.iiitd.edu.in/raghava/humcfs/genome.php
+- Database of autozygous segments http://pembertonlab.med.umanitoba.ca/das.php (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5709839/)
+- NIAGADS Alzheimers https://www.niagads.org/genomics/jbrowse.jsp
+- iHMS histone modification http://www.tongjidmb.com/human/index.html
+- RNAex (secondary structure prediction) http://lulab.life.tsinghua.edu.cn/RNAex/jbrowse.php?Species=S.cerevisiae&Build=SacCer2&Datatype=PARS&Location=
+- RNAstructureomeDB https://structurome.bb.iastate.edu/
+- Trident (St Jude Hospital) multi species http://trident.stjude.org/static/dre/
+- CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
+- Neuroseq http://neuroseq.janelia.org/
+- iMETHYL http://imethyl.iwate-megabank.org/genomebrowser.html
+- MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
+- Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
+
 # Non-model organisms
 
 ## Animals
@@ -189,63 +215,50 @@ A list of cool jbrowse stuff and links around the web
 
 ## Microbes/fungus
 
+### Virus
+
 - ZikaVR http://bioinfo.imtech.res.in/manojk/zikavr/genobrowse.php
+- HPVBase http://crdd.osdd.net/servers/hpvbase/ (instance http://crdd.osdd.net/servers/hpvbase/jbrowse/JBrowse-1.11.2/?data=sample_data%2Fjson%2Fhpvmeths31&loc=J04353%3A5462..6612&tracks=DNA%2CWentzensen_et_al._2012_PMID-23093560%2CVasiljevic_et_al._2014_PMID-24468012%2CBrentnall_et_al._2014_PMID-24535756&highlight=)
+- HIV https://www.hiv.lanl.gov (instance https://www.hiv.lanl.gov/content/sequence/jbrowse/?loc=Gag%3A1..500&tracks=PROTEIN%2CSub-protein_map&data=hivdata%2FEpitope-protein&highlight=)
+- EBV (epstein barr virus) http://bioinfo.imtech.res.in/manojk/viralepi/pages/ebvbrowse.php
+
+### Bacteria
+- Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
 - PATRIC https://patricbrc.org/view/Genome/83332.12#view_tab=browser
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/
-- GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
-- CyanoBase http://genome.microbedb.jp/CyanoBase
-- HPVBase http://crdd.osdd.net/servers/hpvbase/ (instance http://crdd.osdd.net/servers/hpvbase/jbrowse/JBrowse-1.11.2/?data=sample_data%2Fjson%2Fhpvmeths31&loc=J04353%3A5462..6612&tracks=DNA%2CWentzensen_et_al._2012_PMID-23093560%2CVasiljevic_et_al._2014_PMID-24468012%2CBrentnall_et_al._2014_PMID-24535756&highlight=)
 - PhyTB http://pathogenseq.lshtm.ac.uk/phytblive/index.php
-- HIV https://www.hiv.lanl.gov (instance https://www.hiv.lanl.gov/content/sequence/jbrowse/?loc=Gag%3A1..500&tracks=PROTEIN%2CSub-protein_map&data=hivdata%2FEpitope-protein&highlight=)
-- Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
 - Mycobrowser https://mycobrowser.epfl.ch/genes/MMAR_1971
 - Pseudomonas http://www.pseudomonas.com/strain/browser
 - Salmonella http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL (instance http://bioinf.gen.tcd.ie/jbrowse/?data=salcom&loc=ST4-74.fa%3A1..975873&tracks=DNA%2CCDS%2CsRNA&highlight=)
-- Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
-- Algae https://greenhouse.lanl.gov/greenhouse/jb/
-- EBV (epstein barr virus) http://bioinfo.imtech.res.in/manojk/viralepi/pages/ebvbrowse.php
 - Lyme disease https://lymedisease.med.ucf.edu/
-- Burkholderia http://www.burkholderia.com/news
-- Marine microbes - Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
 - Gluconobacter  http://www.gluconobacterfactory.de/
-- Target-Pathogen DB http://target.sbg.qb.fcen.uba.ar/patho/genome/
+- Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
+
+### Fungus
+
 - Neurospoira crassa (fungus) https://neutra.bzh.uni-heidelberg.de/
 - Agrocybe aegerita mushroom http://www.thines-lab.senckenberg.de/agrocybe_genome
+- Pichia yeast http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
 - Huangjiu Yeast http://www.ligene.cn/hygd/
 - Yeast strain CEN.PK113-7D  http://genomebrowser.uams.edu/cenpk1137/
-- Pichia genome (yeast) http://pichiagenome-ext.boku.ac.at:8080/apex/f?p=100:1
-- Rotifer http://tigriopus.synology.me/
+
+### Parasite
+
 - T parva http://igs-ilri.igs.umaryland.edu/eukaryotic.php
 - B microti http://jbrowse.igs.umaryland.edu/b_microti/
+- GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
+
+### Other
+
+- CyanoBase http://genome.microbedb.jp/CyanoBase
+- Algae https://greenhouse.lanl.gov/greenhouse/jb/
+- Burkholderia http://www.burkholderia.com/news
+- Marine microbes - Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
+- Target-Pathogen DB http://target.sbg.qb.fcen.uba.ar/patho/genome/
+- Rotifer http://tigriopus.synology.me/
 - Tetrahymena http://www.jcvi.org/jbrowse/?data=tta2mic
 - Porcine whipworm http://gasser-research.vet.unimelb.edu.au/ (http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisMale http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisFemale)
 - Tuberculosis vaccine http://crdd.osdd.net/raghava/mtbveb/strain.php?strain=M_avium_K-10
-
-# Human
-
-- GWAS browser http://gwas-browser.nygenome.org
-- COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
-- Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
-- PopHuman http://pophuman.uab.cat/
-- HiC publicatiob https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
-- CAPER proteome http://www.bprc.ac.cn/CAPE
-- ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
-- ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
-- Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
-- Neandertal genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
-- Dasman http://dgr.dasmaninstitute.org/DGR/index.html (instance http://dgr.dasmaninstitute.org/JBrowse-1.12.3/index.html?loc=chr1%3A63064986..63065195&tracks=DNA&data=data%2F)
-- HumCFS (chromosome fragile sites) http://webs.iiitd.edu.in/raghava/humcfs/genome.php
-- Database of autozygous segments http://pembertonlab.med.umanitoba.ca/das.php (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5709839/)
-- NIAGADS Alzheimers https://www.niagads.org/genomics/jbrowse.jsp
-- iHMS histone modification http://www.tongjidmb.com/human/index.html
-- RNAex (secondary structure prediction) http://lulab.life.tsinghua.edu.cn/RNAex/jbrowse.php?Species=S.cerevisiae&Build=SacCer2&Datatype=PARS&Location=
-- RNAstructureomeDB https://structurome.bb.iastate.edu/
-- Trident (St Jude Hospital) multi species http://trident.stjude.org/static/dre/
-- CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
-- Neuroseq http://neuroseq.janelia.org/
-- iMETHYL http://imethyl.iwate-megabank.org/genomebrowser.html
-- MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
-- Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 
 # Workflows/platforms/concepts
 
