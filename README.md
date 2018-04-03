@@ -57,6 +57,7 @@ A list of cool jbrowse stuff and links around the web
 - Marine genomics - http://marinegenomics.oist.jp/
 - Mnemiopsis (comc jelly) http://research.nhgri.nih.gov/mnemiopsis/
 - Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
+- Oyster (built into gigadb data access page) http://gigadb.org/dataset/100240 (instance http://penguin.genomics.cn/jbrowse/index.html?data=100240&loc=PIN_chr1%3A41831034..62750633&tracks=DNA%2CPinctada&highlight=)
 
 ## Insects
 
