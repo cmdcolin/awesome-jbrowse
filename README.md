@@ -37,7 +37,7 @@ A list of cool jbrowse stuff and links around the web
 - Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
 - Parus major (bird) https://genomes.bioinf.nioo.knaw.nl/node/279579
 - Chicken embryonic http://geisha.arizona.edu/geisha/search.jsp?entrez_gene=462937
-- Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html
+- Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html (instances https://metazome.jgi.doe.gov/jbrowse/index.html)
 
 ## Fish
 
