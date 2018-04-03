@@ -70,6 +70,7 @@ A list of cool jbrowse stuff and links around the web
 - Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
 - White fly http://whiteflygenomics.org
 - PTspider Base http://www.e-celldev.jp/pt_spiderbase/ (instance http://www.brh2.jp/jbrowse/Ptep1.0/?loc=Scaffold00547%3A237581..301143&tracks=DNA%2Caug3_gmodels%2Cncbi-AR100&highlight=)
+- Folsomia+Orchesella http://collembolomics.nl/collembolomics/index.php  (instance folsomia http://collembolomics.nl/collembolomics/folsomia/jbrowse/index.html?loc=Fcan01_Sc001%3A11413284..17120148&tracks=DNA&highlight=)
 
 ## Plants
 
@@ -148,6 +149,7 @@ A list of cool jbrowse stuff and links around the web
 - Angiosperm conservation http://angiosperm.org/jsp/ping.html
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 - Ipomoea  https://ipomoea-genome.org/
+- Maize gametophyte http://www.maizegametophyte.org/browsers.html
 
 ## Microbes/fungus
 
