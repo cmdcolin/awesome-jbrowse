@@ -37,6 +37,7 @@ A list of cool jbrowse stuff and links around the web
 - Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
 - Parus major (bird) https://genomes.bioinf.nioo.knaw.nl/node/279579
 - Chicken embryonic http://geisha.arizona.edu/geisha/search.jsp?entrez_gene=462937
+- Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html
 
 ## Fish
 
@@ -57,6 +58,7 @@ A list of cool jbrowse stuff and links around the web
 
 - AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
 - VectorBase (mosquito) https://www.vectorbase.org/
+- ASGDB (Anopheles sinensis, mosquito) http://www.asgdb.org/
 - i5k Workspace@NAL https://i5k.nal.usda.gov/ (instances https://i5k.nal.usda.gov/available-genome-browsers)
 - BeetleBase - http://beetlebase.org/JBrowse-1.10.5/index.html?data=tcas_4.0
 - Wintermoth http://www.bioinformatics.nl/wintermoth/jbrowse/?loc=OBRU01_Sc00001%3A196170..294258&tracks=DNA&highlight=
