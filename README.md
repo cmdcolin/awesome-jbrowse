@@ -51,6 +51,7 @@ A list of cool jbrowse stuff and links around the web
 - Sea lamprey https://genomes.stowers.org/organism/Petromyzon/marinus
 - Nothobranchius furzeri http://nfingb.leibniz-fli.de/
 - Seabass http://denovo.cnag.cat/genomes/seabass/
+- Seriola https://www.serioladb.org/downloads
 
 ## Invertebrates
 
@@ -150,6 +151,7 @@ A list of cool jbrowse stuff and links around the web
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 - Ipomoea  https://ipomoea-genome.org/
 - Maize gametophyte http://www.maizegametophyte.org/browsers.html
+- Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/
 
 ## Microbes/fungus
 
