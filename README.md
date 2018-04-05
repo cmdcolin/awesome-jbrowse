@@ -11,6 +11,14 @@ A list of cool jbrowse stuff and links around the web
 - JBrowse FAQ - http://gmod.org/wiki/JBrowse_FAQ
 
 
+# Tutorials
+
+- https://araport-dev.tacc.utexas.edu/jbrowse-user-guide
+- https://geniecms.org/manual.html
+- https://cbsu.tc.cornell.edu/lab/userguide.aspx?a=software&i=357#c
+- http://stab.st-andrews.ac.uk/wiki/index.php/JBrowse
+- https://jharaphula.com/how-to-setup-jbrowse-in-ubuntu/
+- http://gmod.org/wiki/JBrowse_Tutorial_PAG_2017
 
 # Model organism databases
 
@@ -179,11 +187,15 @@ A list of cool jbrowse stuff and links around the web
 - Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
 - PlaBi (potato, A. thaliana, sugarbeet, brassica napus) http://www.plabipd.de/
 - PlantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
+- Lipm https://lipm-browsers.toulouse.inra.fr/
+- Beans http://beans.cars.desu.edu/
 
 ### Maize
+
 - Maize inflorescence http://maizeinflorescence.org/jbrowse/index.html?data=maize&loc=chr5%3A14064161..14082560&tracks=GFF%2Cqtl%2Ctophat_ear_base_bigwig%2Ctophat_ear_mid_bigwig%2Ctophat_ear_tip_bigwig&highlight=
 - Maize gametophyte http://www.maizegametophyte.org/browsers.html
 - Maize database aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
+- ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
 
 ### Other
 
@@ -205,7 +217,6 @@ A list of cool jbrowse stuff and links around the web
 - SweetPotatoBase https://sweetpotatobase.org/search
 - Asparagus http://asparagus.uga.edu
 - Pennycress http://pennycress.umn.edu/
-- ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
 - Mint (menthe) http://langelabtools.wsu.edu/mgr/genome_browser
 - Date palm https://jbrowsephoenix.abudhabi.nyu.edu/Jbrowse/JBrowse-1.11.5/?data=dp
 - NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
