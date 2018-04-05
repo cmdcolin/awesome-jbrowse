@@ -326,6 +326,9 @@ A list of cool jbrowse stuff and links around the web
 - GA4GHViewer https://github.com/cmdcolin/ga4ghviewer
 - EnsemblVariants https://github.com/Arabidopsis-Information-Portal/EnsemblVariants
 - ElasticSearch https://github.com/cmdcolin/jbrowse_elasticsearch
+- 1001 Genomes (araport) https://github.com/Arabidopsis-Information-Portal/1001GenomesVariants
+- CyVerse https://github.com/Arabidopsis-Information-Portal/CyverseRemoteTracks
+- Araport https://github.com/Arabidopsis-Information-Portal/AraportJBPlugin
 
 ## UI modifiers
 
