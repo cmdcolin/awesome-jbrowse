@@ -310,35 +310,54 @@ A list of cool jbrowse stuff and links around the web
 
 # Plugins
 
+
+## New track types
+
 - MultiBigWig https://github.com/cmdcolin/multibigwig
 - SashimiPlot https://github.com/cmdcolin/sashimiplot
 - GCContent https://github.com/cmdcolin/gccontent
-- ElasticSearch https://github.com/cmdcolin/jbrowse_elasticsearch
+- Methylation https://github.com/bhofmei/jbplugin-methylation
 - GWASViewer https://github.com/cmdcolin/gwasviewer
+- BioNano https://github.com/bionanogenomics/JBrowsePlugin
+
+## Backend adapters
+
 - MyVariantViewer https://github.com/cmdcolin/myvariantviewer
 - GA4GHViewer https://github.com/cmdcolin/ga4ghviewer
+- EnsemblVariants https://github.com/Arabidopsis-Information-Portal/EnsemblVariants
+- ElasticSearch https://github.com/cmdcolin/jbrowse_elasticsearch
+
+## UI modifiers
+
 - HierarchicalCheckbox https://github.com/bhofmei/jbplugin-hierarchicalcheckbox
 - TrackScores https://github.com/bhofmei/jbplugin-trackscores
-- Methylation https://github.com/bhofmei/jbplugin-methylation
 - SmallRNA https://github.com/bhofmei/jbplugin-smallrna
-- Screenshot https://github.com/bhofmei/jbplugin-screenshot
-- CoGE https://github.com/LyonsLab/coge/tree/master/web/js/jbrowse/plugins/CoGe
-- Fullscreen https://github.com/awilkey/fullscreen-jbrowse
-- Araport Ensembl https://github.com/Arabidopsis-Information-Portal/jbrowse/tree/stable/plugins/EnsemblVariants
 - Araport ComboTrackSelector https://github.com/Arabidopsis-Information-Portal/jbrowse/tree/stable/plugins/ComboTrackSelector
+- SwitchTrackSelector http://staging.wormbase.org/tools/genome/jbrowse-simple/plugins/SwitchTrackSelector/js/main.js
+- AliasRefSeqs https://github.com/rbuels/aliasrefseqs-jbrowse-plugin
+
+## Tools
+
+- Screenshot https://github.com/bhofmei/jbplugin-screenshot
+- Fullscreen https://github.com/awilkey/fullscreen-jbrowse
 - Araport SeqLighter https://github.com/Arabidopsis-Information-Portal/SeqLighter
-- BioNano https://github.com/bionanogenomics/JBrowsePlugin
-- Dynamix http://gbcs.embl.de/portal/tiki-index.php?page=JBrowse+Dynamix+Plugin
-- PubAnnotation https://github.com/rbuels/JBrowse_PubAnnotation
+- FeatureSequence https://github.com/tsaari88/FeatureSequence
+- RestrictionSearch https://github.com/scottcain/RestrictionSearch
+- MotifSearch https://github.com/scottcain/MotifSearch
+- MotifFinder https://github.com/scottcain/MotifFinder
+- PrimerDesign https://github.com/jimhu-tamu/hulab-jbrowse
 - WebApollo https://github.com/GMOD/Apollo
 - Genovo https://github.com/igemsoftware/Shenzhen_BGIC_0101_2013/tree/master/plugins/Genovo
-- FeatureSequence https://github.com/tsaari88/FeatureSequence
-- SwitchTrackSelector http://staging.wormbase.org/tools/genome/jbrowse-simple/plugins/SwitchTrackSelector/js/main.js
-- PrimerDesign https://github.com/jimhu-tamu/hulab-jbrowse
-- AliasRefSeqs https://github.com/rbuels/aliasrefseqs-jbrowse-plugin
-- MotifFinder https://github.com/scottcain/MotifFinder
-- MotifSearch https://github.com/scottcain/MotifSearch
-- RestrictionSearch https://github.com/scottcain/RestrictionSearch
+
+## Wrapper systems
+
+- CoGE https://github.com/LyonsLab/coge/tree/master/web/js/jbrowse/plugins/CoGe
+- Dynamix http://gbcs.embl.de/portal/tiki-index.php?page=JBrowse+Dynamix+Plugin
+
+## Other
+
+- PubAnnotation https://github.com/rbuels/JBrowse_PubAnnotation
+
 
 # Old JBrowse instances
 
