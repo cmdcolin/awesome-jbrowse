@@ -329,9 +329,12 @@ A list of cool jbrowse stuff and links around the web
 - MultiBigWig https://github.com/cmdcolin/multibigwig
 - SashimiPlot https://github.com/cmdcolin/sashimiplot
 - GCContent https://github.com/cmdcolin/gccontent
-- Methylation https://github.com/bhofmei/jbplugin-methylation
+- GCCoverage https://github.com/cmdcolin/gccontent
 - GWASViewer https://github.com/cmdcolin/gwasviewer
+- MAFViewer https://github.com/cmdcolin/mafviewer
 - BioNano https://github.com/bionanogenomics/JBrowsePlugin
+- Methylation https://github.com/bhofmei/jbplugin-methylation
+- StandedPlot https://github.com/bhofmei/jbplugin-strandedplot
 
 ## Backend adapters
 
