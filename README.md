@@ -234,6 +234,7 @@ A list of cool jbrowse stuff and links around the web
 - EBV (epstein barr virus) http://bioinfo.imtech.res.in/manojk/viralepi/pages/ebvbrowse.php
 
 ### Bacteria
+
 - Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
 - PATRIC https://patricbrc.org/view/Genome/83332.12#view_tab=browser
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/
@@ -244,6 +245,7 @@ A list of cool jbrowse stuff and links around the web
 - Lyme disease https://lymedisease.med.ucf.edu/
 - Gluconobacter  http://www.gluconobacterfactory.de/
 - Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
+- Streptococcus https://veeninglab.com/pneumobrowse (instance http://jbrowse.molgenrug.nl/pneumobrowse/?loc=D39V.0%3A4433..6067&tracks=DNA%2Cgff_operons%2Cgff_genes%2Cgff_regulatory%2Cbigwig-track_01_norm_cont_coverage&highlight=)
 
 ### Fungus
 
@@ -389,7 +391,6 @@ For historical perspective these are fun to view
 - Vibrio http://vibrio.um.edu.my/index.php/home/main
 - DNA methylome http://www.dnamethylome.org/
 - Pineapple http://peach.fafu.edu.cn/html/jbrowse/JBrowse-1.11.5/?data=Pineapple_genome_project (available at phytozome)
-- Streptococcus https://veeninglab.com/pneumobrowse
 - RMbase http://mirlab.sysu.edu.cn/rmbase/
 
 # Credits
