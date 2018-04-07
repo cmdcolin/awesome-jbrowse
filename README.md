@@ -327,6 +327,7 @@ A list of cool jbrowse stuff and links around the web
 ## New track types
 
 - MultiBigWig https://github.com/cmdcolin/multibigwig
+- MultiVariantViewer https://github.com/elsiklab/multivariantviewer
 - SashimiPlot https://github.com/cmdcolin/sashimiplot
 - GCContent https://github.com/cmdcolin/gccontent
 - GCCoverage https://github.com/cmdcolin/gccontent
