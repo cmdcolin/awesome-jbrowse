@@ -260,7 +260,7 @@ A list of cool jbrowse stuff and links around the web
 - T parva http://igs-ilri.igs.umaryland.edu/eukaryotic.php
 - B microti http://jbrowse.igs.umaryland.edu/b_microti/
 - GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
-
+- LeishDB http://www.leishdb.com/ (instance http://www.leishdb.com/browser)
 ### Other
 
 - CyanoBase http://genome.microbedb.jp/CyanoBase
