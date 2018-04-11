@@ -222,7 +222,7 @@ A list of cool jbrowse stuff and links around the web
 - Mint (menthe) http://langelabtools.wsu.edu/mgr/genome_browser
 - Date palm https://jbrowsephoenix.abudhabi.nyu.edu/Jbrowse/JBrowse-1.11.5/?data=dp
 - NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
-- Angiosperm conservation http://angiosperm.org/jsp/ping.html
+- Angiosperm conservation http://angiosperm.org/jsp/ping.html (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5798027/)
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 - Ipomoea  https://ipomoea-genome.org/
 - Lupin http://www.lupinexpress.org/
