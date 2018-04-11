@@ -263,6 +263,7 @@ A list of cool jbrowse stuff and links around the web
 - B microti http://jbrowse.igs.umaryland.edu/b_microti/
 - GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
 - LeishDB http://www.leishdb.com/ (instance http://www.leishdb.com/browser)
+
 ### Other
 
 - CyanoBase http://genome.microbedb.jp/CyanoBase
@@ -371,7 +372,7 @@ A list of cool jbrowse stuff and links around the web
 - MotifFinder https://github.com/scottcain/MotifFinder
 - PrimerDesign https://github.com/jimhu-tamu/hulab-jbrowse
 - WebApollo https://github.com/GMOD/Apollo
-- Genovo https://github.com/igemsoftware/Shenzhen_BGIC_0101_2013/tree/master/plugins/Genovo
+- Genovo https://github.com/igemsoftware/Shenzhen_BGIC_0101_2013/tree/master/plugins/Genovo (https://github.com/gongjianhui-bgi/Genovo)
 
 ## Wrapper systems
 
