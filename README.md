@@ -297,6 +297,7 @@ A list of cool jbrowse stuff and links around the web
 - Prokka workflow https://slugger70.github.io/tutorials/modules/prokka/
 - CyVerse DNA Subway redline genome annotation  https://learning.cyverse.org/projects/dnasubway_guide/en/latest/step3.html
 - BioNanoAnalyst https://github.com/AppliedBioinformatics/BioNanoAnalyst (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493081/)
+- JBrowse ADAM https://github.com/FusionWorks/jbrowse-adam
 
 # CRISPR
 
@@ -338,6 +339,7 @@ A list of cool jbrowse stuff and links around the web
 - BioNano https://github.com/bionanogenomics/JBrowsePlugin
 - Methylation https://github.com/bhofmei/jbplugin-methylation
 - StandedPlot https://github.com/bhofmei/jbplugin-strandedplot
+- ProportionalMultiBw https://github.com/cancerit/proportionalmultibw
 
 ## Backend adapters
 
@@ -398,6 +400,7 @@ For historical perspective these are fun to view
 - DNA methylome http://www.dnamethylome.org/
 - Pineapple http://peach.fafu.edu.cn/html/jbrowse/JBrowse-1.11.5/?data=Pineapple_genome_project (available at phytozome)
 - RMbase http://mirlab.sysu.edu.cn/rmbase/
+- NCBI Hackathon Staph viewer https://github.com/NCBI-Hackathons/Staph_aureus_viewer
 
 # Credits
 
