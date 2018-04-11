@@ -70,6 +70,7 @@ A list of cool jbrowse stuff and links around the web
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
 - Naked mole rat http://naked-mole-rat.org/ (instance http://naked-mole-rat.org/jbrowse/index.html?tracks=region,gene,mRNA&loc=NW_004624913.1:2045721..2060006)
 - Parus major (bird) https://genomes.bioinf.nioo.knaw.nl/node/279579
+- Gold colored manakin (bird) -  Smithsonian genome collection (https://oris.si.edu/smithsonian-genome-collection) (Manacus Vitellinus) https://oris.si.edu/smithsonian-digital-genome-collection/manacus-vitellinus (instance http://genomics.si.edu.s3-website-us-east-1.amazonaws.com/JBrowse-1.11.4/?loc=scaffold1%3A274416..2232959&tracks=DNA%2Cgenes%2CRepeatMasker&highlight=&tracklist=0&overview=1&nav=1)
 - Chicken embryonic http://geisha.arizona.edu/geisha/search.jsp?entrez_gene=462937
 - Chicken repeats http://chicken-repeats.inra.fr/index.php?pages/Galgal5%3A-What-s-new
 - Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html (instances https://metazome.jgi.doe.gov/jbrowse/index.html)
@@ -107,6 +108,7 @@ A list of cool jbrowse stuff and links around the web
 - White fly http://whiteflygenomics.org
 - PTspider Base http://www.e-celldev.jp/pt_spiderbase/ (instance http://www.brh2.jp/jbrowse/Ptep1.0/?loc=Scaffold00547%3A237581..301143&tracks=DNA%2Caug3_gmodels%2Cncbi-AR100&highlight=)
 - Folsomia+Orchesella http://collembolomics.nl/collembolomics/index.php  (instance folsomia http://collembolomics.nl/collembolomics/folsomia/jbrowse/index.html?loc=Fcan01_Sc001%3A11413284..17120148&tracks=DNA&highlight=)
+
 
 ## Plants
 
