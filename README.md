@@ -13,6 +13,7 @@ A list of cool jbrowse stuff and links around the web
 
 # Tutorials
 
+- https://github.com/Arabidopsis-Information-Portal/jbrowse-tabix-howto
 - https://araport-dev.tacc.utexas.edu/jbrowse-user-guide
 - https://geniecms.org/manual.html
 - https://cbsu.tc.cornell.edu/lab/userguide.aspx?a=software&i=357#c
@@ -301,6 +302,10 @@ A list of cool jbrowse stuff and links around the web
 - CyVerse DNA Subway redline genome annotation  https://learning.cyverse.org/projects/dnasubway_guide/en/latest/step3.html
 - BioNanoAnalyst https://github.com/AppliedBioinformatics/BioNanoAnalyst (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493081/)
 - JBrowse ADAM https://github.com/FusionWorks/jbrowse-adam
+- Vagrant JBrowse https://github.com/Smithsonian/vagrant-jbrowse
+- KBase JBrowse https://github.com/kbaseapps/kb_GenomeBrowser
+- JBrowse assembler SPAdes->JBrowse https://github.com/kadhirvelm/jbrowse_assembler
+- JBrowse tools https://github.com/bellerbrock/jbrowse_tools
 
 # CRISPR
 
@@ -343,6 +348,8 @@ A list of cool jbrowse stuff and links around the web
 - Methylation https://github.com/bhofmei/jbplugin-methylation
 - StandedPlot https://github.com/bhofmei/jbplugin-strandedplot
 - ProportionalMultiBw https://github.com/cancerit/proportionalmultibw
+- BLAT/BLAST views https://github.com/goeckslab/JBrowse_plugins/tree/master/js
+- PydginElastic XYPlot https://github.com/tottlefields/jbrowse-pydginelastic
 
 ## Backend adapters
 
@@ -384,7 +391,8 @@ A list of cool jbrowse stuff and links around the web
 ## Other
 
 - PubAnnotation https://github.com/rbuels/JBrowse_PubAnnotation
-
+- LinkedReadsViewer (experimental) https://github.com/cmdcolin/linkedreadsviewer
+- JBrowse SNPViewer https://github.com/martinSergeant/jbrowse_snp_viewer
 
 # Old JBrowse instances
 
