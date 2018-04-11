@@ -223,6 +223,8 @@ A list of cool jbrowse stuff and links around the web
 - Angiosperm conservation http://angiosperm.org/jsp/ping.html
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 - Ipomoea  https://ipomoea-genome.org/
+- Lupin http://www.lupinexpress.org/
+
 
 ## Microbes/fungus
 
