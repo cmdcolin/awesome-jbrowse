@@ -59,6 +59,7 @@ A list of cool jbrowse stuff and links around the web
 - iMETHYL http://imethyl.iwate-megabank.org/genomebrowser.html
 - MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
 - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
+- EpiDeNovo http://www.epidenovo.biols.ac.cn/ (instance http://61.148.58.210:8080/EpiDenovo/JBrowse/index.html?data=hsa)
 
 # Non-model organisms
 
@@ -350,6 +351,11 @@ A list of cool jbrowse stuff and links around the web
 - ProportionalMultiBw https://github.com/cancerit/proportionalmultibw
 - BLAT/BLAST views https://github.com/goeckslab/JBrowse_plugins/tree/master/js
 - PydginElastic XYPlot https://github.com/tottlefields/jbrowse-pydginelastic
+- JBrowse SNPViewer https://github.com/martinSergeant/jbrowse_snp_viewer
+- FrameViewer https://github.com/cmdcolin/frameviewer
+- ColorByCDS https://github.com/cmdcolin/colorbycds
+- NucDens https://github.com/bhofmei/jbplugin-nucdens
+- VariantEffect https://github.com/hans-vg/jbplugin-varianteffect
 
 ## Backend adapters
 
@@ -382,17 +388,19 @@ A list of cool jbrowse stuff and links around the web
 - PrimerDesign https://github.com/jimhu-tamu/hulab-jbrowse
 - WebApollo https://github.com/GMOD/Apollo
 - Genovo https://github.com/igemsoftware/Shenzhen_BGIC_0101_2013/tree/master/plugins/Genovo (https://github.com/gongjianhui-bgi/Genovo)
+- ManyTracks https://github.com/cmdcolin/manytracks
 
 ## Wrapper systems
 
 - CoGE https://github.com/LyonsLab/coge/tree/master/web/js/jbrowse/plugins/CoGe
 - Dynamix http://gbcs.embl.de/portal/tiki-index.php?page=JBrowse+Dynamix+Plugin
 
-## Other
+## Other/experimental
 
 - PubAnnotation https://github.com/rbuels/JBrowse_PubAnnotation
 - LinkedReadsViewer (experimental) https://github.com/cmdcolin/linkedreadsviewer
-- JBrowse SNPViewer https://github.com/martinSergeant/jbrowse_snp_viewer
+- Remote BLAST https://github.com/cmdcolin/remoteblast
+- EncodePlugin https://github.com/cmdcolin/encodeplugin
 
 # Old JBrowse instances
 
