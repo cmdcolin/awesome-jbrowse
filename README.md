@@ -228,7 +228,7 @@ A list of cool jbrowse stuff and links around the web
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 - Ipomoea  https://ipomoea-genome.org/
 - Lupin http://www.lupinexpress.org/
-
+- Ginsing http://ginsengdb.snu.ac.kr/
 
 ## Microbes/fungus
 
