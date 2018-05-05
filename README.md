@@ -193,6 +193,7 @@ A list of cool jbrowse stuff and links around the web
 - PlantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
 - Lipm https://lipm-browsers.toulouse.inra.fr/
 - Beans http://beans.cars.desu.edu/
+- Angiosperms http://www.angiosperms.org/
 
 ### Maize
 
