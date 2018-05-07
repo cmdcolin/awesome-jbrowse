@@ -59,7 +59,7 @@ A list of cool jbrowse stuff and links around the web
 - iMETHYL http://imethyl.iwate-megabank.org/genomebrowser.html
 - MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
 - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
-- EpiDeNovo http://www.epidenovo.biols.ac.cn/ (instance http://61.148.58.210:8080/EpiDenovo/JBrowse/index.html?data=hsa)
+- EpiDeNovo http://www.epidenovo.biols.ac.cn/ (instance http://61.148.58.210:8080/EpiDenovo/JBrowse/index.html?data=hsa) (github https://github.com/rapsoulhaonan/EpiDenovo)
 
 # Non-model organisms
 
