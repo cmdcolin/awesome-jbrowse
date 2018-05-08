@@ -98,7 +98,9 @@ A list of cool jbrowse stuff and links around the web
 - Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
 - Oyster (built into gigadb data access page) http://gigadb.org/dataset/100240 (instance http://penguin.genomics.cn/jbrowse/index.html?data=100240&loc=PIN_chr1%3A41831034..62750633&tracks=DNA%2CPinctada&highlight=)
 
-## Insects
+
+
+### Insects
 
 - AphidBase - http://bipaa.genouest.org/is/aphidbase/acyrthosiphon_pisum/ (http://bipaa.genouest.org/jbrowse_aphid/)
 - VectorBase (mosquito) https://www.vectorbase.org/
@@ -110,7 +112,7 @@ A list of cool jbrowse stuff and links around the web
 - White fly http://whiteflygenomics.org
 - PTspider Base http://www.e-celldev.jp/pt_spiderbase/ (instance http://www.brh2.jp/jbrowse/Ptep1.0/?loc=Scaffold00547%3A237581..301143&tracks=DNA%2Caug3_gmodels%2Cncbi-AR100&highlight=)
 - Folsomia+Orchesella http://collembolomics.nl/collembolomics/index.php  (instance folsomia http://collembolomics.nl/collembolomics/folsomia/jbrowse/index.html?loc=Fcan01_Sc001%3A11413284..17120148&tracks=DNA&highlight=)
-
+- Firefly http://www.fireflybase.org/ (instance http://www.fireflybase.org/jbrowse/) (paper https://www.biorxiv.org/content/early/2017/12/21/237586)
 
 ## Plants
 
