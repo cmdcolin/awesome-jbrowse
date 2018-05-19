@@ -1,3 +1,4 @@
+
 # awesome-jbrowse
 A list of cool jbrowse stuff and links around the web
 
@@ -55,7 +56,7 @@ A list of cool jbrowse stuff and links around the web
 - RNAstructureomeDB https://structurome.bb.iastate.edu/
 - Trident (St Jude Hospital) multi species http://trident.stjude.org/static/dre/
 - CCSI (chromatin conformation space interaction) http://120.79.23.67/ccsi/search.php
-- Neuroseq http://neuroseq.janelia.org/
+- Neuroseq http://neuroseq.janelia.org/ (instance http://neuroseq.janelia.org/jbrowse/?data=data)
 - iMETHYL http://imethyl.iwate-megabank.org/genomebrowser.html
 - MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
 - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
@@ -97,7 +98,7 @@ A list of cool jbrowse stuff and links around the web
 - Mnemiopsis (comc jelly) http://research.nhgri.nih.gov/mnemiopsis/
 - Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
 - Oyster (built into gigadb data access page) http://gigadb.org/dataset/100240 (instance http://penguin.genomics.cn/jbrowse/index.html?data=100240&loc=PIN_chr1%3A41831034..62750633&tracks=DNA%2CPinctada&highlight=)
-
+- PlanMine http://planmine.mpi-cbg.de/planmine/begin.do
 
 
 ### Insects
@@ -196,6 +197,7 @@ A list of cool jbrowse stuff and links around the web
 - Lipm https://lipm-browsers.toulouse.inra.fr/
 - Beans http://beans.cars.desu.edu/
 - Angiosperms http://www.angiosperms.org/
+- PlantAPA - http://bmi.xmu.edu.cn/plantapa/help.php
 
 ### Maize
 
@@ -251,6 +253,7 @@ A list of cool jbrowse stuff and links around the web
 - Mycobrowser https://mycobrowser.epfl.ch/genes/MMAR_1971
 - Pseudomonas http://www.pseudomonas.com/strain/browser
 - Salmonella http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL (instance http://bioinf.gen.tcd.ie/jbrowse/?data=salcom&loc=ST4-74.fa%3A1..975873&tracks=DNA%2CCDS%2CsRNA&highlight=)
+- Salmonella http://opendata.ifr.ac.uk/salseq/
 - Lyme disease https://lymedisease.med.ucf.edu/
 - Gluconobacter  http://www.gluconobacterfactory.de/
 - Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
