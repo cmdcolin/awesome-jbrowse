@@ -132,7 +132,7 @@ A list of cool jbrowse stuff and links around the web
 - 3k rice db http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF&loc=chr01%3A17309567..25963751&highlight=
 - IC4R rice http://ic4r.org/ (instance http://visual.ic4r.org/view/?loc=1:2984..10815&tracklist=1&overview=0)
 - Kitbase http://kitbase.ucdavis.edu/link.html
-
+- RicyerDB http://server.malab.cn/Ricyer/
 
 
 ### Trees
@@ -167,6 +167,7 @@ A list of cool jbrowse stuff and links around the web
 - Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
 - GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse)
 - Cucumber, melon http://cucurbitgenomics.org/ (instance http://cucurbitgenomics.org/JBrowse/?data=icugi_data/json/cucumber_v2&tracks=DNA,genes)
+- Melon http://www.melonomics.net/melonomics.html#/
 - Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
 - Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
 - Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
