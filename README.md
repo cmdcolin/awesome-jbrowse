@@ -143,7 +143,7 @@ A list of cool jbrowse stuff and links around the web
 - Rubber tree http://matsui-lab.riken.jp/rubber/
 - Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
 - ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
-- Oak genome (2018) https://urgi.versailles.inra.fr/WebApollo_oak_PM1N/jbrowse/ (publication https://www.nature.com/articles/s41477-018-0172-3)
+- Oak genome (2018) http://www.oakgenome.fr/?page_id=585 (publication https://www.nature.com/articles/s41477-018-0172-3)
 
 
 ### Wheat
