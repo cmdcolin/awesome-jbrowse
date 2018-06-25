@@ -238,6 +238,7 @@ A list of cool jbrowse stuff and links around the web
 - Ipomoea  https://ipomoea-genome.org/
 - Lupin http://www.lupinexpress.org/
 - Ginsing http://ginsengdb.snu.ac.kr/
+- Olive http://denovo.cnag.cat/genomes/olive/browser_oe6/
 
 ## Microbes/fungus
 
