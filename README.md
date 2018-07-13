@@ -241,6 +241,7 @@ A list of cool jbrowse stuff and links around the web
 - Lupin http://www.lupinexpress.org/
 - Ginsing http://ginsengdb.snu.ac.kr/
 - Olive http://denovo.cnag.cat/genomes/olive/browser_oe6/
+- Chara https://chara.asrc.kanazawa-u.ac.jp/Cbr1/jbrowse/ (publication https://www.sciencedirect.com/science/article/pii/S0092867418308018)
 
 ## Microbes/fungus
 
