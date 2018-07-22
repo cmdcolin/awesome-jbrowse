@@ -78,7 +78,8 @@ A list of cool jbrowse stuff and links around the web
 - Chicken repeats http://chicken-repeats.inra.fr/index.php?pages/Galgal5%3A-What-s-new
 - Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html (instances https://metazome.jgi.doe.gov/jbrowse/index.html)
 - Pig lncRNA http://lnc.rnanet.org/pid/262/
-- NABIC - Agricultural animals http://nabic.rda.go.kr/gere/genomeResearchMain.do (cow instance http://nabic.rda.go.kr/jbrowse.do?data=cow)
+- NABIC - Agricultural animals http://nabic.rda.go.kr/gere/genomeResearchMain.do (cow instance http://nabic.rda.go.kr/jbrowse.do?data=cow
+- RabGTD - Rabbit http://www.picb.ac.cn/RabGTD/# (publication https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6047408/)
 
 ## Fish
 
@@ -434,6 +435,7 @@ For historical perspective these are fun to view
 - Pineapple http://peach.fafu.edu.cn/html/jbrowse/JBrowse-1.11.5/?data=Pineapple_genome_project (available at phytozome)
 - RMbase http://mirlab.sysu.edu.cn/rmbase/
 - NCBI Hackathon Staph viewer https://github.com/NCBI-Hackathons/Staph_aureus_viewer
+- RPFdb http://sysbio.gzzoc.com/rpfdb/
 
 # Credits
 
