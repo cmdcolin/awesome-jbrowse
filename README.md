@@ -61,6 +61,7 @@ A list of cool jbrowse stuff and links around the web
 - MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
 - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 - EpiDeNovo http://www.epidenovo.biols.ac.cn/ (instance http://61.148.58.210:8080/EpiDenovo/JBrowse/index.html?data=hsa) (github https://github.com/rapsoulhaonan/EpiDenovo)
+- INDEXdb (Indian Exome DB) http://indexdb.ncbs.res.in/jbrowse/
 
 # Non-model organisms
 
@@ -409,7 +410,7 @@ A list of cool jbrowse stuff and links around the web
 
 - CoGE https://github.com/LyonsLab/coge/tree/master/web/js/jbrowse/plugins/CoGe
 - Dynamix http://gbcs.embl.de/portal/tiki-index.php?page=JBrowse+Dynamix+Plugin
-- SeqsLab https://portal.seqslab.net/
+- SeqsLab http://seqslab.net/
 
 ## Other/experimental
 
