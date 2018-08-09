@@ -246,7 +246,7 @@ A list of cool jbrowse stuff and links around the web
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
 - Ipomoea  https://ipomoea-genome.org/
 - Lupin http://www.lupinexpress.org/
-- Ginsing http://ginsengdb.snu.ac.kr/
+- Ginsing http://ginsengdb.snu.ac.kr/ (2017 pub https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1282-9)
 - Olive http://denovo.cnag.cat/genomes/olive/browser_oe6/
 - Chara https://chara.asrc.kanazawa-u.ac.jp/Cbr1/jbrowse/ (publication https://www.sciencedirect.com/science/article/pii/S0092867418308018)
 
