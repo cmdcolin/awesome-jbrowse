@@ -80,7 +80,7 @@ A list of cool jbrowse stuff and links around the web
 - Metazome (multispecies) https://metazome.jgi.doe.gov/pz/portal.html (instances https://metazome.jgi.doe.gov/jbrowse/index.html)
 - Pig lncRNA http://lnc.rnanet.org/pid/262/
 - NABIC - Agricultural animals http://nabic.rda.go.kr/gere/genomeResearchMain.do (cow instance http://nabic.rda.go.kr/jbrowse.do?data=cow
-- RabGTD - Rabbit http://www.picb.ac.cn/RabGTD/# (publication https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6047408/)
+- RabGTD - Rabbit http://www.picb.ac.cn/RabGTD/# (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay075/5053987)
 
 ## Fish
 
@@ -145,10 +145,11 @@ A list of cool jbrowse stuff and links around the web
 - TreeGenesDB https://treegenesdb.org/Drupal/jbrowse
 - Hardwood genomics https://www.hardwoodgenomics.org/content/jbrowse
 - TodoFirGene http://plantomics.mind.meiji.ac.jp/todomatsu/
-- Rubber tree http://matsui-lab.riken.jp/rubber/
+- Rubber tree http://matsui-lab.riken.jp/rubber/ (2018 pub https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4333-y)
 - Forestry lab http://www.forestrylab.org/bioinfor/db/ASmiR/Jbrowse.php
 - ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
-- Oak genome (2018) http://www.oakgenome.fr/?page_id=585 (publication https://www.nature.com/articles/s41477-018-0172-3)
+- Oak genome http://www.oakgenome.fr/?page_id=585 (2018 publication https://www.nature.com/articles/s41477-018-0172-3)
+- SPTEdb (poplar, etc) http://genedenovoweb.ticp.net:81/SPTEdb/index.php (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay024/4925802)
 
 
 ### Wheat
@@ -356,7 +357,7 @@ A list of cool jbrowse stuff and links around the web
 - Togogenome http://togogenome.org/gene/9913:BRB
 - RPFDB ribosome protected mRNA fragments ]multi species] http://sysbio.sysu.edu.cn/rpfdb (instance http://sysbio.gzzoc.com/rpfdb/jbrowse/index.html?data=rpf_data%2Fhuman&loc=rcan1&tracks=Human_ref_seq%2CDNA%2CGSE22004_SRX021966_coverage)
 - OpenLooper https://openlooper.hgc.jp/JBrowse/index.php
-
+- ChIP-Array 2 http://jjwanglab.org/chip-array/about (2015 pub https://www.ncbi.nlm.nih.gov/pubmed/25916854)
 # Plugins
 
 
@@ -446,6 +447,7 @@ For historical perspective these are fun to view
 - RMbase http://mirlab.sysu.edu.cn/rmbase/
 - NCBI Hackathon Staph viewer https://github.com/NCBI-Hackathons/Staph_aureus_viewer
 - RPFdb http://sysbio.gzzoc.com/rpfdb/
+- GAN Nicotiana http://biodb.sdau.edu.cn/gan/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay001/4898179)
 
 # Credits
 
