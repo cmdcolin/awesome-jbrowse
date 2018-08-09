@@ -40,7 +40,7 @@ A list of cool jbrowse stuff and links around the web
 - GWAS browser http://gwas-browser.nygenome.org
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
 - Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
-- PopHuman http://pophuman.uab.cat/
+- PopHuman http://pophuman.uab.cat/ (2017 pub https://academic.oup.com/nar/article/46/D1/D1003/4559406)
 - HiC publicatiob https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
 - CAPER proteome http://www.bprc.ac.cn/CAPE
 - ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
@@ -128,6 +128,7 @@ A list of cool jbrowse stuff and links around the web
 - Arabadopsis http://asrp.danforthcenter.org/athaliana
 - A. thaliana small RNA https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.html
 - sORF A. thaliana https://www.biw.kuleuven.be/CSB/ARA-PEPs/
+- Epigenome https://jbrowse.latrobe.edu.au/germination_epigenome (2017 pub https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1302-3)
 
 ### Rice
 
@@ -168,13 +169,15 @@ A list of cool jbrowse stuff and links around the web
 - LegumeInfo https://legumeinfo.org/genomes/
 - Cool Season Food Legume https://www.coolseasonfoodlegume.org/
 - Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
+- Soybean STTM hub https://blossom.ffr.mtu.edu/designindex2.php (2017 MS thesis https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1553&context=etdr)
 
 ### Fruit
 
 - CitrusGreening https://citrusgreening.org/jbrowse_citrusgreening/current/
 - Citrus + pathogens https://www.citrusgenomedb.org/jbrowses
 - Vaccinium (blueberry) - https://www.vaccinium.org/jbrowses
-- GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse)
+- GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse
+- Rosaceae transposons RPTEdb http://genedenovoweb.ticp.net:81/RPTEdb/ (2018 pub https://link.springer.com/article/10.1007/s00438-018-1449-y)
 - Cucumber, melon http://cucurbitgenomics.org/ (instance http://cucurbitgenomics.org/JBrowse/?data=icugi_data/json/cucumber_v2&tracks=DNA,genes)
 - Melon http://www.melonomics.net/melonomics.html#/
 - Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
@@ -270,6 +273,7 @@ A list of cool jbrowse stuff and links around the web
 - Gluconobacter  http://www.gluconobacterfactory.de/
 - Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
 - Streptococcus https://veeninglab.com/pneumobrowse (instance http://jbrowse.molgenrug.nl/pneumobrowse/?loc=D39V.0%3A4433..6067&tracks=DNA%2Cgff_operons%2Cgff_genes%2Cgff_regulatory%2Cbigwig-track_01_norm_cont_coverage&highlight=)
+- LeptoDB https://www.leptonet.org.in/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay057/5037030)
 
 ### Fungus
 
@@ -290,6 +294,7 @@ A list of cool jbrowse stuff and links around the web
 
 - CyanoBase http://genome.microbedb.jp/CyanoBase
 - Algae https://greenhouse.lanl.gov/greenhouse/jb/
+- realDB red algae http://realdb.algaegenome.org/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay072/5055577)
 - Burkholderia http://www.burkholderia.com/news
 - Marine microbes - Marine model organism DB http://mmo.embrc-france.fr/en/exploration/jbrowse
 - Target-Pathogen DB http://target.sbg.qb.fcen.uba.ar/patho/genome/
@@ -325,6 +330,7 @@ A list of cool jbrowse stuff and links around the web
 - KBase JBrowse https://github.com/kbaseapps/kb_GenomeBrowser
 - JBrowse assembler SPAdes->JBrowse https://github.com/kadhirvelm/jbrowse_assembler
 - JBrowse tools https://github.com/bellerbrock/jbrowse_tools
+- G-OnRamp - http://gonramp.org https://ir.library.illinoisstate.edu/cgi/viewcontent.cgi?article=1162&context=beer
 
 # CRISPR
 
