@@ -276,7 +276,7 @@ A list of cool jbrowse stuff and links around the web
 - Lyme disease https://lymedisease.med.ucf.edu/
 - Gluconobacter  http://www.gluconobacterfactory.de/
 - Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
-- Streptococcus https://veeninglab.com/pneumobrowse (instance http://jbrowse.molgenrug.nl/pneumobrowse/?loc=D39V.0%3A4433..6067&tracks=DNA%2Cgff_operons%2Cgff_genes%2Cgff_regulatory%2Cbigwig-track_01_norm_cont_coverage&highlight=)
+- Streptococcus https://veeninglab.com/pneumobrowse (2018 pub http://dx.doi.org/10.1093/nar/gky725)
 - LeptoDB https://www.leptonet.org.in/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay057/5037030)
 
 ### Fungus
