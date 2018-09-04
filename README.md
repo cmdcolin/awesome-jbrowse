@@ -103,7 +103,7 @@ A list of cool jbrowse stuff and links around the web
 - PlanMine http://planmine.mpi-cbg.de/planmine/begin.do
 - Algae http://mmo.sb-roscoff.fr/jbrowse/
 - Tardigrade http://kumamushi.org/jbrowse/?data=947166&loc=BDGG01000001.1%3A1..800&tracks=DNA%2Ccds%2Ctrna%2Crrna&highlight=
-
+- Planarian dugesia japonica http://www.planarian.jp/ (2018 pub https://link.springer.com/article/10.1186/s40851-018-0102-2)
 
 ### Insects
 
