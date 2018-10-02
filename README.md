@@ -41,9 +41,9 @@ A list of cool jbrowse stuff and links around the web
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
 - Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
 - PopHuman http://pophuman.uab.cat/ (2017 pub https://academic.oup.com/nar/article/46/D1/D1003/4559406)
-- HiC publicatiob https://www.biorxiv.org/content/early/2017/10/08/199950 instance http://delta.big.ac.cn/jbrowse/index.html?data=1499137860032&loc=11%3A3624001..6982000&tracks=TAD%2CInteraction%2CLCR_Gene%2CLCR%2CGM12878_H2AZ_signal%2CGSE63525_GM12878_combined_100000_Matrix&organism=hg19&sb=90&highlight=
+- Delta browser HiC http://delta.big.ac.cn/ (2017 pub https://www.biorxiv.org/content/early/2017/10/08/199950)
 - CAPER proteome http://www.bprc.ac.cn/CAPE
-- ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/
+- ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/ (2014 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105710/)
 - ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
 - Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
 - Neandertal genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight=
@@ -68,7 +68,6 @@ A list of cool jbrowse stuff and links around the web
 ## Animals
 
 - BovineGenome - http://bovinegenome.org (instance http://www.bovinegenome.org/apollo-lsaa/20/jbrowse/index.html)
-- HymenopteraGenomeDatabase - http://hymenopteragenome.org (instance http://hymenopteragenome.org/Apollo2/16/jbrowse/index.html)
 - OpossumBase http://www.opossumbase.org/
 - Chinese Hamster - http://www.chogenome.org/JBrowse.php
 - Animal Genome DB - http://i.animalgenome.org/jbrowse/
@@ -118,6 +117,9 @@ A list of cool jbrowse stuff and links around the web
 - PTspider Base http://www.e-celldev.jp/pt_spiderbase/ (instance http://www.brh2.jp/jbrowse/Ptep1.0/?loc=Scaffold00547%3A237581..301143&tracks=DNA%2Caug3_gmodels%2Cncbi-AR100&highlight=)
 - Folsomia+Orchesella http://collembolomics.nl/collembolomics/index.php  (instance folsomia http://collembolomics.nl/collembolomics/folsomia/jbrowse/index.html?loc=Fcan01_Sc001%3A11413284..17120148&tracks=DNA&highlight=)
 - Firefly http://www.fireflybase.org/ (instance http://www.fireflybase.org/jbrowse/) (paper https://www.biorxiv.org/content/early/2017/12/21/237586)
+- WaspBase http://www.insect-genome.com/waspbase/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146128/)
+- Hymenoptera - http://hymenopteragenome.org
+
 
 ## Plants
 
@@ -212,7 +214,8 @@ A list of cool jbrowse stuff and links around the web
 - Lipm https://lipm-browsers.toulouse.inra.fr/
 - Beans http://beans.cars.desu.edu/
 - Angiosperms http://www.angiosperms.org/
-- PlantAPA - http://bmi.xmu.edu.cn/plantapa/help.php
+- PlantAPA - http://bmi.xmu.edu.cn/plantapa/help.php (2016 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4914594/)
+- PlaNC-TE (non-coding and TE) http://planc-te.cp.utfpr.edu.br/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146122/)
 
 ### Maize
 
@@ -253,6 +256,7 @@ A list of cool jbrowse stuff and links around the web
 - Chara https://chara.asrc.kanazawa-u.ac.jp/Cbr1/jbrowse/ (publication https://www.sciencedirect.com/science/article/pii/S0092867418308018)
 - Medicinal plant genomics http://medicinalplantgenomics.msu.edu/
 - Tibetan hulless barley http://show.genebang.com/project/gene-browse?n=barley
+- Pineapple http://pineapple.angiosperms.org/pineapple/html/index.html (2017 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139296/)
 
 ## Microbes/fungus
 
@@ -361,8 +365,8 @@ A list of cool jbrowse stuff and links around the web
 - RPFDB ribosome protected mRNA fragments ]multi species] http://sysbio.sysu.edu.cn/rpfdb (instance http://sysbio.gzzoc.com/rpfdb/jbrowse/index.html?data=rpf_data%2Fhuman&loc=rcan1&tracks=Human_ref_seq%2CDNA%2CGSE22004_SRX021966_coverage)
 - OpenLooper https://openlooper.hgc.jp/JBrowse/index.php
 - ChIP-Array 2 http://jjwanglab.org/chip-array/about (2015 pub https://www.ncbi.nlm.nih.gov/pubmed/25916854)
-# Plugins
 
+# Plugins
 
 ## New track types
 
