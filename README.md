@@ -133,6 +133,7 @@ A list of cool jbrowse stuff and links around the web
 - sORF A. thaliana https://www.biw.kuleuven.be/CSB/ARA-PEPs/
 - Epigenome https://jbrowse.latrobe.edu.au/germination_epigenome (2017 pub https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1302-3)
 - ENPG (encyclopedia of plant genome) plantseq.org http://www.plantseq.org/
+- Stress http://bioinfo.sibs.ac.cn/JBrowse/?data=data_tair10/PcG_vs_stress_v2 (2018 pub https://onlinelibrary.wiley.com/doi/pdf/10.1111/tpj.14125)
 
 ### Rice
 
