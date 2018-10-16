@@ -80,6 +80,7 @@ A list of cool jbrowse stuff and links around the web
 - Pig lncRNA http://lnc.rnanet.org/pid/262/
 - NABIC - Agricultural animals http://nabic.rda.go.kr/gere/genomeResearchMain.do (cow instance http://nabic.rda.go.kr/jbrowse.do?data=cow
 - RabGTD - Rabbit http://www.picb.ac.cn/RabGTD/# (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay075/5053987)
+- Goat alternative splicing - http://xufeng.ngrok.xiaomiqiu.cn/jbrowser/JBrowse-1.12.3/index.html?data=goat&loc=NC_005044.2%3A1206.1408&tracks=goat_AS_gtf%2CTotal.bed%2CGenes.bed&highlight= (2018 pub https://www.nature.com/articles/s41598-018-33078-7)
 
 ## Fish
 
