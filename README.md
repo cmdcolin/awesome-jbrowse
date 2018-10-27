@@ -259,6 +259,7 @@ A list of cool jbrowse stuff and links around the web
 - Medicinal plant genomics http://medicinalplantgenomics.msu.edu/
 - Tibetan hulless barley http://show.genebang.com/project/gene-browse?n=barley
 - Pineapple http://pineapple.angiosperms.org/pineapple/html/index.html (2017 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139296/)
+- Maca http://maca.eplant.org/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195103/)
 
 ## Microbes/fungus
 
