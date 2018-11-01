@@ -62,6 +62,7 @@ A list of cool jbrowse stuff and links around the web
 - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 - EpiDeNovo http://www.epidenovo.biols.ac.cn/ (instance http://61.148.58.210:8080/EpiDenovo/JBrowse/index.html?data=hsa) (github https://github.com/rapsoulhaonan/EpiDenovo)
 - INDEXdb (Indian Exome DB) http://indexdb.ncbs.res.in/jbrowse/
+- Super enhancer DB seDB - http://www.licpathway.net/sedb/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1025/5146197)
 
 # Non-model organisms
 
@@ -81,6 +82,7 @@ A list of cool jbrowse stuff and links around the web
 - NABIC - Agricultural animals http://nabic.rda.go.kr/gere/genomeResearchMain.do (cow instance http://nabic.rda.go.kr/jbrowse.do?data=cow
 - RabGTD - Rabbit http://www.picb.ac.cn/RabGTD/# (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay075/5053987)
 - Goat alternative splicing - http://xufeng.ngrok.xiaomiqiu.cn/jbrowser/JBrowse-1.12.3/index.html?data=goat&loc=NC_005044.2%3A1206.1408&tracks=goat_AS_gtf%2CTotal.bed%2CGenes.bed&highlight= (2018 pub https://www.nature.com/articles/s41598-018-33078-7)
+- Domestic dog + wild relatives http://bigd.big.ac.cn/idog/  (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1041/5146205)
 
 ## Fish
 
