@@ -63,6 +63,7 @@ A list of cool jbrowse stuff and links around the web
 - EpiDeNovo http://www.epidenovo.biols.ac.cn/ (instance http://61.148.58.210:8080/EpiDenovo/JBrowse/index.html?data=hsa) (github https://github.com/rapsoulhaonan/EpiDenovo)
 - INDEXdb (Indian Exome DB) http://indexdb.ncbs.res.in/jbrowse/
 - Super enhancer DB seDB - http://www.licpathway.net/sedb/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1025/5146197)
+- Database of somatic mutations in normal cells - http://dsmnc.big.ac.cn/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1045/5150232)
 
 # Non-model organisms
 
