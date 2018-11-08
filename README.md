@@ -278,7 +278,6 @@ A list of cool jbrowse stuff and links around the web
 
 - Human Oral Microbiome http://www.homd.org/ (instance http://www.homd.org/jbrowse/index.html?data=homd/json/Actinobaculum_oral_taxon_183_F0552_uid173932&tracks=DNA,ncbi_gene,homd_gene)
 - PATRIC https://patricbrc.org/view/Genome/83332.12#view_tab=browser
-- Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/
 - PhyTB http://pathogenseq.lshtm.ac.uk/phytblive/index.php
 - Mycobrowser https://mycobrowser.epfl.ch/genes/MMAR_1971
 - Pseudomonas http://www.pseudomonas.com/strain/browser
@@ -462,6 +461,8 @@ For historical perspective these are fun to view
 - NCBI Hackathon Staph viewer https://github.com/NCBI-Hackathons/Staph_aureus_viewer
 - RPFdb http://sysbio.gzzoc.com/rpfdb/
 - GAN Nicotiana http://biodb.sdau.edu.cn/gan/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay001/4898179)
+- RegulonDB E.coli K12 - http://regulondb.ccg.unam.mx/central_panel_menu/integrated_views_and_tools_menu.jsp claims to use jbrowse in v10.5 but not clear where it is
+- Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/ appears down Nov 2018
 
 # Credits
 
