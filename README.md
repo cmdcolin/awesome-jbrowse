@@ -221,6 +221,7 @@ A list of cool jbrowse stuff and links around the web
 - Angiosperms http://www.angiosperms.org/
 - PlantAPA - http://bmi.xmu.edu.cn/plantapa/help.php (2016 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4914594/)
 - PlaNC-TE (non-coding and TE) http://planc-te.cp.utfpr.edu.br/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146122/)
+- PlantPAN http://plantpan.itps.ncku.edu.tw/
 
 ### Maize
 
