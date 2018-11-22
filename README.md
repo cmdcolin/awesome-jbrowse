@@ -21,6 +21,7 @@ A list of cool jbrowse stuff and links around the web
 - http://stab.st-andrews.ac.uk/wiki/index.php/JBrowse
 - https://jharaphula.com/how-to-setup-jbrowse-in-ubuntu/
 - http://gmod.org/wiki/JBrowse_Tutorial_PAG_2017
+- https://github.com/wrf/genomeGTFtools/tree/master/jbrowse
 
 # Model organism databases
 
