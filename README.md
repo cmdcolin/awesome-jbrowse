@@ -35,6 +35,7 @@ A list of cool jbrowse stuff and links around the web
 - Aspgd aspergillus http://aspgd.org ([instance](http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=))
 - FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
 - PomBase https://www.pombase.org/ (instance https://www.pombase.org/jbrowse)
+- IsoDB - PacBio Iso-Seq collection multiple species  http://isodb.xieslab.org/ (2018 pub https://www.hindawi.com/journals/ijg/2018/9207637/cta/)
 
 # Human
 
