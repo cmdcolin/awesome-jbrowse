@@ -105,7 +105,7 @@ A list of cool jbrowse stuff and links around the web
 - Mnemiopsis (comc jelly) http://research.nhgri.nih.gov/mnemiopsis/
 - Echinobase (sea urchin) http://www.echinobase.org (instance http://www.echinobase.org/Echinobase/jbrowse/index.html?data=data_sp&loc=Scaffold1%3A859214..1288779&tracks=DNA&highlight=)
 - Oyster (built into gigadb data access page) http://gigadb.org/dataset/100240 (instance http://penguin.genomics.cn/jbrowse/index.html?data=100240&loc=PIN_chr1%3A41831034..62750633&tracks=DNA%2CPinctada&highlight=)
-- PlanMine http://planmine.mpi-cbg.de/planmine/begin.do
+- PlanMine http://planmine.mpi-cbg.de/planmine/begin.do (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1070/5212006)
 - Algae http://mmo.sb-roscoff.fr/jbrowse/
 - Tardigrade http://kumamushi.org/jbrowse/?data=947166&loc=BDGG01000001.1%3A1..800&tracks=DNA%2Ccds%2Ctrna%2Crrna&highlight=
 - Planarian dugesia japonica http://www.planarian.jp/ (2018 pub https://link.springer.com/article/10.1186/s40851-018-0102-2)
