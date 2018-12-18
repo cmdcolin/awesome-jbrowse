@@ -437,6 +437,7 @@ A list of cool jbrowse stuff and links around the web
 - CoGE https://github.com/LyonsLab/coge/tree/master/web/js/jbrowse/plugins/CoGe
 - Dynamix http://gbcs.embl.de/portal/tiki-index.php?page=JBrowse+Dynamix+Plugin
 - SeqsLab http://seqslab.net/
+- Capsid https://github.com/capsid/capsid
 
 ## Other/experimental
 
