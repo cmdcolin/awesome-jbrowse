@@ -66,6 +66,7 @@ A list of cool jbrowse stuff and links around the web
 - INDEXdb (Indian Exome DB) http://indexdb.ncbs.res.in/jbrowse/
 - Super enhancer DB seDB - http://www.licpathway.net/sedb/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1025/5146197)
 - Database of somatic mutations in normal cells - http://dsmnc.big.ac.cn/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1045/5150232)
+- BreCanDB - breakpoints in cancer http://brecandb.igib.res.in/ (2015 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702892/)
 
 # Non-model organisms
 
