@@ -170,8 +170,8 @@ A list of cool jbrowse stuff and links around the web
 - Wheat TILLING database http://www.wheat-tilling.com
 - Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/
 - IWGSC (currently password protected) https://urgi.versailles.inra.fr/jbrowseiwgsc/gmod_jbrowse/?data=myData/IWGSC_RefSeq_v1.0
-- Dead link? http://tcap.pw.usda.gov/jbrowse
 - Triticeae Multi-omics Center http://202.194.139.32/
+- DAWN Diversity Among Wheat geNomes http://crobiad.agwine.adelaide.edu.au/dawn/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6296097/)
 
 ### Legumes
 
@@ -292,6 +292,7 @@ A list of cool jbrowse stuff and links around the web
 - Actinobacter http://bioinf.gen.tcd.ie/acinetocom/
 - Streptococcus https://veeninglab.com/pneumobrowse (2018 pub http://dx.doi.org/10.1093/nar/gky725)
 - LeptoDB https://www.leptonet.org.in/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay057/5037030)
+- Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR
 
 ### Fungus
 
@@ -467,7 +468,8 @@ For historical perspective these are fun to view
 - RPFdb http://sysbio.gzzoc.com/rpfdb/
 - GAN Nicotiana http://biodb.sdau.edu.cn/gan/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay001/4898179)
 - RegulonDB E.coli K12 - http://regulondb.ccg.unam.mx/central_panel_menu/integrated_views_and_tools_menu.jsp claims to use jbrowse in v10.5 but not clear where it is
-- Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR/ appears down Nov 2018
+- Wheat http://tcap.pw.usda.gov/jbrowse
+
 
 # Credits
 
