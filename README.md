@@ -264,7 +264,7 @@ A list of cool jbrowse stuff and links around the web
 - Olive http://denovo.cnag.cat/genomes/olive/browser_oe6/
 - Chara https://chara.asrc.kanazawa-u.ac.jp/Cbr1/jbrowse/ (publication https://www.sciencedirect.com/science/article/pii/S0092867418308018)
 - Medicinal plant genomics http://medicinalplantgenomics.msu.edu/
-- Tibetan hulless barley http://show.genebang.com/project/gene-browse?n=barley
+- Tibetan hulless barley http://show.genebang.com/project/gene-browse?n=barley (2018 pub https://www.biorxiv.org/content/early/2018/09/19/409136)
 - Pineapple http://pineapple.angiosperms.org/pineapple/html/index.html (2017 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139296/)
 - Maca http://maca.eplant.org/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195103/)
 - Adzuki bean+Mung bean http://plantgenomics.snu.ac.kr/mediawiki-1.21.3/index.php/Main_Page
