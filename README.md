@@ -233,6 +233,7 @@ A list of cool jbrowse stuff and links around the web
 - Maize gametophyte http://www.maizegametophyte.org/browsers.html
 - Maize database aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
 - ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
+- MODEM multi-omics http://modem.hzau.edu.cn/
 
 ### Other
 
