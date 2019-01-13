@@ -323,6 +323,7 @@ A list of cool jbrowse stuff and links around the web
 - Tetrahymena http://www.jcvi.org/jbrowse/?data=tta2mic
 - Porcine whipworm http://gasser-research.vet.unimelb.edu.au/ (http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisMale http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisFemale)
 - Tuberculosis vaccine http://crdd.osdd.net/raghava/mtbveb/strain.php?strain=M_avium_K-10
+- RPFdb riboseq http://sysbio.gzzoc.com/rpfdb/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324049/)
 
 # Workflows/platforms/concepts
 
