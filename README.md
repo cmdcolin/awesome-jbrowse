@@ -270,6 +270,7 @@ A list of cool jbrowse stuff and links around the web
 - Pineapple http://pineapple.angiosperms.org/pineapple/html/index.html (2017 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139296/)
 - Maca http://maca.eplant.org/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195103/)
 - Adzuki bean+Mung bean http://plantgenomics.snu.ac.kr/mediawiki-1.21.3/index.php/Main_Page
+- Asparagus http://asparagus.uga.edu/tripal/ (2018 pub https://www.nature.com/articles/s41467-017-01064-8)
 
 ## Microbes/fungus
 
