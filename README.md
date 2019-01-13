@@ -253,7 +253,7 @@ A list of cool jbrowse stuff and links around the web
 - Barley epigenome https://ics.hutton.ac.uk/barley-epigenome/
 - Sweet potato http://sweetpotato.plantbiology.msu.edu
 - SweetPotatoBase https://sweetpotatobase.org/search
-- Asparagus http://asparagus.uga.edu
+- Asparagus http://asparagus.uga.edu (2018 pub https://www.nature.com/articles/s41467-017-01064-8)
 - Pennycress http://pennycress.umn.edu/
 - Mint (menthe) http://langelabtools.wsu.edu/mgr/genome_browser
 - Date palm https://jbrowsephoenix.abudhabi.nyu.edu/Jbrowse/JBrowse-1.11.5/?data=dp
@@ -270,7 +270,6 @@ A list of cool jbrowse stuff and links around the web
 - Pineapple http://pineapple.angiosperms.org/pineapple/html/index.html (2017 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139296/)
 - Maca http://maca.eplant.org/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195103/)
 - Adzuki bean+Mung bean http://plantgenomics.snu.ac.kr/mediawiki-1.21.3/index.php/Main_Page
-- Asparagus http://asparagus.uga.edu/tripal/ (2018 pub https://www.nature.com/articles/s41467-017-01064-8)
 
 ## Microbes/fungus
 
