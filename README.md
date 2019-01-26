@@ -169,7 +169,7 @@ A list of cool jbrowse stuff and links around the web
 - GrainGenes https://wheat.pw.usda.gov/GG3/JBrowse
 - Triticeae toolbox https://triticeaetoolbox.org
 - Wheat TILLING database http://www.wheat-tilling.com
-- Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/
+- Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/index.html?data=Aet/data
 - IWGSC (currently password protected) https://urgi.versailles.inra.fr/jbrowseiwgsc/gmod_jbrowse/?data=myData/IWGSC_RefSeq_v1.0
 - Triticeae Multi-omics Center http://202.194.139.32/
 - DAWN Diversity Among Wheat geNomes http://crobiad.agwine.adelaide.edu.au/dawn/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6296097/)
