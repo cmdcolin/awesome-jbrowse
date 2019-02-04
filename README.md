@@ -42,6 +42,9 @@ A list of cool jbrowse stuff and links around the web
 - RepetDB - http://urgi.versailles.inra.fr/repetdb (2019 pub https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-019-0150-y)
 - IsoDB - PacBio Iso-Seq collection multiple species  http://isodb.xieslab.org/ (2018 pub https://www.hindawi.com/journals/ijg/2018/9207637/cta/)
 - Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
+- ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/ (2014 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105710/)
+- ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
+
 
 # Model organism topic databases
 
@@ -52,12 +55,10 @@ A list of cool jbrowse stuff and links around the web
 
 - GWAS browser http://gwas-browser.nygenome.org
 - COSMIC browser http://cancer.sanger.ac.uk/cosmic (instance http://cancer.sanger.ac.uk/jbrowse/index.html?tracks=cosmic_genes,muts&dsn=cosmic&loc=17:7668510..7677703&data=data/json/grch38/v84/gene&genome=38)
-- Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance https://www.immunobase.org/jbrowse/index.html)
+- Type1 Diabetes/ImmunoBase http://t1dbase.org/ (instance http://t1dbase.org/jbrowse/index.html)
 - PopHuman http://pophuman.uab.cat/ (2017 pub https://academic.oup.com/nar/article/46/D1/D1003/4559406)
 - Delta browser HiC http://delta.big.ac.cn/ (2017 pub https://www.biorxiv.org/content/early/2017/10/08/199950)
 - CAPER proteome http://www.bprc.ac.cn/CAPE
-- ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/ (2014 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105710/)
-- ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
 - Swiss Regulon http://swissregulon.unibas.ch/sr/annotations
 - Neandertal genome browser https://bioinf.eva.mpg.de/jbrowse/?loc=1%3A99685667..149535791&tracks=&highlight= (paper http://science.sciencemag.org/content/358/6363/655)
 - Dasman http://dgr.dasmaninstitute.org/DGR/index.html (instance http://dgr.dasmaninstitute.org/JBrowse-1.12.3/index.html?loc=chr1%3A63064986..63065195&tracks=DNA&data=data%2F)
