@@ -35,7 +35,18 @@ A list of cool jbrowse stuff and links around the web
 - Aspgd aspergillus http://aspgd.org ([instance](http://aspgd.broadinstitute.org/jbrowse/?data=data%2Fa.niger_cbs51388&loc=An16_A_niger_CBS_513_88%3A1532401..1556480&tracks=DNA%2Ccurrent%2Chistorical%2Catcc1015_strandless_SRA039822.bam%2Cn402_strand_specific_Delmas_2012.bam&highlight=))
 - FlyBase http://flybase.org (instance http://flybase.org/jbrowse/?data=data/json/dmel)
 - PomBase https://www.pombase.org/ (instance https://www.pombase.org/jbrowse)
+
+
+# Topic databases
+
+- RepetDB - http://urgi.versailles.inra.fr/repetdb (2019 pub https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-019-0150-y)
 - IsoDB - PacBio Iso-Seq collection multiple species  http://isodb.xieslab.org/ (2018 pub https://www.hindawi.com/journals/ijg/2018/9207637/cta/)
+- Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
+
+# Model organism topic databases
+
+- YeasTSS - yeast transcription start sites http://www.yeastss.org/ (2018 pub https://www.biorxiv.org/content/early/2019/01/03/511477)
+
 
 # Human
 
@@ -61,13 +72,11 @@ A list of cool jbrowse stuff and links around the web
 - Neuroseq http://neuroseq.janelia.org/ (instance http://neuroseq.janelia.org/jbrowse/?data=data)
 - iMETHYL http://imethyl.iwate-megabank.org/genomebrowser.html
 - MeT-DB Methyltranscriptome  http://compgenomics.utsa.edu/MeTDB/
-- Nucleosome dynamics (yeast, mouse, human) http://mmb.irbbarcelona.org/NucleosomeDynamics/browse.php (example http://mmb.irbbarcelona.org/NucleosomeDynamics/JBrowse/JBrowse-1.11.6/index.html?data=user_jbrowse%2FR64-1-1%2Fjbrowse&loc=chrI%3A1..64&tracks=DNA%2CSGD_genes%2CGene_fromTSStoTTS&highlight=)
 - EpiDeNovo http://www.epidenovo.biols.ac.cn/ (instance http://61.148.58.210:8080/EpiDenovo/JBrowse/index.html?data=hsa) (github https://github.com/rapsoulhaonan/EpiDenovo)
 - INDEXdb (Indian Exome DB) http://indexdb.ncbs.res.in/jbrowse/
 - Super enhancer DB seDB - http://www.licpathway.net/sedb/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1025/5146197)
 - Database of somatic mutations in normal cells - http://dsmnc.big.ac.cn/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1045/5150232)
 - BreCanDB - breakpoints in cancer http://brecandb.igib.res.in/ (2015 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702892/)
-- YeasTSS - yeast transcription start sites http://www.yeastss.org/ (2018 pub https://www.biorxiv.org/content/early/2019/01/03/511477)
 
 # Non-model organisms
 
