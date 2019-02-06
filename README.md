@@ -245,6 +245,12 @@ A list of cool jbrowse stuff and links around the web
 - ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
 - MODEM multi-omics http://modem.hzau.edu.cn/
 
+### Sweet potato
+
+- Sweet potato http://sweetpotato.plantbiology.msu.edu
+- Ipomoea (sweet potato)  https://ipomoea-genome.org/
+- SweetPotatoBase https://sweetpotatobase.org/search
+
 ### Other
 
 - Brachypodium distachyon http://jbrowse.brachypodium.org
@@ -261,8 +267,6 @@ A list of cool jbrowse stuff and links around the web
 - Alfalfa https://www.alfalfatoolbox.org/
 - Sunflower https://sunflowergenome.org
 - Barley epigenome https://ics.hutton.ac.uk/barley-epigenome/
-- Sweet potato http://sweetpotato.plantbiology.msu.edu
-- SweetPotatoBase https://sweetpotatobase.org/search
 - Asparagus http://asparagus.uga.edu (2018 pub https://www.nature.com/articles/s41467-017-01064-8)
 - Pennycress http://pennycress.umn.edu/
 - Mint (menthe) http://langelabtools.wsu.edu/mgr/genome_browser
@@ -270,7 +274,6 @@ A list of cool jbrowse stuff and links around the web
 - NABIC - Agricultural plants http://nabic.rda.go.kr/gere/genomeResearchMain.do (soybean http://nabic.rda.go.kr/jbrowse.do?data=soybean)
 - Angiosperm conservation http://angiosperm.org/jsp/ping.html (pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5798027/)
 - GnpIS https://urgi.versailles.inra.fr/Tools/GnpIS
-- Ipomoea  https://ipomoea-genome.org/
 - Lupin http://www.lupinexpress.org/
 - Ginsing http://ginsengdb.snu.ac.kr/ (2017 pub https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1282-9)
 - Olive http://denovo.cnag.cat/genomes/olive/browser_oe6/
