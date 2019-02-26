@@ -78,6 +78,8 @@ A list of cool jbrowse stuff and links around the web
 - Super enhancer DB seDB - http://www.licpathway.net/sedb/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1025/5146197)
 - Database of somatic mutations in normal cells - http://dsmnc.big.ac.cn/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1045/5150232)
 - BreCanDB - breakpoints in cancer http://brecandb.igib.res.in/ (2015 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702892/)
+- Japanese genome JG1 https://jmorp.megabank.tohoku.ac.jp
+
 
 # Non-model organisms
 
@@ -121,6 +123,7 @@ A list of cool jbrowse stuff and links around the web
 - Algae http://mmo.sb-roscoff.fr/jbrowse/
 - Tardigrade http://kumamushi.org/jbrowse/?data=947166&loc=BDGG01000001.1%3A1..800&tracks=DNA%2Ccds%2Ctrna%2Crrna&highlight=
 - Planarian dugesia japonica http://www.planarian.jp/ (2018 pub https://link.springer.com/article/10.1186/s40851-018-0102-2)
+- Bombyx mori (silkworm) http://silkbase.ab.a.u-tokyo.ac.jp/cgi-bin/index.cgi
 
 ### Insects
 
