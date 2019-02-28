@@ -311,6 +311,7 @@ A list of cool jbrowse stuff and links around the web
 - Streptococcus https://veeninglab.com/pneumobrowse (2018 pub http://dx.doi.org/10.1093/nar/gky725)
 - LeptoDB https://www.leptonet.org.in/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay057/5037030)
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR
+- PamulDB parasite of animals https://biodb.swu.edu.cn/pamuldb/ (2019 pub https://academic.oup.com/database/article/doi/10.1093/database/baz025/5363829)
 
 ### Fungus
 
