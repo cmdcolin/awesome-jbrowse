@@ -100,6 +100,7 @@ A list of cool jbrowse stuff and links around the web
 - RabGTD - Rabbit http://www.picb.ac.cn/RabGTD/# (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay075/5053987)
 - Goat alternative splicing - http://xufeng.ngrok.xiaomiqiu.cn/jbrowser/JBrowse-1.12.3/index.html?data=goat&loc=NC_005044.2%3A1206.1408&tracks=goat_AS_gtf%2CTotal.bed%2CGenes.bed&highlight= (2018 pub https://www.nature.com/articles/s41598-018-33078-7)
 - Domestic dog + wild relatives http://bigd.big.ac.cn/idog/  (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1041/5146205)
+- Macaque - registration required https://mgap.ohsu.edu/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402181/)
 
 ## Fish
 
@@ -182,7 +183,7 @@ A list of cool jbrowse stuff and links around the web
 - GrainGenes https://wheat.pw.usda.gov/GG3/JBrowse
 - Triticeae toolbox https://triticeaetoolbox.org
 - Wheat TILLING database http://www.wheat-tilling.com
-- Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/index.html?data=Aet/data
+- Aegilops wheat http://aegilops.wheat.ucdavis.edu/jbrowse/index.html?data=Aet/data (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6404623/)
 - IWGSC (currently password protected) https://urgi.versailles.inra.fr/jbrowseiwgsc/gmod_jbrowse/?data=myData/IWGSC_RefSeq_v1.0
 - Triticeae Multi-omics Center http://202.194.139.32/
 - DAWN Diversity Among Wheat geNomes http://crobiad.agwine.adelaide.edu.au/dawn/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6296097/)
