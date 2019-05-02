@@ -309,7 +309,7 @@ A list of cool jbrowse stuff and links around the web
 - Streptococcus https://veeninglab.com/pneumobrowse (2018 pub http://dx.doi.org/10.1093/nar/gky725)
 - LeptoDB https://www.leptonet.org.in/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay057/5037030)
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR
-- PamulDB parasite of animals https://biodb.swu.edu.cn/pamuldb/ (2019 pub https://academic.oup.com/database/article/doi/10.1093/database/baz025/5363829)
+- EnteroBase - multiple species  - https://enterobase.warwick.ac.uk/ (2019 pub https://www.biorxiv.org/content/10.1101/613554v1)
 
 ### Fungus
 
@@ -325,6 +325,7 @@ A list of cool jbrowse stuff and links around the web
 - B microti http://jbrowse.igs.umaryland.edu/b_microti/
 - GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
 - LeishDB http://www.leishdb.com/ (instance http://www.leishdb.com/browser)
+- PamulDB parasite of animals https://biodb.swu.edu.cn/pamuldb/ (2019 pub https://academic.oup.com/database/article/doi/10.1093/database/baz025/5363829)
 
 ### Other
 
@@ -368,6 +369,7 @@ A list of cool jbrowse stuff and links around the web
 - JBrowse assembler SPAdes->JBrowse https://github.com/kadhirvelm/jbrowse_assembler
 - JBrowse tools https://github.com/bellerbrock/jbrowse_tools
 - G-OnRamp - http://gonramp.org https://ir.library.illinoisstate.edu/cgi/viewcontent.cgi?article=1162&context=beer
+- MuGVRE (multiscale genomics 3D/4D) https://www.multiscalegenomics.eu/ (2019 pub https://www.biorxiv.org/content/biorxiv/early/2019/04/09/602474.full.pdf)
 
 # CRISPR
 
@@ -487,7 +489,7 @@ For historical perspective these are fun to view
 - GAN Nicotiana http://biodb.sdau.edu.cn/gan/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay001/4898179)
 - RegulonDB E.coli K12 - http://regulondb.ccg.unam.mx/central_panel_menu/integrated_views_and_tools_menu.jsp claims to use jbrowse in v10.5 but not clear where it is
 - Wheat http://tcap.pw.usda.gov/jbrowse
-
+- Sugarbeet https://jbrowse.cebitec.uni-bielefeld.de/RefBeet1.5/
 
 # Credits
 
