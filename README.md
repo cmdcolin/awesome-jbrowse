@@ -396,6 +396,7 @@ A list of cool jbrowse stuff and links around the web
 - RPFDB ribosome protected mRNA fragments ]multi species] http://sysbio.sysu.edu.cn/rpfdb (instance http://sysbio.gzzoc.com/rpfdb/jbrowse/index.html?data=rpf_data%2Fhuman&loc=rcan1&tracks=Human_ref_seq%2CDNA%2CGSE22004_SRX021966_coverage)
 - OpenLooper https://openlooper.hgc.jp/JBrowse/index.php
 - ChIP-Array 2 http://jjwanglab.org/chip-array/about (2015 pub https://www.ncbi.nlm.nih.gov/pubmed/25916854)
+- SPAR - small RNA https://spar.lisanwanglab.org/ (2018 pub https://academic.oup.com/nar/article/46/W1/W36/4992647)
 
 # Plugins
 
