@@ -172,6 +172,7 @@ A list of cool jbrowse stuff and links around the web
 - ForestGEN http://forestgen.ffpri.affrc.go.jp/jp/help.html
 - Oak genome http://www.oakgenome.fr/?page_id=585 (2018 publication https://www.nature.com/articles/s41477-018-0172-3)
 - SPTEdb (poplar, etc) http://genedenovoweb.ticp.net:81/SPTEdb/index.php (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay024/4925802)
+- Eucgenie - https://eucgenie.org/ (2019 pub https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15897)
 
 
 ### Wheat
