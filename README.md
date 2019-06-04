@@ -75,7 +75,7 @@ A list of cool jbrowse stuff and links around the web
 - Database of somatic mutations in normal cells - http://dsmnc.big.ac.cn/ (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1045/5150232)
 - BreCanDB - breakpoints in cancer http://brecandb.igib.res.in/ (2015 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702892/)
 - Japanese genome JG1 https://jmorp.megabank.tohoku.ac.jp
-
+* RNAMod - https://bioinformatics.sc.cn/RNAmod/ (2019 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz479/5506862)
 
 # Non-model organisms
 
