@@ -342,6 +342,8 @@ A list of cool jbrowse stuff and links around the web
 - Porcine whipworm http://gasser-research.vet.unimelb.edu.au/ (http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisMale http://gasser-research.vet.unimelb.edu.au/jbrowse/JBrowse-1.11.2/index.html?data=TsuisFemale)
 - Tuberculosis vaccine http://crdd.osdd.net/raghava/mtbveb/strain.php?strain=M_avium_K-10
 - RPFdb riboseq http://sysbio.gzzoc.com/rpfdb/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324049/)
+- Rotifers http://rotifer.skku.edu:8080/ (2019 pub https://www.researchgate.net/profile/Jae_Seong_Lee2/publication/331423467_The_genome_of_the_marine_monogonont_rotifer_Brachionus_plicatilis_Genome-wide_expression_profiles_of_28_cytochrome_P450_genes_in_response_to_chlorpyrifos_and_2-ethyl-phenanthrene/links/5cf4d7d4a6fdcc84750028ab/The-genome-of-the-marine-monogonont-rotifer-Brachionus-plicatilis-Genome-wide-expression-profiles-of-28-cytochrome-P450-genes-in-response-to-chlorpyrifos-and-2-ethyl-phenanthrene.pdf)
+
 
 # Workflows/platforms/concepts
 
