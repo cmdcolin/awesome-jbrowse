@@ -194,6 +194,7 @@ A list of cool jbrowse stuff and links around the web
 - Cool Season Food Legume https://www.coolseasonfoodlegume.org/
 - Chickpea SNP InDel http://cegresources.icrisat.org/cicarvardb/
 - Soybean STTM hub https://blossom.ffr.mtu.edu/designindex2.php (2017 MS thesis https://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1553&context=etdr)
+- WildSoyDB http://www.wildsoydb.org/Gsoja_W05/ (2019 pub https://www.ncbi.nlm.nih.gov/pubmed/30872580)
 
 ### Fruit
 
