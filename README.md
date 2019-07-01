@@ -287,6 +287,7 @@ A list of cool jbrowse stuff and links around the web
 - Maca http://maca.eplant.org/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195103/)
 - Adzuki bean+Mung bean http://plantgenomics.snu.ac.kr/mediawiki-1.21.3/index.php/Main_Page
 - Tea http://tpia.teaplant.org/
+- SpinachBase http://spinachbase.org/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6580994/)
 
 ## Microbes/fungus
 
