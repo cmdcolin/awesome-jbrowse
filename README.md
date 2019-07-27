@@ -45,6 +45,7 @@ A list of cool jbrowse stuff and links around the web
 - ApaDB (alternative polyadenylation) human, mouse chicken http://tools.genxpro.net/apadb/ (2014 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105710/)
 - ReproGenomicsViewer (RGV) http://rgv.genouest.org/ (example instance http://rgv.genouest.org/jbrowse/?data=sample_data%2Fjson%2FHuman%2Fhg19%2F&loc=chr1%3A99685667..149535791&tracks=DNA&highlight=)
 - YeasTSS - yeast transcription start sites http://www.yeastss.org/ (2018 pub https://www.biorxiv.org/content/early/2019/01/03/511477)
+- the database for imperfect interspersed mtDNA repeats annotation http://bioinfodbs.kantiana.ru/ImtRDB/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6614062/)
 
 
 # Human
