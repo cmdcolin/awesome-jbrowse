@@ -315,6 +315,7 @@ A list of cool jbrowse stuff and links around the web
 - LeptoDB https://www.leptonet.org.in/ (2018 pub https://academic.oup.com/database/article/doi/10.1093/database/bay057/5037030)
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR
 - EnteroBase - multiple species  - https://enterobase.warwick.ac.uk/ (2019 pub https://www.biorxiv.org/content/10.1101/613554v1)
+- Salmonella NusG-Rho study http://salmonella.cnrs-orleans.fr/NusG-Rho/
 
 ### Fungus
 
