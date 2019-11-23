@@ -122,6 +122,7 @@ A list of cool jbrowse stuff and links around the web
 - Tardigrade http://kumamushi.org/jbrowse/?data=947166&loc=BDGG01000001.1%3A1..800&tracks=DNA%2Ccds%2Ctrna%2Crrna&highlight=
 - Planarian dugesia japonica http://www.planarian.jp/ (2018 pub https://link.springer.com/article/10.1186/s40851-018-0102-2)
 - Bombyx mori (silkworm) http://silkbase.ab.a.u-tokyo.ac.jp/cgi-bin/index.cgi
+- SCNBase (soybean nematode) https://scnbase.org/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853641/)
 
 ### Insects
 
@@ -248,6 +249,7 @@ A list of cool jbrowse stuff and links around the web
 - Maize database aMaizing - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Amaizing/Private
 - ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
 - MODEM multi-omics http://modem.hzau.edu.cn/
+- MGR http://maize.plantbiology.msu.edu/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6850026/)
 
 ### Sweet potato
 
