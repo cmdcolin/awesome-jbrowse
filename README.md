@@ -124,7 +124,7 @@ A list of cool jbrowse stuff and links around the web
 - Planarian dugesia japonica http://www.planarian.jp/ (2018 pub https://link.springer.com/article/10.1186/s40851-018-0102-2)
 - Bombyx mori (silkworm) http://silkbase.ab.a.u-tokyo.ac.jp/cgi-bin/index.cgi
 - SCNBase (soybean nematode) https://scnbase.org/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853641/)
-- Trypanosoma brucei http://hank.bio.ed.ac.uk/gRNA/JBrowse-1.16.3/?data=public_data&loc=Tba6ed_v1%3A328..491&tracks=&highlight=  (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868439/)
+
 
 ### Insects
 
@@ -336,6 +336,7 @@ A list of cool jbrowse stuff and links around the web
 - GeneDB (plasmodium, trypaosoma) http://www.genedb.org/Page/jbrowse
 - LeishDB http://www.leishdb.com/ (instance http://www.leishdb.com/browser)
 - PamulDB parasite of animals https://biodb.swu.edu.cn/pamuldb/ (2019 pub https://academic.oup.com/database/article/doi/10.1093/database/baz025/5363829)
+- Trypanosoma brucei http://hank.bio.ed.ac.uk/gRNA/JBrowse-1.16.3/?data=public_data&loc=Tba6ed_v1%3A328..491&tracks=&highlight=  (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868439/)
 
 ### Other
 
