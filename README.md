@@ -164,6 +164,7 @@ A list of cool jbrowse stuff and links around the web
 - IC4R rice http://ic4r.org/ (instance http://visual.ic4r.org/view/?loc=1:2984..10815&tracklist=1&overview=0)
 - Kitbase http://kitbase.ucdavis.edu/link.html
 - RicyerDB http://server.malab.cn/Ricyer/
+- RAP-DB https://rapdb.dna.affrc.go.jp/
 
 
 ### Trees
