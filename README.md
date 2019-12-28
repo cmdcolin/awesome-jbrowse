@@ -165,7 +165,7 @@ A list of cool jbrowse stuff and links around the web
 - Kitbase http://kitbase.ucdavis.edu/link.html
 - RicyerDB http://server.malab.cn/Ricyer/
 - RAP-DB https://rapdb.dna.affrc.go.jp/
-
+- Rice stress resistance DB http://bioinformatics.fafu.edu.cn/RSRS/ (2019 pub https://link.springer.com/article/10.1186/s12284-019-0356-0)
 
 ### Trees
 
@@ -294,6 +294,7 @@ A list of cool jbrowse stuff and links around the web
 - Adzuki bean+Mung bean http://plantgenomics.snu.ac.kr/mediawiki-1.21.3/index.php/Main_Page
 - Tea http://tpia.teaplant.org/
 - SpinachBase http://spinachbase.org/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6580994/)
+- JCDB jatropha curcas http://jcdb.xtbg.ac.cn/ (2019 pub https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6356-z)
 
 ## Microbes/fungus
 
