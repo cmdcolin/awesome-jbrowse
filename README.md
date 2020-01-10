@@ -253,6 +253,7 @@ A list of cool jbrowse stuff and links around the web
 - ProFITS (maize signal transduction) http://bioinfo.cau.edu.cn/ProFITS/
 - MODEM multi-omics http://modem.hzau.edu.cn/
 - MGR http://maize.plantbiology.msu.edu/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6850026/)
+- MaizeGDB - https://jbrowse.maizegdb.org/
 
 ### Sweet potato
 
