@@ -48,6 +48,8 @@ A list of cool jbrowse stuff and links around the web
 - the database for imperfect interspersed mtDNA repeats annotation http://bioinfodbs.kantiana.ru/ImtRDB/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6614062/)
 - ENdb - Human and mouse enhancer http://www.licpathway.net/ENdb/ (2019 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz973/5608998)
 - tRFExplorer (tRNA derived ncRNAs) https://trfexplorer.cloud/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6859256/)
+- ChipSummitDB - http://summit.med.unideb.hu/summitdb/ (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6964213/)
+- Yeast histone http://geneart.med.unideb.hu/jbrowse/ (2020 pub, requires login see paper for login https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970188/)
 
 # Human
 
