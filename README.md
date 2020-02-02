@@ -212,7 +212,7 @@ A list of cool jbrowse stuff and links around the web
 - GDR Genome Database for Rosaceae (strawberry, rose, peach, apple, grape) https://www.rosaceae.org/ (instances https://www.rosaceae.org/tools/jbrowse
 - Rosaceae transposons RPTEdb http://genedenovoweb.ticp.net:81/RPTEdb/ (2018 pub https://link.springer.com/article/10.1007/s00438-018-1449-y)
 - Cucumber, melon http://cucurbitgenomics.org/ (instance http://cucurbitgenomics.org/JBrowse/?data=icugi_data/json/cucumber_v2&tracks=DNA,genes)
-- Melon http://www.melonomics.net/melonomics.html#/
+- Melon http://www.melonomics.net/ (2020 pub https://www.frontiersin.org/articles/10.3389/fpls.2019.01815/full)
 - Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
 - Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
 - Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
