@@ -327,6 +327,7 @@ A list of cool jbrowse stuff and links around the web
 - Database of prokaryotic operons http://csbl.bmb.uga.edu/DOOR
 - EnteroBase - multiple species  - https://enterobase.warwick.ac.uk/ (2019 pub https://www.biorxiv.org/content/10.1101/613554v1)
 - Salmonella NusG-Rho study http://salmonella.cnrs-orleans.fr/NusG-Rho/
+- Staphylococcus http://rnamaps.unavarra.es/ (2020 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa047/5722047)
 
 ### Fungus
 
