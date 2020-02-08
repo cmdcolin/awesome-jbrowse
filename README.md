@@ -101,6 +101,7 @@ A list of cool jbrowse stuff and links around the web
 - Goat alternative splicing - http://xufeng.ngrok.xiaomiqiu.cn/jbrowser/JBrowse-1.12.3/index.html?data=goat&loc=NC_005044.2%3A1206.1408&tracks=goat_AS_gtf%2CTotal.bed%2CGenes.bed&highlight= (2018 pub https://www.nature.com/articles/s41598-018-33078-7)
 - Domestic dog + wild relatives http://bigd.big.ac.cn/idog/  (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1041/5146205)
 - Macaque - registration required https://mgap.ohsu.edu/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402181/)
+- ASlive - Alternative splicing in livestock  (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6993437/)
 
 ## Fish
 
