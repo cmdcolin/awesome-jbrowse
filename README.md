@@ -169,6 +169,7 @@ A list of cool jbrowse stuff and links around the web
 - RicyerDB http://server.malab.cn/Ricyer/
 - RAP-DB https://rapdb.dna.affrc.go.jp/
 - Rice stress resistance DB http://bioinformatics.fafu.edu.cn/RSRS/ (2019 pub https://link.springer.com/article/10.1186/s12284-019-0356-0)
+- Rice Relatives http://ibi.zju.edu.cn/ricerelativesgd/about.php
 
 ### Trees
 
