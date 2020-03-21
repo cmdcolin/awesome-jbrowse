@@ -170,6 +170,7 @@ A list of cool jbrowse stuff and links around the web
 - RAP-DB https://rapdb.dna.affrc.go.jp/
 - Rice stress resistance DB http://bioinformatics.fafu.edu.cn/RSRS/ (2019 pub https://link.springer.com/article/10.1186/s12284-019-0356-0)
 - Rice Relatives http://ibi.zju.edu.cn/ricerelativesgd/about.php
+- ROOTOmics https://rootomics.dna.affrc.go.jp/en/research/IR64
 
 ### Trees
 
@@ -273,6 +274,7 @@ A list of cool jbrowse stuff and links around the web
 - SpirodelaBase http://sviridis.org/jbrowse
 - Coffee - http://coffee-genome.org/jbrowse
 - Cassava https://www.cassavagenome.org/?q=page/jbrowse-public
+- Cucumber alternative splicing CuAS http://cmb.bnu.edu.cn/alt_iso/index.php
 - Cocoa http://cocoa-genome-hub.southgreen.fr/genome-browser
 - Amborella http://amborella.huck.psu.edu/fish
 - MarpolBase http://marchantia.info/
