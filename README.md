@@ -102,6 +102,7 @@ A list of cool jbrowse stuff and links around the web
 - Domestic dog + wild relatives http://bigd.big.ac.cn/idog/  (2018 pub https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1041/5146205)
 - Macaque - registration required https://mgap.ohsu.edu/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402181/)
 - ASlive - Alternative splicing in livestock  (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6993437/)
+- iMarmot http://www.marmotdb.org/ (2020 pub https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6697-7)
 
 ## Fish
 
