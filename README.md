@@ -164,7 +164,6 @@ A list of cool jbrowse stuff and links around the web
 
 - Rice https://ricebase.org (instance https://ricebase.org/jbrowse_ricebase/current/?data=data&loc=Chr1%3A17307555..25961739&tracks=&highlight=)
 - Rice SNP-seek http://snp-seek.irri.org/_jbrowse.zul;jsessionid=E05C5B42EB5BE438C189E7CF13B9ACB3?tracks=DNA,msu7gff,msu7snpsv2,msu7indelsv2
-- 3k rice db http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF&loc=chr01%3A17309567..25963751&highlight=
 - IC4R rice http://ic4r.org/ (instance http://visual.ic4r.org/view/?loc=1:2984..10815&tracklist=1&overview=0)
 - Kitbase http://kitbase.ucdavis.edu/link.html
 - RicyerDB http://server.malab.cn/Ricyer/
