@@ -172,6 +172,7 @@ A list of cool jbrowse stuff and links around the web
 - Rice stress resistance DB http://bioinformatics.fafu.edu.cn/RSRS/ (2019 pub https://link.springer.com/article/10.1186/s12284-019-0356-0)
 - Rice Relatives http://ibi.zju.edu.cn/ricerelativesgd/about.php
 - ROOTOmics https://rootomics.dna.affrc.go.jp/en/research/IR64
+- RPAN Rice Pangenome Browser http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF&loc=chr01%3A13229501..13876500&highlight= (2017 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314802/)
 
 ### Trees
 
