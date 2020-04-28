@@ -220,6 +220,7 @@ A list of cool jbrowse stuff and links around the web
 - Peach-VarDB http://hpc-bioinformatics.cineca.it/peach/main
 - Banana http://banana-genome-hub.southgreen.fr/jbrowse_ma2
 - Grape - https://urgi.versailles.inra.fr/jbrowse/gmod_jbrowse/?data=myData/Vitis/data_gff
+- Grape - https://www6.bordeaux-aquitaine.inrae.fr/egfv/Toutes-les-actualites/Genome-browser-RGM
 - Wine grape & related - http://cantulab.github.io/data.html (2019 pub https://www.g3journal.org/content/9/5/1331)
 - Apple genome/epigenome https://iris.angers.inra.fr/gddh13/
 - DBcherry http://cherry.kazusa.or.jp/
