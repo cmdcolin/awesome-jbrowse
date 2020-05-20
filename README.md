@@ -103,6 +103,7 @@ A list of cool jbrowse stuff and links around the web
 - Macaque - registration required https://mgap.ohsu.edu/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402181/)
 - ASlive - Alternative splicing in livestock  (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6993437/)
 - iMarmot http://www.marmotdb.org/ (2020 pub https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6697-7)
+- Cat genome https://cat.annotation.jp/ (2020 preprint https://www.biorxiv.org/content/10.1101/2020.05.19.103788v1)
 
 ## Fish
 
