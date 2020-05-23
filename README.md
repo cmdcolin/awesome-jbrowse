@@ -254,6 +254,7 @@ A list of cool jbrowse stuff and links around the web
 - PlaNC-TE (non-coding and TE) http://planc-te.cp.utfpr.edu.br/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146122/)
 - PlantPAN http://plantpan.itps.ncku.edu.tw/
 - Plant co-expression DB https://www.machado.cnptia.embrapa.br/plantannot (demo https://www.machado.cnptia.embrapa.br/plantannot/feature/?feature_id=18243946)
+- PepperPan (pepper pan genome browser) http://www.pepperpan.org:8012/jbrowse/?data=data%2Fpan&loc=
 
 ### Maize
 
