@@ -243,7 +243,7 @@ A list of cool jbrowse stuff and links around the web
 - PlantMethylome - http://epigenome.genetics.uga.edu/PlantMethylome/
 - Phytozome - https://phytozome.jgi.doe.gov/ (instances https://phytozome.jgi.doe.gov/jbrowse/index.html)
 - Plant Small RNA genes http://plantsmallrnagenes.science.psu.edu/
-- PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse)
+- PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse
 - Plant DHS (dnase hypersensitive sites) http://plantdhs.org/
 - PlaBi (potato, A. thaliana, sugarbeet, brassica napus) http://www.plabipd.de/
 - PlantCircNet circular RNAs http://bis.zju.edu.cn/plantcircnet/index.php
@@ -253,6 +253,7 @@ A list of cool jbrowse stuff and links around the web
 - PlantAPA - http://bmi.xmu.edu.cn/plantapa/help.php (2016 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4914594/)
 - PlaNC-TE (non-coding and TE) http://planc-te.cp.utfpr.edu.br/ (2018 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146122/)
 - PlantPAN http://plantpan.itps.ncku.edu.tw/
+- Plant co-expression DB https://www.machado.cnptia.embrapa.br/plantannot (demo https://www.machado.cnptia.embrapa.br/plantannot/feature/?feature_id=18243946)
 
 ### Maize
 
