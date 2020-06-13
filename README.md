@@ -50,6 +50,7 @@ A list of cool jbrowse stuff and links around the web
 - tRFExplorer (tRNA derived ncRNAs) https://trfexplorer.cloud/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6859256/)
 - ChipSummitDB - http://summit.med.unideb.hu/summitdb/ (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6964213/)
 - Yeast histone http://geneart.med.unideb.hu/jbrowse/ (2020 pub, requires login see paper for login https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970188/)
+- Structurome https://structurome.bb.iastate.edu/ (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263510/ https://structurome.bb.iastate.edu/jbrowse/)
 
 # Human
 
@@ -308,6 +309,7 @@ A list of cool jbrowse stuff and links around the web
 - Tea http://tpia.teaplant.org/
 - SpinachBase http://spinachbase.org/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6580994/)
 - JCDB jatropha curcas http://jcdb.xtbg.ac.cn/ (2019 pub https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6356-z)
+- Mandarin https://mikan.dna.affrc.go.jp/ (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7272249/)
 
 ## Microbes/fungus
 
