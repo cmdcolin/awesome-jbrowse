@@ -226,6 +226,7 @@ A list of cool jbrowse stuff and links around the web
 - Wine grape & related - http://cantulab.github.io/data.html (2019 pub https://www.g3journal.org/content/9/5/1331)
 - Apple genome/epigenome https://iris.angers.inra.fr/gddh13/
 - DBcherry http://cherry.kazusa.or.jp/
+- Kiwi http://kiwifruitgenome.org/ (2020 pub https://www.nature.com/articles/s41438-020-0338-9)
 
 ### Tomato+related
 
