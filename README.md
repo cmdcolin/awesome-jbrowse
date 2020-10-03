@@ -235,6 +235,12 @@ A list of cool jbrowse stuff and links around the web
 - DeenaBio http://jbrowse.deenabio.com/?data=data%2FSolanum_lycopersicum_V2.50%2F&loc=SL2.50ch01%3A1680396..1680447&tracks=ITAG2.4_gene_models%2CDNA%2C360_genomes_SNPs%2Cspecific%2Cnon-specific%2Csuperfamily%2Cmulti-domains%2Cconserved_sites&highlight=
 - Tomatomics http://bioinf.mind.meiji.ac.jp/tomatomics/
 
+
+### Tomato
+
+- SpudDB http://solanaceae.plantbiology.msu.edu/
+
+
 ### Cotton
 
 - CottenGen http://www.cottongen.org/
@@ -242,7 +248,7 @@ A list of cool jbrowse stuff and links around the web
 
 ### Multiple species
 
-- PlantMethylome - http://epigenome.genetics.uga.edu/PlantMethylome/
+- PlantMethylome and PlantEpigenome- http://epigenome.genetics.uga.edu/PlantMethylome/ and http://epigenome.genetics.uga.edu/PlantEpigenome/index.html
 - Phytozome - https://phytozome.jgi.doe.gov/ (instances https://phytozome.jgi.doe.gov/jbrowse/index.html)
 - Plant Small RNA genes http://plantsmallrnagenes.science.psu.edu/
 - PlantGenIE http://plantgenie.org/ (instance http://popgenie.org/jbrowse
