@@ -236,7 +236,7 @@ A list of cool jbrowse stuff and links around the web
 - Tomatomics http://bioinf.mind.meiji.ac.jp/tomatomics/
 
 
-### Tomato
+### Potato
 
 - SpudDB http://solanaceae.plantbiology.msu.edu/
 
