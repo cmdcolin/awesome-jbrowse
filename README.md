@@ -52,6 +52,7 @@ A list of cool jbrowse stuff and links around the web
 - Yeast histone http://geneart.med.unideb.hu/jbrowse/ (2020 pub, requires login see paper for login https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970188/)
 - Structurome https://structurome.bb.iastate.edu/ (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263510/ https://structurome.bb.iastate.edu/jbrowse/)
 - Transposons (TRAdis-vault) https://qfab.org/biodata/high-performance-computing 
+- MethBank https://bigd.big.ac.cn/methbank/jbrowse
 
 # Human
 
