@@ -319,6 +319,7 @@ A list of cool jbrowse stuff and links around the web
 - SpinachBase http://spinachbase.org/ (2019 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6580994/)
 - JCDB jatropha curcas http://jcdb.xtbg.ac.cn/ (2019 pub https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6356-z)
 - Mandarin https://mikan.dna.affrc.go.jp/ (2020 pub https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7272249/)
+- Lolium https://ics.hutton.ac.uk/jbrowse/lolium/
 
 ## Microbes/fungus
 
